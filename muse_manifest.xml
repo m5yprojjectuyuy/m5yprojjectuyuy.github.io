@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607609654601">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607554628259">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="live.css" crc="22560752" ref="live"/>
-    <file name="index.css" crc="3844601450" ref="index"/>
+    <file name="index.css" crc="4264999929" ref="index"/>
+    <file name="live.css" crc="3794128829" ref="live"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live"/>
@@ -106,25 +106,22 @@
       <caption webpage="live" alt=""/>
     </file>
     <file name="скругление прав ниж_poster_.png" crc="4240727963" ref="live"/>
-    <file name="уоткинс 8.jpg" crc="4101593288" seo="true" ref="live">
-      <caption webpage="live" alt=""/>
-    </file>
     <file name="уоткинс (4).jpg" crc="4237383752" seo="true" ref="live">
-      <caption webpage="live" alt=""/>
-    </file>
-    <file name="нью-йорк-9.jpg" crc="3947888258" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="нью-йорк-7.jpg" crc="124121566" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
+    <file name="нью-йорк-9.jpg" crc="3947888258" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
     <file name="кыштым 1.jpg" crc="337845874" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="грузя-1.jpg" crc="289590724" seo="true" ref="live">
+    <file name="грузия.jpg" crc="4169547835" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="грузия.jpg" crc="4169547835" seo="true" ref="live">
+    <file name="грузя-1.jpg" crc="289590724" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="алушта-(3).jpg" crc="248962055" seo="true" ref="live">
@@ -143,6 +140,6 @@
       <caption webpage="live" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4166371885" seo="true" mt="1607605274647" redirect="true"/>
-  <file name="live.html" crc="302946040" seo="true" mt="1607609637122" redirect="true"/>
+  <file name="index.html" crc="4244743203" seo="true" redirect="true"/>
+  <file name="live.html" crc="3897278906" seo="true" mt="1607554609904" redirect="true"/>
 </manifest>

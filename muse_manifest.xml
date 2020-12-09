@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607567079947">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607557110133">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="134464072" ref="index"/>
+    <file name="index.css" crc="4164538267" ref="index"/>
     <file name="photoblog.css" crc="518108129" ref="photoblog"/>
   </folder>
   <folder name="scripts">
@@ -58,10 +58,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="инстагр_poster_.png" crc="108135731" ref="index"/>
-    <file name="telegram-svg.svg" crc="247414684" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="telegram svg_poster_.png" crc="3983361583" ref="index"/>
     <file name="gmail-4.svg" crc="336301288" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -133,6 +129,6 @@
       <caption webpage="photoblog" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4195142274" seo="true" redirect="true"/>
-  <file name="photoblog.html" crc="170465730" seo="true" mt="1607566978711" redirect="true"/>
+  <file name="index.html" crc="367056196" seo="true" mt="1607557061146" redirect="true"/>
+  <file name="photoblog.html" crc="170465730" seo="true" mt="1607556813468" redirect="true"/>
 </manifest>

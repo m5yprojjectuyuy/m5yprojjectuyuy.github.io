@@ -18,6 +18,16 @@
 
 
  <script>
+$(document).on('submit', 'form[data-pjax]', function(event) {
+  $.pjax.submit(event, '#pjax-container')
+})
+</script>
+
+ <script>
+$.pjax.reload('#pjax-container', options)
+</script>
+
+ <script>
  $(document).pjax('a', '#pjax-container')
 </script>
 

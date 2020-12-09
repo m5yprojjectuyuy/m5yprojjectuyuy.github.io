@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607554494505">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607554984680">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="stream.css" crc="4123231598" ref="stream"/>
-    <file name="index.css" crc="3831344649" ref="index"/>
+    <file name="index.css" crc="3842364709" ref="index"/>
     <file name="live.css" crc="3827524709" ref="live"/>
   </folder>
   <folder name="scripts">
@@ -32,13 +32,13 @@
     <file name="zastavka-nasty.jpg" crc="300581221" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="скрепка 2.png" crc="65614404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="бабочки-а-1.svg" crc="4283562859" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="бабочки а 1_poster_.png" crc="4240484938" ref="index"/>
-    <file name="скрепка 2.png" crc="208637894" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="шарик.gif" crc="235075892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -235,7 +235,7 @@
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
   </folder>
-  <file name="index.html" crc="434303098" seo="true" mt="1607554422696" redirect="true"/>
+  <file name="index.html" crc="3763671043" seo="true" mt="1607554933121" redirect="true"/>
   <file name="live.html" crc="182462384" seo="true" redirect="true"/>
   <file name="stream.html" crc="142939829" seo="true" mt="1607549167150" redirect="true"/>
 </manifest>

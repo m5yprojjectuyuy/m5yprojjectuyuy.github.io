@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607593016327">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607554538194">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="4050360065" ref="index"/>
-    <file name="stream.css" crc="256113228" ref="stream"/>
-    <file name="live.css" crc="4027166629" ref="live"/>
+    <file name="live.css" crc="3803625678" ref="live"/>
+    <file name="stream.css" crc="278549860" ref="stream"/>
+    <file name="index.css" crc="4244919035" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -84,6 +84,10 @@
       <caption webpage="live" alt=""/>
     </file>
     <file name="live надпись_poster_.png" crc="144828513" ref="live"/>
+    <file name="кисть-мазок-3.svg" crc="114495190" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="кисть мазок 3_poster_.png" crc="353332285" ref="live"/>
     <file name="путешествие.gif" crc="3898620689" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
@@ -118,6 +122,10 @@
     <file name="уоткинс (4).jpg" crc="4243826066" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
+    <file name="кисть-мазок-5.svg" crc="68565715" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="кисть мазок 5_poster_.png" crc="485482723" ref="live"/>
     <file name="times-sq-3.jpg" crc="204959426" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
@@ -198,7 +206,7 @@
     </file>
     <file name="reactjs - значок_poster_.png" crc="4258840481" ref="stream"/>
   </folder>
-  <file name="index.html" crc="250339452" seo="true" mt="1607592649617" redirect="true"/>
-  <file name="live.html" crc="301280558" seo="true" mt="1607576478508" redirect="true"/>
-  <file name="stream.html" crc="295467864" seo="true" mt="1607592958934" redirect="true"/>
+  <file name="index.html" crc="4133040808" seo="true" mt="1607553425818" redirect="true"/>
+  <file name="live.html" crc="489717433" seo="true" mt="1607554327840" redirect="true"/>
+  <file name="stream.html" crc="3771181480" seo="true" redirect="true"/>
 </manifest>

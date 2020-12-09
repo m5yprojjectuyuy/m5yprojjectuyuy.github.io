@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607554092062">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607552939927">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="stream.css" crc="30970457" ref="stream"/>
-    <file name="live.css" crc="509235185" ref="live"/>
-    <file name="index.css" crc="104508865" ref="index"/>
+    <file name="index.css" crc="56896769" ref="index"/>
+    <file name="stream.css" crc="461079337" ref="stream"/>
+    <file name="live.css" crc="3785824369" ref="live"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -29,16 +29,16 @@
     <file name="кружок мигает.gif" crc="520195321" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="zastavka-nasty.jpg" crc="270732382" seo="true" ref="index">
+    <file name="бабочки-а-1.svg" crc="4283562859" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="бабочки а 1_poster_.png" crc="4240484938" ref="index"/>
+    <file name="zastavka-nasty.png" crc="4269861425" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="скрепка 4.png" crc="4241857174" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="бабочки-а-1.svg" crc="4283562859" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="бабочки а 1_poster_.png" crc="4240484938" ref="index"/>
     <file name="шарик.gif" crc="235075892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -232,7 +232,7 @@
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
   </folder>
-  <file name="index.html" crc="4200011680" seo="true" mt="1607553617483" redirect="true"/>
-  <file name="live.html" crc="413355576" seo="true" redirect="true"/>
-  <file name="stream.html" crc="224248734" seo="true" mt="1607554048645" redirect="true"/>
+  <file name="index.html" crc="67629394" seo="true" mt="1607552855221" redirect="true"/>
+  <file name="live.html" crc="57124456" seo="true" redirect="true"/>
+  <file name="stream.html" crc="3840878260" seo="true" redirect="true"/>
 </manifest>

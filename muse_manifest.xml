@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607552439142">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607554136667">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="live.css" crc="287554944" ref="live"/>
+    <file name="live.css" crc="4145849174" ref="live"/>
     <file name="index.css" crc="255331182" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -141,5 +141,5 @@
     </file>
   </folder>
   <file name="index.html" crc="4008705098" seo="true" mt="1607552419576" redirect="true"/>
-  <file name="live.html" crc="4193206370" seo="true" mt="1607552255317" redirect="true"/>
+  <file name="live.html" crc="439265567" seo="true" mt="1607553935383" redirect="true"/>
 </manifest>

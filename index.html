@@ -6,7 +6,18 @@
    <script  type="text/javascript" src="/pjax/jquery.pjax.js"></script>
    <script  type="text/javascript" src="/pjax/pjax.js"></script>
 
- </script>
+ <script>
+   if ($.support.pjax) {
+     $(document).on('click', 'a[data-pjax]', function(event) {
+       var container = $(this).closest('[data-pjax-container]')
+       var containerSelector = '#' + container.id
+       $.pjax.click(event, {container: containerSelector})
+     })
+   }
+</script>
+
+
+ <script>
  $(document).pjax('a', '#pjax-container')
 </script>
 

@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607552735750">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607553121274">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3884046305" ref="index"/>
+    <file name="index.css" crc="276571945" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,10 +20,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="полоска 3_poster_.png" crc="122172599" ref="index"/>
-    <file name="рисунок-цветы-орнамент.svg" crc="130806015" seo="true" ref="index">
+    <file name="рисунок-цветы-b---2.svg" crc="38868011" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="рисунок цветы орнамент_poster_.png" crc="4043048920" ref="index"/>
+    <file name="рисунок цветы b - 2_poster_.png" crc="3797440693" ref="index"/>
     <file name="текст-2.svg" crc="277493176" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -37,6 +37,10 @@
     <file name="шарик.gif" crc="235075892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="рисунок-цветы-a---1.svg" crc="390661886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="рисунок цветы a - 1_poster_.png" crc="85320947" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="telegram-svg.svg" crc="247414684" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -59,5 +63,5 @@
     </file>
     <file name="апле_poster_.png" crc="491940012" ref="index"/>
   </folder>
-  <file name="index.html" crc="265713378" seo="true" mt="1607552704240" redirect="true"/>
+  <file name="index.html" crc="455345546" seo="true" mt="1607553098584" redirect="true"/>
 </manifest>

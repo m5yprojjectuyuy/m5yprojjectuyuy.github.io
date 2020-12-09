@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607586697171">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607550169820">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="152163513" ref="index"/>
+    <file name="index.css" crc="3958501798" ref="index"/>
     <file name="photos.css" crc="361399798" ref="photos"/>
   </folder>
   <folder name="assets">
@@ -41,6 +41,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="бабочки а 1_poster_.png" crc="4240484938" ref="index"/>
+    <file name="inspiration---текст.svg" crc="284166166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inspiration - текст_poster_.png" crc="4259552946" ref="index"/>
+    <file name="charm---текст.svg" crc="3828391581" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="charm - текст_poster_.png" crc="3974907938" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="инстагр.svg" crc="4067486096" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -68,6 +76,6 @@
     </file>
     <file name="настя лицо образ_poster_.png" crc="4113318232" ref="photos"/>
   </folder>
-  <file name="index.html" crc="4121109698" seo="true" mt="1607586687256" redirect="true"/>
-  <file name="photos.html" crc="3758998025" seo="true" mt="1607753602909" redirect="true"/>
+  <file name="index.html" crc="3907976268" seo="true" mt="1607550143730" redirect="true"/>
+  <file name="photos.html" crc="3758998025" seo="true" redirect="true"/>
 </manifest>

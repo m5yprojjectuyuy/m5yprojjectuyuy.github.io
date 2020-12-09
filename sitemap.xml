@@ -28,6 +28,12 @@
       <image:loc>http://Nastie.ml/images/%D0%B1%D0%B0%D0%B1%D0%BE%D1%87%D0%BA%D0%B8-%D0%B0-1.svg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://Nastie.ml/images/inspiration---%D1%82%D0%B5%D0%BA%D1%81%D1%82.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Nastie.ml/images/charm---%D1%82%D0%B5%D0%BA%D1%81%D1%82.svg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://Nastie.ml/images/%D0%B8%D0%BD%D1%81%D1%82%D0%B0%D0%B3%D1%80.svg</image:loc>
     </image:image>
     <image:image>
@@ -45,7 +51,7 @@
   </url>
   <url>
     <loc>http://Nastie.ml/photos.html</loc>
-    <lastmod>2020-12-12</lastmod>
+    <lastmod>2020-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

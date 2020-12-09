@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607568746921">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607547975813">
   <folder name="css">
     <file name="site_global.css" crc="324807934"/>
-    <file name="story.css" crc="4005747325" ref="story"/>
+    <file name="live.css" crc="4169204656" ref="live"/>
+    <file name="index.css" crc="442779089" ref="index"/>
     <file name="stream.css" crc="4279966603" ref="stream"/>
-    <file name="live.css" crc="393373085" ref="live"/>
-    <file name="index.css" crc="152337209" ref="index"/>
+    <file name="story.css" crc="460019060" ref="story"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream:story"/>
@@ -138,7 +138,7 @@
       <caption webpage="stream" alt=""/>
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
-    <file name="story-favicon.ico" crc="293138087" ref="story"/>
+    <file name="story-favicon.ico" crc="4286553693" ref="story"/>
     <file name="текст-story.svg" crc="4290904049" seo="true" ref="story">
       <caption webpage="story" alt=""/>
     </file>
@@ -252,8 +252,8 @@
       <caption webpage="story" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3789652051" seo="true" mt="1607567743628" redirect="true"/>
-  <file name="live.html" crc="4035318083" seo="true" mt="1607568473963" redirect="true"/>
-  <file name="stream.html" crc="90551619" seo="true" mt="1607560699228" redirect="true"/>
-  <file name="story.html" crc="534597876" seo="true" mt="1607559075932" redirect="true"/>
+  <file name="index.html" crc="4227120535" seo="true" redirect="true"/>
+  <file name="live.html" crc="4219679148" seo="true" redirect="true"/>
+  <file name="stream.html" crc="90551619" seo="true" redirect="true"/>
+  <file name="story.html" crc="129112534" seo="true" redirect="true"/>
 </manifest>

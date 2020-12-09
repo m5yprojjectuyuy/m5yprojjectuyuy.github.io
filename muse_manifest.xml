@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607564123052">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607555863023">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="stream.css" crc="137819180" ref="stream"/>
-    <file name="index.css" crc="3916042463" ref="index"/>
-    <file name="live.css" crc="3785824369" ref="live"/>
+    <file name="index.css" crc="3842364709" ref="index"/>
+    <file name="live.css" crc="3842823080" ref="live"/>
+    <file name="stream.css" crc="4025318200" ref="stream"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -29,7 +29,7 @@
     <file name="кружок мигает.gif" crc="520195321" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="zastavka-nasty.jpg" crc="300581221" seo="true" ref="index">
+    <file name="zastavka-nasty.jpg" crc="190911132" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="скрепка 4.png" crc="4241857174" seo="true" ref="index">
@@ -101,11 +101,11 @@
     <file name="сосновый-бор.jpg" crc="262790054" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="бирка--лейбл--8-7.svg" crc="4069952433" seo="true" ref="live">
+    <file name="бирка--лейбл--8-7.svg" crc="57712802" seo="true" ref="live">
       <caption webpage="live" alt=""/>
       <caption webpage="live" alt=""/>
     </file>
-    <file name="бирка- лейбл 8-7_poster_.png" crc="4290716120" ref="live"/>
+    <file name="бирка- лейбл 8-7_poster_.png" crc="4098344703" ref="live"/>
     <file name="скругление-прав-верх.svg" crc="10381034" seo="true" ref="live">
       <caption webpage="live" alt=""/>
       <caption webpage="live" alt=""/>
@@ -141,7 +141,7 @@
       <caption webpage="live" alt=""/>
     </file>
     <file name="бирка- лейбл 8-8_poster_.png" crc="207294344" ref="live"/>
-    <file name="times-sq-3.jpg" crc="204959426" seo="true" ref="live">
+    <file name="times-sq-4.jpg" crc="4080734722" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="нью-йорк-7.jpg" crc="124121566" seo="true" ref="live">
@@ -227,12 +227,22 @@
       <caption webpage="stream" alt=""/>
     </file>
     <file name="reactjs - значок_poster_.png" crc="4258840481" ref="stream"/>
+    <file name="уголок-другой---1.svg" crc="62264173" seo="true" ref="stream">
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+    </file>
+    <file name="уголок другой - 1_poster_.png" crc="4234463404" ref="stream"/>
+    <file name="уголок-другой---2.svg" crc="267718459" seo="true" ref="stream">
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+    </file>
+    <file name="уголок другой - 2_poster_.png" crc="502780990" ref="stream"/>
     <file name="травка-5.svg" crc="3799209738" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
   </folder>
-  <file name="index.html" crc="3785138789" seo="true" mt="1607551440400" redirect="true"/>
-  <file name="live.html" crc="306726157" seo="true" mt="1607564069409" redirect="true"/>
-  <file name="stream.html" crc="105168756" seo="true" mt="1607560881225" redirect="true"/>
+  <file name="index.html" crc="100855865" seo="true" mt="1607555571217" redirect="true"/>
+  <file name="live.html" crc="529425363" seo="true" redirect="true"/>
+  <file name="stream.html" crc="4202681559" seo="true" mt="1607555797621" redirect="true"/>
 </manifest>

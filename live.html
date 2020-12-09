@@ -12,6 +12,10 @@
   </script>
 
   <script type="text/javascript">
+  document.addEventListener("touchmove", function(e) { e.preventDefault() });
+  </script>
+
+  <script type="text/javascript">
    // Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
@@ -99,6 +103,10 @@ h3 {font-family: 'Jost', sans-serif;}
 
    <script type="text/javascript">
    window.addEventListener("load", function() { window. scrollTo(0, 0); });
+   </script>
+
+   <script type="text/javascript">
+   document.addEventListener("touchmove", function(e) { e.preventDefault() });
    </script>
 
   <!--HTML Widget code-->

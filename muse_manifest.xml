@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607554136667">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607551312913">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="live.css" crc="4145849174" ref="live"/>
-    <file name="index.css" crc="255331182" ref="index"/>
+    <file name="index.css" crc="4079975405" ref="index"/>
+    <file name="live.css" crc="243311586" ref="live"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live"/>
@@ -106,7 +106,7 @@
       <caption webpage="live" alt=""/>
     </file>
     <file name="скругление прав ниж_poster_.png" crc="4240727963" ref="live"/>
-    <file name="уоткинс (4).jpg" crc="4237383752" seo="true" ref="live">
+    <file name="уоткинс (4).jpg" crc="4243826066" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="нью-йорк-7.jpg" crc="124121566" seo="true" ref="live">
@@ -115,6 +115,10 @@
     <file name="нью-йорк-9.jpg" crc="3947888258" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
+    <file name="спираль-скоросшиватель---вариант-2.svg" crc="63072653" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="спираль скоросшиватель - вариант 2_poster_.png" crc="106001040" ref="live"/>
     <file name="кыштым 1.jpg" crc="337845874" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
@@ -140,6 +144,6 @@
       <caption webpage="live" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4008705098" seo="true" mt="1607552419576" redirect="true"/>
-  <file name="live.html" crc="439265567" seo="true" mt="1607553935383" redirect="true"/>
+  <file name="index.html" crc="307561889" seo="true" mt="1607550422724" redirect="true"/>
+  <file name="live.html" crc="347708455" seo="true" mt="1607551264443" redirect="true"/>
 </manifest>

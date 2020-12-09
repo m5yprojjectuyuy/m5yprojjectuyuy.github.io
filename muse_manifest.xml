@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607553115733">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607553469883">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="stream.css" crc="182173231" ref="stream"/>
     <file name="index.css" crc="270580609" ref="index"/>
-    <file name="live.css" crc="179233744" ref="live"/>
+    <file name="live.css" crc="4129587357" ref="live"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -170,6 +170,6 @@
     <file name="stream - надпись_poster_.png" crc="66388488" ref="stream"/>
   </folder>
   <file name="index.html" crc="483223700" seo="true" redirect="true"/>
-  <file name="live.html" crc="4130963153" seo="true" mt="1607552479711" redirect="true"/>
+  <file name="live.html" crc="407301117" seo="true" mt="1607553424854" redirect="true"/>
   <file name="stream.html" crc="119776374" seo="true" redirect="true"/>
 </manifest>

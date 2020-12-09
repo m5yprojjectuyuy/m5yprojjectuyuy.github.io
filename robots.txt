@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 http://nastie.ml/sitemap.xml
-http://nastie.ml/adres_sitemap.xml

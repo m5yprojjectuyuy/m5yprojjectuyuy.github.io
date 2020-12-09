@@ -672,6 +672,13 @@ z-index: 99999999;
     <div class="clearfix colelem" id="pu1110"><!-- group -->
 
 <script type="text/javascript">
+      window.addEventListener("popstate", function(e) {
+          swapPhoto(location.pathname);
+      }, false)
+  </script>
+
+
+<script type="text/javascript">
       var setLoc = function(loc) {
 
       //curLoc = fixEncode(loc.replace(/#(\/|!)?/, ''));

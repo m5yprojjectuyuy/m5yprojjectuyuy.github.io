@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607571216712">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607554092062">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="3842364709" ref="index"/>
-    <file name="live.css" crc="3842823080" ref="live"/>
-    <file name="stream.css" crc="4016866001" ref="stream"/>
+    <file name="stream.css" crc="30970457" ref="stream"/>
+    <file name="live.css" crc="509235185" ref="live"/>
+    <file name="index.css" crc="104508865" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -29,7 +29,7 @@
     <file name="кружок мигает.gif" crc="520195321" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="zastavka-nasty.jpg" crc="190911132" seo="true" ref="index">
+    <file name="zastavka-nasty.jpg" crc="270732382" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="скрепка 4.png" crc="4241857174" seo="true" ref="index">
@@ -232,7 +232,7 @@
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
   </folder>
-  <file name="index.html" crc="100855865" seo="true" mt="1607555571217" redirect="true"/>
-  <file name="live.html" crc="529425363" seo="true" redirect="true"/>
-  <file name="stream.html" crc="4272952694" seo="true" mt="1607571168455" redirect="true"/>
+  <file name="index.html" crc="4200011680" seo="true" mt="1607553617483" redirect="true"/>
+  <file name="live.html" crc="413355576" seo="true" redirect="true"/>
+  <file name="stream.html" crc="224248734" seo="true" mt="1607554048645" redirect="true"/>
 </manifest>

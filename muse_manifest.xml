@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607557277238">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607552442333">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="134464072" ref="index"/>
-    <file name="photoblog.css" crc="240140469" ref="photoblog"/>
+    <file name="index.css" crc="174416764" ref="index"/>
+    <file name="photoblog.css" crc="16439529" ref="photoblog"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photoblog"/>
@@ -79,31 +79,7 @@
       <caption webpage="photoblog" alt=""/>
     </file>
     <file name="photoblog текст_poster_.png" crc="3782462557" ref="photoblog"/>
-    <file name="путешествие.gif" crc="3898620689" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="кыштым 1.jpg" crc="337845874" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="грузия.jpg" crc="4169547835" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="алушта-(3).jpg" crc="269096135" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="алушта (1).jpg" crc="55052970" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="черногория.jpg" crc="127729953" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="феодосия-крым-5.jpg" crc="3810602051" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="животные (1).jpg" crc="258267742" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="4195142274" seo="true" redirect="true"/>
-  <file name="photoblog.html" crc="3988468526" seo="true" mt="1607557251207" redirect="true"/>
+  <file name="index.html" crc="3906600048" seo="true" redirect="true"/>
+  <file name="photoblog.html" crc="92655859" seo="true" mt="1607552417186" redirect="true"/>
 </manifest>

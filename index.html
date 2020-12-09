@@ -6,15 +6,15 @@
  <script  type="text/javascript" src="/pjax/jquery.pjax.js"></script>
 
 
- <script>
+<script type="text/javascript">
 $(document).pjax('a', '#pjax-container')
 </script>
 
- <script>
+<script type="text/javascript">
 $.pjax.defaults.timeout = 1200
 </script>
 
- <script>
+ <script type="text/javascript">
    if ($.support.pjax) {
      $(document).on('click', 'a[data-pjax]', function(event) {
        var container = $(this).closest('[data-pjax-container]')
@@ -25,17 +25,17 @@ $.pjax.defaults.timeout = 1200
 </script>
 
 
- <script>
+<script type="text/javascript">
 $(document).on('submit', 'form[data-pjax]', function(event) {
   $.pjax.submit(event, '#pjax-container')
 })
 </script>
 
- <script>
+<script type="text/javascript">
 $.pjax.reload('#pjax-container', options)
 </script>
 
- <script>
+<script type="text/javascript">
  $(document).pjax('a', '#pjax-container')
 </script>
 

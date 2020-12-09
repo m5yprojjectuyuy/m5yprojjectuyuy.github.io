@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607556827145">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607549592338">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="live.css" crc="64388843" ref="live"/>
     <file name="stream.css" crc="4123231598" ref="stream"/>
-    <file name="index.css" crc="168724238" ref="index"/>
+    <file name="index.css" crc="257615495" ref="index"/>
+    <file name="live.css" crc="3827524709" ref="live"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -29,10 +29,10 @@
     <file name="кружок мигает.gif" crc="520195321" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="zastavka---nasty.jpg" crc="4187035072" seo="true" ref="index">
+    <file name="zastavka nasty.jpg" crc="3984073406" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="скрепка.png" crc="4226658761" seo="true" ref="index">
+    <file name="скрепка.png" crc="4219361258" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="бабочки-а-1.svg" crc="4283562859" seo="true" ref="index">
@@ -134,7 +134,7 @@
       <caption webpage="live" alt=""/>
     </file>
     <file name="бирка- лейбл 8-8_poster_.png" crc="207294344" ref="live"/>
-    <file name="times-sq-4.jpg" crc="4028716693" seo="true" ref="live">
+    <file name="times-sq-3.jpg" crc="204959426" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="нью-йорк-9.jpg" crc="3947888258" seo="true" ref="live">
@@ -204,10 +204,10 @@
       <caption webpage="stream" alt=""/>
     </file>
     <file name="синусоида 1_poster_.png" crc="4133453393" ref="stream"/>
-    <file name="stream---значок-2.svg" crc="341810869" seo="true" ref="stream">
+    <file name="stream---значок-2.svg" crc="179364677" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
-    <file name="stream - значок 2_poster_.png" crc="3776416762" ref="stream"/>
+    <file name="stream - значок 2_poster_.png" crc="3944584370" ref="stream"/>
     <file name="iso-значок.svg" crc="3991145293" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
@@ -235,7 +235,7 @@
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
   </folder>
-  <file name="index.html" crc="426706245" seo="true" redirect="true"/>
-  <file name="live.html" crc="4205406979" seo="true" mt="1607556649269" redirect="true"/>
-  <file name="stream.html" crc="3932129272" seo="true" mt="1607556813739" redirect="true"/>
+  <file name="index.html" crc="4132928389" seo="true" mt="1607549552063" redirect="true"/>
+  <file name="live.html" crc="182462384" seo="true" redirect="true"/>
+  <file name="stream.html" crc="142939829" seo="true" mt="1607549167150" redirect="true"/>
 </manifest>

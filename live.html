@@ -2,17 +2,22 @@
 <html class="nojs html" lang="ru-RU">
  <head>
 
-
    <script type="text/javascript">
-   window.scrollTo(0,1);
-   </script>
+   function toggleFullScreen() {
+     var doc = window.document;
+     var docEl = doc.documentElement;
 
-   <script>
-   var goFS = document.getElementById("goFS");
-   goFS.addEventListener("click", function() {
-      document.body.requestFullScreen();
-   }, false);
-</script>
+     var requestFullScreen = docEl.requestFullscreen || docEl.mozRequestFullScreen || docEl.webkitRequestFullScreen;
+     var cancelFullScreen = doc.exitFullscreen || doc.mozCancelFullScreen || doc.webkitExitFullscreen;
+
+     if(!doc.fullscreenElement && !doc.mozFullScreenElement && !doc.webkitFullscreenElement) {
+       requestFullScreen.call(docEl);
+     }
+     else {
+       cancelFullScreen.call(doc);
+     }
+   }
+   </script>
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="description" content="Welcome to my official site! Here you will find some information about me!"/>
@@ -106,14 +111,20 @@ h3 {font-family: 'Jost', sans-serif;}
  <body>
 
    <script type="text/javascript">
-   window.scrollTo(0,1);
-   </script>
+function toggleFullScreen() {
+  var doc = window.document;
+  var docEl = doc.documentElement;
 
-   <script>
-   var goFS = document.getElementById("goFS");
-   goFS.addEventListener("click", function() {
-      document.body.requestFullScreen();
-   }, false);
+  var requestFullScreen = docEl.requestFullscreen || docEl.mozRequestFullScreen || docEl.webkitRequestFullScreen;
+  var cancelFullScreen = doc.exitFullscreen || doc.mozCancelFullScreen || doc.webkitExitFullscreen;
+
+  if(!doc.fullscreenElement && !doc.mozFullScreenElement && !doc.webkitFullscreenElement) {
+    requestFullScreen.call(docEl);
+  }
+  else {
+    cancelFullScreen.call(doc);
+  }
+}
 </script>
 
   <!--HTML Widget code-->

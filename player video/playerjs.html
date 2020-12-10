@@ -9,7 +9,14 @@
 	  });
 	 <body oncontextmenu="return false;">
     </script>
-		
+
+		<video preload="none" controls controlsList="nodownload">
+		    <source src="<?php echo carbon_get_the_post_meta('crb_video_link'); ?>" type="video/mp4">
+		</video>
+
+
+
+
 		<title></title>
         <meta charset="UTF-8">
         <script src='playerjs.js' type='text/javascript'></script>

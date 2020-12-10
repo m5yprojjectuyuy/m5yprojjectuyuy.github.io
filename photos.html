@@ -18,7 +18,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>PHOTOS</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/photos.css?crc=4180075388" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/photos.css?crc=143976372" id="pagesheet"/>
     <!--custom head HTML-->
   <!-- Chrome, Firefox OS and Opera -->
 <meta name="theme-color" content="#FF0000">
@@ -39,15 +39,39 @@ visibility: visible !important;
 <meta name="viewport" content="user-scalable=no">
  </head>
  <body>
-  <!--HTMdget code-->
 
+  <!--HTML Widget code-->
+
+
+		<style>
+			#video_background {
+				position: fixed;
+				bottom: 0px;
+				right: 0px;
+				min-width: 100%;
+				min-height: 100%;
+				width: auto;
+				height: auto;
+				z-index: -1000;
+				overflow: hidden;
+			}
+
+			#video_pattern {
+				background-image: url( );
+				background-repeat: repeat;
+				position: fixed;
+				opacity: 0.7;
+				left: 0px;
+				top: 0px;
+				width: 100%;
+				height: 100%;
+				z-index: -999;
+			}
+		</style>
 
 		<video id="video_background" preload="auto" autoplay="true" loop muted>
 			<source src="assets/girl-session-2.mp4" type="video/mp4">
 			<source src=" " type="video/webm">
-
-    
-
 			This browser does not support video
 		</video>
 
@@ -65,6 +89,8 @@ visibility: visible !important;
 
 
      </div>
+     <div class="size_fluid_width grpelem" id="u4541" data-sizePolicy="fluidWidth" data-pintopage="page_fluidx"><!-- custom html -->
+     </div>
     </div>
     <div class="clearfix colelem" id="pu3546-8"><!-- group -->
      <div class="clearfix grpelem" id="u3546-8"><!-- content -->
@@ -73,8 +99,6 @@ visibility: visible !important;
      <div class="rounded-corners grpelem" id="u3550"><!-- simple frame --></div>
      <div class="grpelem" id="u3797"><!-- content -->
       <div class="fluid_height_spacer"></div>
-     </div>
-     <div class="size_fluid_width grpelem" id="u4375" data-sizePolicy="fluidWidth" data-pintopage="page_fluidx"><!-- custom html -->
      </div>
      <div class="rounded-corners grpelem" id="u4406"><!-- simple frame --></div>
     </div>

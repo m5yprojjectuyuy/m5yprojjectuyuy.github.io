@@ -1,10 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607564116742">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607569555086">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="417133631" ref="index"/>
-  </folder>
-  <folder name="assets">
-    <file name="lana-(fragment).mp3" crc="3971259011" seo="true" mt="1607562449000"/>
+    <file name="index.css" crc="4239907435" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -62,5 +59,5 @@
     </file>
     <file name="апле_poster_.png" crc="491940012" ref="index"/>
   </folder>
-  <file name="index.html" crc="25145932" seo="true" mt="1607564108608" redirect="true"/>
+  <file name="index.html" crc="4052219050" seo="true" mt="1607569545342" redirect="true"/>
 </manifest>

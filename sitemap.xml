@@ -43,10 +43,4 @@
       <image:loc>http://Nastie.ml/images/%D0%B0%D0%BF%D0%BB%D0%B5.svg</image:loc>
     </image:image>
   </url>
-  <url>
-    <loc>http://Nastie.ml/assets/lana-(fragment).mp3</loc>
-    <lastmod>2020-12-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
 </urlset>

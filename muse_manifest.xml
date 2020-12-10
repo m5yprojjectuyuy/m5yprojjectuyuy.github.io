@@ -1,11 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607556812902">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607581638391">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="160675486" ref="index"/>
-    <file name="photos.css" crc="361399798" ref="photos"/>
+    <file name="index.css" crc="490774303" ref="index"/>
+    <file name="photos.css" crc="3993907518" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="3794366839" seo="true" mt="1607672961000"/>
+    <file name="girl-session-2.mp4" crc="3825687515" seo="true" mt="1607581482000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photos"/>
@@ -71,11 +72,7 @@
     </file>
     <file name="значок фотоаппарата 6_poster_.png" crc="81700275" ref="index"/>
     <file name="photos-favicon.ico" crc="264791417" ref="photos"/>
-    <file name="настя-лицо-образ.svg" crc="3835624241" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="настя лицо образ_poster_.png" crc="4113318232" ref="photos"/>
   </folder>
-  <file name="index.html" crc="326131362" seo="true" mt="1607556804076" redirect="true"/>
-  <file name="photos.html" crc="3758998025" seo="true" redirect="true"/>
+  <file name="index.html" crc="4283640138" seo="true" mt="1607556804076" redirect="true"/>
+  <file name="photos.html" crc="3862771760" seo="true" mt="1607581566832" redirect="true"/>
 </manifest>

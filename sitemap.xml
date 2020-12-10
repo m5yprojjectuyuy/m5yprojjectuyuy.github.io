@@ -54,9 +54,12 @@
     <lastmod>2020-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://Nastie.ml/images/%D0%BD%D0%B0%D1%81%D1%82%D1%8F-%D0%BB%D0%B8%D1%86%D0%BE-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7.svg</image:loc>
-    </image:image>
+  </url>
+  <url>
+    <loc>http://Nastie.ml/assets/girl-session-2.mp4</loc>
+    <lastmod>2020-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://Nastie.ml/assets/kolokol.mp3</loc>

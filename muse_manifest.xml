@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607560943926">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607562485951">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="photoblog.css" crc="3801203460" ref="photoblog"/>
+    <file name="photoblog.css" crc="4124880913" ref="photoblog"/>
     <file name="index.css" crc="492103315" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -85,19 +85,19 @@
     <file name="скругление-прав-верх.svg" crc="10381034" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
-    <file name="скругление прав верх_poster_.png" crc="50095292" ref="photoblog"/>
+    <file name="скругление прав верх_poster_.png" crc="375926554" ref="photoblog"/>
     <file name="скругление-лев-верх.svg" crc="3824610968" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
-    <file name="скругление лев верх_poster_.png" crc="3948787679" ref="photoblog"/>
+    <file name="скругление лев верх_poster_.png" crc="523956865" ref="photoblog"/>
     <file name="скругление-лев-ниж.svg" crc="82011021" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
-    <file name="скругление лев ниж_poster_.png" crc="4032579695" ref="photoblog"/>
+    <file name="скругление лев ниж_poster_.png" crc="4067155936" ref="photoblog"/>
     <file name="скругление-прав-ниж.svg" crc="3871499448" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
-    <file name="скругление прав ниж_poster_.png" crc="3188586" ref="photoblog"/>
+    <file name="скругление прав ниж_poster_.png" crc="4240727963" ref="photoblog"/>
     <file name="нью-йорк-9.jpg" crc="3947888258" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
@@ -113,13 +113,13 @@
     <file name="грузия.jpg" crc="4169547835" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
-    <file name="алушта-(3).jpg" crc="269096135" seo="true" ref="photoblog">
+    <file name="алушта-(3).jpg" crc="248962055" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
     <file name="алушта (1).jpg" crc="55052970" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
-    <file name="черногория.jpg" crc="127729953" seo="true" ref="photoblog">
+    <file name="черногория.jpg" crc="3871041118" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
     <file name="феодосия-крым-5.jpg" crc="3810602051" seo="true" ref="photoblog">
@@ -130,5 +130,5 @@
     </file>
   </folder>
   <file name="index.html" crc="528170421" seo="true" mt="1607557784956" redirect="true"/>
-  <file name="photoblog.html" crc="287236144" seo="true" mt="1607560787062" redirect="true"/>
+  <file name="photoblog.html" crc="27646618" seo="true" mt="1607562407658" redirect="true"/>
 </manifest>

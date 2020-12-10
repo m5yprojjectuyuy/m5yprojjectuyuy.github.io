@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607573047393">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607596517582">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
+    <file name="live.css" crc="4177835435" ref="live"/>
+    <file name="index.css" crc="3805471982" ref="index"/>
     <file name="stream.css" crc="4025318200" ref="stream"/>
-    <file name="index.css" crc="4282213931" ref="index"/>
-    <file name="live.css" crc="161160068" ref="live"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -136,10 +136,10 @@
       <caption webpage="live" alt=""/>
     </file>
     <file name="спираль скоросшиватель - вариант 5 (только низ)_poster_.png" crc="162479144" ref="live"/>
-    <file name="бирка--лейбл--2.svg" crc="170012623" seo="true" ref="live">
+    <file name="бирка--лейбл--2.svg" crc="286496273" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="бирка- лейбл 2_poster_.png" crc="3999497366" ref="live"/>
+    <file name="бирка- лейбл 2_poster_.png" crc="521027099" ref="live"/>
     <file name="нью-йорк-7.jpg" crc="124121566" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
@@ -157,18 +157,20 @@
     <file name="кыштым 1.jpg" crc="337845874" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="бирка--лейбл--6.svg" crc="4220084148" seo="true" ref="live">
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
+    <file name="бирка--лейбл--6.svg" crc="4252331482" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="бирка- лейбл 6_poster_.png" crc="478620518" ref="live"/>
+    <file name="бирка- лейбл 6_poster_.png" crc="4061612600" ref="live"/>
     <file name="грузия.jpg" crc="4169547835" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="грузя-1.jpg" crc="289590724" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
+    <file name="бирка--лейбл--12.svg" crc="4189655772" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="бирка- лейбл 12_poster_.png" crc="4014930524" ref="live"/>
     <file name="алушта-(3).jpg" crc="248962055" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
@@ -189,6 +191,10 @@
     <file name="феодосия-крым-5.jpg" crc="3810602051" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
+    <file name="бирка--лейбл--62.svg" crc="4220084148" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="бирка- лейбл 6_poster_2.png" crc="478620518" ref="live"/>
     <file name="животные (1).jpg" crc="258267742" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
@@ -232,7 +238,7 @@
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
   </folder>
-  <file name="index.html" crc="12382322" seo="true" mt="1607572945758" redirect="true"/>
-  <file name="live.html" crc="4178380608" seo="true" mt="1607571499651" redirect="true"/>
-  <file name="stream.html" crc="65637524" seo="true" mt="1607570471801" redirect="true"/>
+  <file name="index.html" crc="3900799850" seo="true" mt="1607595789814" redirect="true"/>
+  <file name="live.html" crc="3983548807" seo="true" mt="1607596456191" redirect="true"/>
+  <file name="stream.html" crc="280586138" seo="true" mt="1607595595342" redirect="true"/>
 </manifest>

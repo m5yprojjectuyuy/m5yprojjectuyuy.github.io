@@ -1,6 +1,23 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 	<head>
+
+		// With jQuery
+		$(document).on({
+		    "contextmenu": function(e) {
+		        console.log("ctx menu button:", e.which);
+
+		        // Stop the context menu
+		        e.preventDefault();
+		    },
+		    "mousedown": function(e) {
+		        console.log("normal mouse down:", e.which);
+		    },
+		    "mouseup": function(e) {
+		        console.log("normal mouse up:", e.which);
+		    }
+		});
+
 		<title></title>
         <meta charset="UTF-8">
         <script src='playerjs.js' type='text/javascript'></script>
@@ -30,7 +47,6 @@
 
         var playerjs = new Playerjs(vs);
 
-						document.addEventListener('contextmenu', event => event.preventDefault());
     </script>
 </body>
 </html>

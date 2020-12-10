@@ -2,6 +2,32 @@
 <html class="nojs html" lang="ru-RU">
  <head>
 
+  <script type="text/javascript">
+   private boolean resizeView(float delta) {
+          heightChange = delta;
+          int newHeight = (int) (webViewOnTouchHeight - delta);
+          if (newHeight > baseHeight) { // scroll over top
+              if (webView.getLayoutParams().height < baseHeight) {
+                  webView.getLayoutParams().height = baseHeight;
+                  webView.requestLayout();
+                  return true;
+              }
+          } else if (newHeight < baseHeight - barHeight) { // scroll below bar
+              if (webView.getLayoutParams().height > baseHeight - barHeight) {
+                  webView.getLayoutParams().height = baseHeight - barHeight;
+                  webView.requestLayout();
+                  return true;
+              }
+          } else { // scroll between top and bar
+              webView.getLayoutParams().height = (int) (webViewOnTouchHeight - delta);
+              webView.requestLayout();
+              return true;
+          }
+          return false;
+      }
+
+</script>
+
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="description" content="Welcome to my official site! Here you will find some information about me!"/>
   <meta name="keywords" content="NASTIE, nastie, nastie efremova, NASTIE EFREMOVA, nastie evremova, "/>

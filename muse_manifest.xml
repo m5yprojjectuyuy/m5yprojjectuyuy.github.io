@@ -1,19 +1,20 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607562336129">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607564851822">
   <folder name="css">
     <file name="site_global.css" crc="324807934"/>
-    <file name="live.css" crc="3850477654" ref="live"/>
+    <file name="live.css" crc="83535958" ref="live"/>
+    <file name="live-1.css" crc="3982754033" ref="live-1"/>
     <file name="index.css" crc="4290305154" ref="index"/>
-    <file name="stream.css" crc="4073590024" ref="stream"/>
-    <file name="live-2.css" crc="109198473" ref="live-2"/>
-    <file name="live-1.css" crc="201105856" ref="live-1"/>
+    <file name="stream.css" crc="337411614" ref="stream"/>
+    <file name="live-3.css" crc="196155549" ref="live-3"/>
+    <file name="live-2.css" crc="4280619871" ref="live-2"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream:live-2:live-1"/>
-    <file name="museutils.js" crc="3939489907" ref="index:live:stream:live-2:live-1"/>
-    <file name="whatinput.js" crc="86476730" ref="index:live:stream:live-2:live-1"/>
-    <file name="museconfig.js" crc="128606099" ref="index:live:stream:live-2:live-1"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream:live-3:live-2:live-1"/>
+    <file name="museutils.js" crc="3939489907" ref="index:live:stream:live-3:live-2:live-1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:live:stream:live-3:live-2:live-1"/>
+    <file name="museconfig.js" crc="128606099" ref="index:live:stream:live-3:live-2:live-1"/>
     <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index:live:stream:live-2:live-1"/>
+    <file name="require.js" crc="4177726516" ref="index:live:stream:live-3:live-2:live-1"/>
   </folder>
   <folder name="images">
     <file name="nastie-favicon.ico" crc="293138087" ref="index"/>
@@ -44,7 +45,7 @@
     <file name="шарик.gif" crc="235075892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:live:live-2:live-1"/>
+    <file name="blank.gif" crc="4208392903" ref="index:live:live-3:live-2"/>
     <file name="stream---значок.svg" crc="98984165" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -86,16 +87,18 @@
       <caption webpage="live" alt=""/>
     </file>
     <file name="бабаочка 3_poster_.png" crc="168568021" ref="live"/>
-    <file name="live-надпись.svg" crc="3941468971" seo="true" ref="live:live-2:live-1">
-      <caption webpage="live-1" alt=""/>
+    <file name="live-надпись.svg" crc="3941468971" seo="true" ref="live:live-3:live-2:live-1">
       <caption webpage="live" alt=""/>
+      <caption webpage="live-3" alt=""/>
       <caption webpage="live-2" alt=""/>
+      <caption webpage="live-1" alt=""/>
     </file>
     <file name="live надпись_poster_.png" crc="144828513" ref="live"/>
-    <file name="путешествие.gif" crc="3898620689" seo="true" ref="live:live-2:live-1">
-      <caption webpage="live-1" alt=""/>
+    <file name="путешествие.gif" crc="3898620689" seo="true" ref="live:live-3:live-2:live-1">
       <caption webpage="live" alt=""/>
+      <caption webpage="live-3" alt=""/>
       <caption webpage="live-2" alt=""/>
+      <caption webpage="live-1" alt=""/>
     </file>
     <file name="тюльпаны.jpg" crc="4084235016" seo="true" ref="live">
       <caption webpage="live" alt=""/>
@@ -107,54 +110,47 @@
     <file name="сосновый-бор.jpg" crc="262790054" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="бирка--лейбл--8-7.svg" crc="57712802" seo="true" ref="live:live-2:live-1">
-      <caption webpage="live-1" alt=""/>
-      <caption webpage="live" alt=""/>
+    <file name="бирка--лейбл--8-7.svg" crc="57712802" seo="true" ref="live:live-3:live-2">
+      <caption webpage="live-3" alt=""/>
       <caption webpage="live-2" alt=""/>
+      <caption webpage="live" alt=""/>
     </file>
     <file name="бирка- лейбл 8-7_poster_.png" crc="4098344703" ref="live"/>
-    <file name="скругление-прав-верх.svg" crc="10381034" seo="true" ref="live:live-2">
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
+    <file name="скругление-прав-верх.svg" crc="10381034" seo="true" ref="live:live-3:live-2">
+      <caption webpage="live-3" alt=""/>
+      <caption webpage="live-3" alt=""/>
       <caption webpage="live-2" alt=""/>
-      <caption webpage="live-2" alt=""/>
+      <caption webpage="live" alt=""/>
     </file>
     <file name="скругление прав верх_poster_.png" crc="375926554" ref="live"/>
-    <file name="скругление-лев-верх.svg" crc="3824610968" seo="true" ref="live:live-2">
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
+    <file name="скругление-лев-верх.svg" crc="3824610968" seo="true" ref="live:live-3:live-2">
+      <caption webpage="live-3" alt=""/>
+      <caption webpage="live-3" alt=""/>
       <caption webpage="live-2" alt=""/>
-      <caption webpage="live-2" alt=""/>
+      <caption webpage="live" alt=""/>
     </file>
     <file name="скругление лев верх_poster_.png" crc="523956865" ref="live"/>
-    <file name="скругление-лев-ниж.svg" crc="82011021" seo="true" ref="live:live-2">
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
+    <file name="скругление-лев-ниж.svg" crc="82011021" seo="true" ref="live:live-3:live-2">
+      <caption webpage="live-3" alt=""/>
+      <caption webpage="live-3" alt=""/>
       <caption webpage="live-2" alt=""/>
-      <caption webpage="live-2" alt=""/>
+      <caption webpage="live" alt=""/>
     </file>
     <file name="скругление лев ниж_poster_.png" crc="4067155936" ref="live"/>
-    <file name="скругление-прав-ниж.svg" crc="3871499448" seo="true" ref="live:live-2">
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
+    <file name="скругление-прав-ниж.svg" crc="3871499448" seo="true" ref="live:live-3:live-2">
+      <caption webpage="live-3" alt=""/>
+      <caption webpage="live-3" alt=""/>
       <caption webpage="live-2" alt=""/>
-      <caption webpage="live-2" alt=""/>
+      <caption webpage="live" alt=""/>
     </file>
     <file name="скругление прав ниж_poster_.png" crc="4240727963" ref="live"/>
     <file name="уоткинс (4).jpg" crc="4243826066" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="бирка--лейбл--8-8.svg" crc="7908414" seo="true" ref="live">
-      <caption webpage="live" alt=""/>
-    </file>
-    <file name="бирка- лейбл 8-8_poster_.png" crc="207294344" ref="live"/>
-    <file name="times-sq-4.jpg" crc="4080734722" seo="true" ref="live">
-      <caption webpage="live" alt=""/>
-    </file>
-    <file name="знак-вперёд.svg" crc="3822730958" seo="true" ref="live:live-2:live-1">
-      <caption webpage="live-1" alt=""/>
-      <caption webpage="live" alt=""/>
+    <file name="знак-вперёд.svg" crc="3822730958" seo="true" ref="live:live-3:live-2">
+      <caption webpage="live-3" alt=""/>
       <caption webpage="live-2" alt=""/>
+      <caption webpage="live" alt=""/>
     </file>
     <file name="знак вперёд_poster_.png" crc="3980381365" ref="live"/>
     <file name="stream-favicon.ico" crc="293138087" ref="stream"/>
@@ -196,22 +192,40 @@
       <caption webpage="stream" alt=""/>
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
+    <file name="live-3-favicon.ico" crc="293138087" ref="live-3"/>
+    <file name="нью-йорк-7.jpg" crc="124121566" seo="true" ref="live-3">
+      <caption webpage="live-3" alt=""/>
+    </file>
+    <file name="нью-йорк-9.jpg" crc="3947888258" seo="true" ref="live-3">
+      <caption webpage="live-3" alt=""/>
+    </file>
+    <file name="спираль-скоросшиватель---вариант-5-(только-низ).svg" crc="4132210750" seo="true" ref="live-3">
+      <caption webpage="live-3" alt=""/>
+    </file>
+    <file name="спираль скоросшиватель - вариант 5 (только низ)_poster_.png" crc="162479144" ref="live-3"/>
+    <file name="бирка--лейбл--8-8.svg" crc="7908414" seo="true" ref="live-3">
+      <caption webpage="live-3" alt=""/>
+    </file>
+    <file name="бирка- лейбл 8-8_poster_.png" crc="207294344" ref="live-3"/>
+    <file name="times-sq-4.jpg" crc="4080734722" seo="true" ref="live-3">
+      <caption webpage="live-3" alt=""/>
+    </file>
+    <file name="бирка--лейбл--8-6.svg" crc="4149134782" seo="true" ref="live-3">
+      <caption webpage="live-3" alt=""/>
+    </file>
+    <file name="бирка- лейбл 8-6_poster_.png" crc="4154956062" ref="live-3"/>
+    <file name="кыштым 1.jpg" crc="337845874" seo="true" ref="live-3">
+      <caption webpage="live-3" alt=""/>
+    </file>
     <file name="live-2-favicon.ico" crc="293138087" ref="live-2"/>
-    <file name="нью-йорк-7.jpg" crc="124121566" seo="true" ref="live-2">
+    <file name="бирка--лейбл--8-4.svg" crc="4155712456" seo="true" ref="live-2">
       <caption webpage="live-2" alt=""/>
     </file>
-    <file name="нью-йорк-9.jpg" crc="3947888258" seo="true" ref="live-2">
+    <file name="бирка- лейбл 8-4_poster_.png" crc="3884320899" ref="live-2"/>
+    <file name="алушта-(3).jpg" crc="248962055" seo="true" ref="live-2">
       <caption webpage="live-2" alt=""/>
     </file>
-    <file name="спираль-скоросшиватель---вариант-5-(только-низ).svg" crc="4132210750" seo="true" ref="live-2">
-      <caption webpage="live-2" alt=""/>
-    </file>
-    <file name="спираль скоросшиватель - вариант 5 (только низ)_poster_.png" crc="162479144" ref="live-2"/>
-    <file name="бирка--лейбл--8-6.svg" crc="4149134782" seo="true" ref="live-2">
-      <caption webpage="live-2" alt=""/>
-    </file>
-    <file name="бирка- лейбл 8-6_poster_.png" crc="4154956062" ref="live-2"/>
-    <file name="кыштым 1.jpg" crc="337845874" seo="true" ref="live-2">
+    <file name="алушта (1).jpg" crc="55052970" seo="true" ref="live-2">
       <caption webpage="live-2" alt=""/>
     </file>
     <file name="бирка--лейбл--8-5.svg" crc="412276377" seo="true" ref="live-2">
@@ -224,24 +238,14 @@
     <file name="грузя-1.jpg" crc="289590724" seo="true" ref="live-2">
       <caption webpage="live-2" alt=""/>
     </file>
+    <file name="бирка--лейбл--8.svg" crc="31050162" seo="true" ref="live-2">
+      <caption webpage="live-2" alt=""/>
+    </file>
+    <file name="бирка- лейбл 8_poster_.png" crc="3895329206" ref="live-2"/>
+    <file name="черногория.jpg" crc="358621179" seo="true" ref="live-2">
+      <caption webpage="live-2" alt=""/>
+    </file>
     <file name="live-1-favicon.ico" crc="293138087" ref="live-1"/>
-    <file name="бирка--лейбл--8-4.svg" crc="4155712456" seo="true" ref="live-1">
-      <caption webpage="live-1" alt=""/>
-    </file>
-    <file name="бирка- лейбл 8-4_poster_.png" crc="3884320899" ref="live-1"/>
-    <file name="алушта-(3).jpg" crc="248962055" seo="true" ref="live-1">
-      <caption webpage="live-1" alt=""/>
-    </file>
-    <file name="алушта (1).jpg" crc="55052970" seo="true" ref="live-1">
-      <caption webpage="live-1" alt=""/>
-    </file>
-    <file name="бирка--лейбл--8.svg" crc="31050162" seo="true" ref="live-1">
-      <caption webpage="live-1" alt=""/>
-    </file>
-    <file name="бирка- лейбл 8_poster_.png" crc="3895329206" ref="live-1"/>
-    <file name="черногория.jpg" crc="358621179" seo="true" ref="live-1">
-      <caption webpage="live-1" alt=""/>
-    </file>
     <file name="бирка--лейбл--8-1.svg" crc="4025291317" seo="true" ref="live-1">
       <caption webpage="live-1" alt=""/>
     </file>
@@ -258,8 +262,9 @@
     </file>
   </folder>
   <file name="index.html" crc="4238058884" seo="true" mt="1607562071917" redirect="true"/>
-  <file name="live.html" crc="3999484554" seo="true" mt="1607562228402" redirect="true"/>
-  <file name="stream.html" crc="4100159414" seo="true" redirect="true"/>
-  <file name="live-2.html" crc="4252551076" seo="true" mt="1607562231265" redirect="true"/>
-  <file name="live-1.html" crc="329134493" seo="true" mt="1607562231267" redirect="true"/>
+  <file name="live.html" crc="250048111" seo="true" mt="1607564702591" redirect="true"/>
+  <file name="stream.html" crc="218162918" seo="true" mt="1607563064140" redirect="true"/>
+  <file name="live-3.html" crc="3868222328" seo="true" mt="1607564726155" redirect="true"/>
+  <file name="live-2.html" crc="4212652285" seo="true" mt="1607564730351" redirect="true"/>
+  <file name="live-1.html" crc="417648347" seo="true" mt="1607564793870" redirect="true"/>
 </manifest>

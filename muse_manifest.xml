@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607574156136">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607577133904">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="index.css" crc="4079975405" ref="index"/>
-    <file name="live.css" crc="369794730" ref="live"/>
+    <file name="live.css" crc="314934757" ref="live"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live"/>
@@ -113,7 +113,7 @@
     <file name="уоткинс (4).jpg" crc="4243826066" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="times-sq.jpg" crc="143287937" seo="true" ref="live">
+    <file name="times-sq.jpg" crc="15799102" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="times-sq-2.jpg" crc="4126489230" seo="true" ref="live">
@@ -156,5 +156,5 @@
     </file>
   </folder>
   <file name="index.html" crc="307561889" seo="true" redirect="true"/>
-  <file name="live.html" crc="4236690781" seo="true" mt="1607574015472" redirect="true"/>
+  <file name="live.html" crc="4233334520" seo="true" mt="1607577114006" redirect="true"/>
 </manifest>

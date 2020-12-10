@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80mm"
+   height="24mm"
+   viewBox="0 0 80 24"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="stream -  надпись.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="1.5904548"
+       y="6.6799102"
+       width="75.228516"
+       height="25.606323"
+       id="rect17" />
+    <rect
+       x="27.037731"
+       y="-42.624187"
+       width="99.880562"
+       height="34.671913"
+       id="rect850" />
+    <rect
+       x="3.5987885"
+       y="7.4225011"
+       width="94.243271"
+       height="34.413414"
+       id="rect835" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6271583"
+     inkscape:cx="117.83046"
+     inkscape:cy="52.29185"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1427"
+     inkscape:window-height="885"
+     inkscape:window-x="196"
+     inkscape:window-y="156"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text15"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Akaju;-inkscape-font-specification:'Akaju, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect17);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.504517;"
+       transform="matrix(2.0315437,0,0,1.933849,-1.3840015,-12.525084)"><tspan
+         x="1.5898438"
+         y="16.28768"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Akaju;-inkscape-font-specification:'Akaju, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.504517">Stream</tspan></tspan></text>
+  </g>
+</svg>

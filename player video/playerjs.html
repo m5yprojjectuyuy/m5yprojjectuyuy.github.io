@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 	<head>
-
+ <body oncontextmenu="return false;">
 		<title></title>
         <meta charset="UTF-8">
         <script src='playerjs.js' type='text/javascript'></script>
@@ -32,29 +32,5 @@
         var playerjs = new Playerjs(vs);
 
     </script>
-
-		<script type="text/javascript">
-		$(document).ready(function() {
-			$("body").attr("oncopy","return false");
-			$("body").attr("oncontextmenu","return false")
-		});
-		</script>
-
-		<script>
-		$(document).ready(function(){
-		    $(document).bind("contextmenu",function(e){
-		        return false;
-		    });
-
-		    $(document).mousedown(function(e){
-		        if( e.button == 2 ) {
-		          return false;
-		        }
-		        return true;
-		    });
-		});
-		</script>
-
-
 </body>
 </html>

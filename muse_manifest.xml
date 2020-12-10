@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607563232255">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607564381652">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="426177114" ref="index"/>
-    <file name="photos.css" crc="337303368" ref="photos"/>
+    <file name="photos.css" crc="3791562737" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="3794366839" seo="true" mt="1607672961000"/>
-    <file name="bangkok_-_4k_timelapse.mp4" crc="4008135798" seo="true" mt="1498684861000"/>
+    <file name="bangkok_-_4k_timelapse.mp4" crc="3841478901" seo="true" mt="1607562737000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photos"/>
@@ -74,5 +74,5 @@
     <file name="photos-favicon.ico" crc="264791417" ref="photos"/>
   </folder>
   <file name="index.html" crc="4069270339" seo="true" mt="1607563211121" redirect="true"/>
-  <file name="photos.html" crc="289464630" seo="true" mt="1607563109026" redirect="true"/>
+  <file name="photos.html" crc="3857036796" seo="true" mt="1607564352660" redirect="true"/>
 </manifest>

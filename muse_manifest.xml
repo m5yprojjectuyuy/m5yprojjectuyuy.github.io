@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607570212821">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607558725349">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="stream.css" crc="4272330214" ref="stream"/>
-    <file name="index.css" crc="4044604217" ref="index"/>
-    <file name="live.css" crc="4121591967" ref="live"/>
+    <file name="live.css" crc="4278041903" ref="live"/>
+    <file name="stream.css" crc="4123231598" ref="stream"/>
+    <file name="index.css" crc="4074476273" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -91,7 +91,7 @@
     <file name="путешествие.gif" crc="3898620689" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="тюльпаны.jpg" crc="238045146" seo="true" ref="live">
+    <file name="тюльпаны.jpg" crc="4122181580" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="бирка--лейбл--8-7.svg" crc="4069952433" seo="true" ref="live">
@@ -242,7 +242,7 @@
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
   </folder>
-  <file name="index.html" crc="199320791" seo="true" redirect="true"/>
-  <file name="live.html" crc="78153732" seo="true" mt="1607569168805" redirect="true"/>
-  <file name="stream.html" crc="3825547747" seo="true" mt="1607570062668" redirect="true"/>
+  <file name="index.html" crc="3869573679" seo="true" redirect="true"/>
+  <file name="live.html" crc="4203748210" seo="true" mt="1607558494945" redirect="true"/>
+  <file name="stream.html" crc="235770122" seo="true" mt="1607558651725" redirect="true"/>
 </manifest>

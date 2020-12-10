@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html class="nojs html" lang="ru-RU">
  <head>
- <body oncontextmenu="return false;">
+<body oncontextmenu="return false;">
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="description" content="Welcome to my official site! Here you will find some information about me!"/>
   <meta name="keywords" content="NASTIE, nastie, nastie efremova, NASTIE EFREMOVA, nastie evremova, "/>
@@ -15,7 +15,7 @@ document.documentElement.className = document.documentElement.className.replace(
 if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
 
-  <link rel="shortcut icon" href="images/nastie-favicon.svg?crc=185933360"/>
+  <link rel="shortcut icon" href="images/nastie-favicon.ico?crc=185933360"/>
   <title>NASTIE</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4162518342"/>
@@ -63,6 +63,220 @@ h2 {font-family: 'Limelight', cursive;}
 <style type="text/css">
 
 
+
+
+
+
+
+
+
+
+
+
+
+.loader1,
+.loader1:before,
+.loader1:after {
+  background: #22B573;;
+  -webkit-animation: load1 1s infinite ease-in-out;
+  animation: load1 1s infinite ease-in-out;
+  width: 1em;
+  height: 4em;
+}
+.loader1:before,
+.loader1:after {
+        position:absolute;
+
+  content: '';
+}
+.loader1:before {
+  left: -1.5em;
+}
+.loader1 {
+  z-index: 99999999;
+  text-indent: -9999em;
+
+          position:absolute;
+    left:50%;
+    top:50%;
+  font-size: 8px;
+  -webkit-animation-delay: -0.16s;
+  animation-delay: -0.16s;
+}
+.loader1:after {
+  left: 1.5em;
+  -webkit-animation-delay: -0.32s;
+  animation-delay: -0.32s;
+}
+@-webkit-keyframes load1 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 0 #22B573;;
+    height: 4em;
+  }
+  40% {
+    box-shadow: 0 -2em #22B573;;
+    height: 5em;
+  }
+}
+@keyframes load1 {
+  0%,
+  80%,
+  100% {
+    box-shadow: 0 0 #22B573;;
+    height: 4em;
+  }
+  40% {
+    box-shadow: 0 -2em #22B573;;
+    height: 5em;
+  }
+}
+
+.loader2,
+.loader2:before,
+.loader2:after {
+  border-radius: 50%;
+       position:absolute;
+    left:50%;
+    top:50%;
+    z-index: 99999999;
+}
+.loader2:before,
+.loader2:after {
+  position: absolute;
+  content: '';
+}
+.loader2:before {
+  width: 5.2em;
+  height: 10.2em;
+  background: #FF0000;
+  border-radius: 10.3em 0 0 10.2em;
+  top: -0.1em;
+  left: -0.1em;
+  -webkit-transform-origin: 5.2em 5.1em;
+  transform-origin: 5.2em 5.1em;
+  -webkit-animation: load2 2s infinite ease 1.5s;
+  animation: load2 2s infinite ease 1.5s;
+}
+.loader2 {
+  font-size: 8px;
+
+ margin-top: -5em;
+    margin-left: -4.5em;
+
+  width: 10em;
+  height: 10em;
+  box-shadow: inset 0 0 0 1em #22B573;
+}
+.loader2:after {
+  width: 5.2em;
+  height: 10.3em;
+  background: #FF0000;
+  border-radius: 0 10.2em 10.2em 0;
+  top: -0.1em;
+  left: 5.1em;
+  -webkit-transform-origin: 0px 5.1em;
+  transform-origin: 0px 5.1em;
+  -webkit-animation: load2 2s infinite ease;
+  animation: load2 2s infinite ease;
+}
+@-webkit-keyframes load2 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes load2 {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+.loader3 {
+  position: absolute;
+  display: block;
+  top: 50%;
+  left: 50%;
+  width: 200px;
+  height: 4px;
+  margin-left: -90px;
+  margin-top: -2px;
+  z-index: 99999999;
+}
+
+.loader3:before {
+  content: "";
+  display: block;
+  width: 10%;
+  height: 100%;
+  background-color: #22B573;
+  -webkit-animation: loader3 3.5s ease 0s infinite normal;
+  animation: loader3 3.5s ease 0s infinite normal;
+}
+
+@-webkit-keyframes loader3 {
+  0% {
+    margin: 0 99% 0 0;
+    width: 1%;
+  }
+
+  25% {
+    margin: 0 0 0 0;
+    width: 100%;
+  }
+
+  50% {
+    margin: 0 0 0 99%;
+    width: 1%;
+  }
+
+  75% {
+    margin: 0 0 0 0;
+    width: 100%;
+  }
+
+  100% {
+    margin: 0 99% 0 0;
+    width: 1%;
+  }
+}
+
+@keyframes loader3 {
+  0% {
+    margin: 0 99% 0 0;
+    width: 1%;
+  }
+
+  25% {
+    margin: 0 0 0 0;
+    width: 100%;
+  }
+
+  50% {
+    margin: 0 0 0 99%;
+    width: 1%;
+  }
+
+  75% {
+    margin: 0 0 0 0;
+    width: 100%;
+  }
+
+  100% {
+    margin: 0 99% 0 0;
+    width: 1%;
+  }
+}
+
 </style>
 <style type="text/css">
 
@@ -75,6 +289,242 @@ h2 {font-family: 'Limelight', cursive;}
     background-color:#FF0000;
     z-index:99;
 }
+.decr {
+    width: 100%;
+  text-align: center;
+vertical-align: middle;
+line-height: 55px;
+  top: 50%;
+  margin-top: 60px;
+ position: absolute;
+  z-index: 9999;
+ padding-left: 7px;
+ letter-spacing: 2px;
+
+}
+body { overflow: hidden;}
+.pace {
+  -webkit-pointer-events: none;
+  pointer-events: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.pace-inactive {
+  display: none;
+}
+
+.pace .pace-progress {
+  background-color: #22B573;
+  position: fixed;
+  z-index: 2000;
+  top: 0;
+  left: 0;
+  height: 8px;
+  overflow: hidden;
+
+  -webkit-transition: width 1s;
+  -moz-transition: width 1s;
+  -o-transition: width 1s;
+  transition: width 1s;
+}
+
+.pace .pace-progress-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: -32px;
+  bottom: 0;
+
+  background-image: -webkit-gradient(linear, 0 100%, 100% 0, color-stop(0.25, rgba(255, 255, 255, 0.2)), color-stop(0.25, transparent), color-stop(0.5, transparent), color-stop(0.5, rgba(255, 255, 255, 0.2)), color-stop(0.75, rgba(255, 255, 255, 0.2)), color-stop(0.75, transparent), to(transparent));
+  background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, transparent 75%, transparent);
+  background-image: -moz-linear-gradient(45deg, rgba(255, 255, 255, 0.2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, transparent 75%, transparent);
+  background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, 0.2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, transparent 75%, transparent);
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, transparent 75%, transparent);
+  -webkit-background-size: 32px 32px;
+  -moz-background-size: 32px 32px;
+  -o-background-size: 32px 32px;
+  background-size: 32px 32px;
+
+  -webkit-animation: pace-stripe-animation 500ms linear infinite;
+  -moz-animation: pace-stripe-animation 500ms linear infinite;
+  -ms-animation: pace-stripe-animation 500ms linear infinite;
+  -o-animation: pace-stripe-animation 500ms linear infinite;
+  animation: pace-stripe-animation 500ms linear infinite;
+}
+
+@-webkit-keyframes pace-stripe-animation {
+  0% { -webkit-transform: none; transform: none; }
+  100% { -webkit-transform: translate(-32px, 0); transform: translate(-32px, 0); }
+}
+@-moz-keyframes pace-stripe-animation {
+  0% { -moz-transform: none; transform: none; }
+  100% { -moz-transform: translate(-32px, 0); transform: translate(-32px, 0); }
+}
+@-o-keyframes pace-stripe-animation {
+  0% { -o-transform: none; transform: none; }
+  100% { -o-transform: translate(-32px, 0); transform: translate(-32px, 0); }
+}
+@-ms-keyframes pace-stripe-animation {
+  0% { -ms-transform: none; transform: none; }
+  100% { -ms-transform: translate(-32px, 0); transform: translate(-32px, 0); }
+}
+@keyframes pace-stripe-animation {
+  0% { transform: none; transform: none; }
+  100% { transform: translate(-32px, 0); transform: translate(-32px, 0); }
+}
+
+.paace {
+  -webkit-pointer-events: none;
+  pointer-events: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.paace .paace-progress {
+  background-color: #22B573;
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  bottom: 0;
+z-index: 99999999;
+  -webkit-transition: width 1s;
+  -moz-transition: width 1s;
+  -o-transition: width 1s;
+  transition: width 1s;
+
+}
+.acece {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+
+  -webkit-pointer-events: none;
+  pointer-events: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+
+  z-index: 2000;
+  position: fixed;
+  margin: auto;
+  top: 12px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 200px;
+  height: 25px;
+
+}
+
+.acece .acece-progress {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+
+
+
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+
+  -webkit-transition: width 1s ease-in-out 1s linear;
+  -moz-transition: width 1s ease-in-out 1s linear;
+  -ms-transition: width 1s ease-in-out 1s linear;
+  -o-transition: width 1s ease-in-out 1s linear;
+  transition: width 1s ease-in-out 1s linear;
+
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+
+  max-width: 190px;
+  position: fixed;
+  z-index: 2000;
+  display: block;
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  height: 8px;
+  background: #22B573;
+  color: #22B573;
+  line-height: 60px;
+  font-weight: bold;
+  font-family:  Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+.acece .acece-progress:after {
+  content: attr(data-progress-text);
+  display: inline-block;
+}
+
+.acece.pace-inactive {
+  display: none;
+}
+
+.pacee {
+  -webkit-pointer-events: none;
+  pointer-events: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+
+  z-index: 2000;
+  position: fixed;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 5px;
+  width:  8em;
+  background: transparent;
+  border: 1px solid #22B573;
+}
+
+.pacee .pacee-progress {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+
+  -webkit-transition: width 1s ease-in-out 1s linear;
+  -moz-transition: width 1s ease-in-out 1s linear;
+  -ms-transition: width 1s ease-in-out 1s linear;
+  -o-transition: width 1s ease-in-out 1s linear;
+  transition: width 1s ease-in-out 1s linear;
+
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+
+  max-width: 8em;
+  position: fixed;
+  z-index: 2000;
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 100%;
+  background: #22B573;
+}
+
+.pacee.pacee-inactive {
+  display: none;
+}
 
 </style>
 
@@ -84,6 +534,16 @@ h2 {font-family: 'Limelight', cursive;}
  <body>
 
   <!--HTML Widget code-->
+
+
+
+
+
+
+
+
+
+
 
 
   <div class="clearfix" id="page"><!-- column -->
@@ -176,7 +636,7 @@ h2 {font-family: 'Limelight', cursive;}
      <a class="nonblock nontext transition clip_frame grpelem" id="u17396" href="tel:+71234567890"><!-- svg --><img class="svg" id="u17392" src="images/telephone.svg?crc=118752509" width="110" height="110" alt="" data-mu-svgfallback="images/telephone_poster_.png?crc=290058397"/></a>
      <a class="nonblock nontext transition clip_frame grpelem" id="u2033" href="https://www.google.com/intl/ru/gmail/about/"><!-- svg --><img class="svg" id="u2029" src="images/gmail-4.svg?crc=336301288" width="138" height="112" alt="" data-mu-svgfallback="images/gmail-4_poster_.png?crc=278210196"/></a>
      <a class="nonblock nontext transition clip_frame grpelem" id="u1065" href="https://vk.com/phioletovaya"><!-- svg --><img class="svg" id="u1061" src="images/%d0%b2-%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d0%b0%d1%85.svg?crc=3771308657" width="112" height="116" alt="" data-mu-svgfallback="images/%d0%b2%20%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d0%b0%d1%85_poster_.png?crc=127666946"/></a>
-     <a class="nonblock nontext transition clip_frame grpelem" id="u3989" href="live"><!-- svg --><img class="svg" id="u3985" src="images/%d0%b7%d0%bd%d0%b0%d1%87%d0%be%d0%ba-%d1%84%d0%be%d1%82%d0%be%d0%b0%d0%bf%d0%bf%d0%b0%d1%80%d0%b0%d1%82%d0%b0-6.svg?crc=3952280526" width="132" height="104" alt="" data-mu-svgfallback="images/%d0%b7%d0%bd%d0%b0%d1%87%d0%be%d0%ba%20%d1%84%d0%be%d1%82%d0%be%d0%b0%d0%bf%d0%bf%d0%b0%d1%80%d0%b0%d1%82%d0%b0%206_poster_.png?crc=81700275"/></a>
+     <a class="nonblock nontext transition clip_frame grpelem" id="u3989" href="live.html"><!-- svg --><img class="svg" id="u3985" src="images/%d0%b7%d0%bd%d0%b0%d1%87%d0%be%d0%ba-%d1%84%d0%be%d1%82%d0%be%d0%b0%d0%bf%d0%bf%d0%b0%d1%80%d0%b0%d1%82%d0%b0-6.svg?crc=3952280526" width="132" height="104" alt="" data-mu-svgfallback="images/%d0%b7%d0%bd%d0%b0%d1%87%d0%be%d0%ba%20%d1%84%d0%be%d1%82%d0%be%d0%b0%d0%bf%d0%bf%d0%b0%d1%80%d0%b0%d1%82%d0%b0%206_poster_.png?crc=81700275"/></a>
     </div>
     <div class="browser_width colelem" id="u2607-bw">
      <div id="u2607"><!-- simple frame --></div>

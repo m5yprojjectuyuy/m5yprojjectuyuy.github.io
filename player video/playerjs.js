@@ -1,4 +1,4 @@
-//	Playerjs.com 13.16.9
+//	
 //	27.02.2021 10:00:28
 //	API - https://playerjs.com/docs/q=api
 

@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607564964034">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607574211398">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="4274756611" ref="index"/>
-    <file name="live.css" crc="164506345" ref="live"/>
-    <file name="stream.css" crc="455412310" ref="stream"/>
+    <file name="live.css" crc="4183243826" ref="live"/>
+    <file name="stream.css" crc="4025318200" ref="stream"/>
+    <file name="index.css" crc="168724238" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -91,7 +91,7 @@
     <file name="путешествие.gif" crc="3898620689" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="тюльпаны.jpg" crc="352222658" seo="true" ref="live">
+    <file name="тюльпаны.jpg" crc="4083890878" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="бирка--лейбл--8-7.svg" crc="4069952433" seo="true" ref="live">
@@ -211,10 +211,10 @@
       <caption webpage="stream" alt=""/>
     </file>
     <file name="синусоида 1_poster_.png" crc="4133453393" ref="stream"/>
-    <file name="stream---значок-2.svg" crc="172958653" seo="true" ref="stream">
+    <file name="stream---значок-2.svg" crc="3940752940" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
-    <file name="stream - значок 2_poster_.png" crc="453538367" ref="stream"/>
+    <file name="stream - значок 2_poster_.png" crc="74578086" ref="stream"/>
     <file name="iso-значок.svg" crc="3991145293" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
@@ -242,7 +242,7 @@
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
   </folder>
-  <file name="index.html" crc="434357689" seo="true" redirect="true"/>
-  <file name="live.html" crc="3865884768" seo="true" mt="1607564930694" redirect="true"/>
-  <file name="stream.html" crc="428818872" seo="true" mt="1607551143568" redirect="true"/>
+  <file name="index.html" crc="426706245" seo="true" mt="1607571994094" redirect="true"/>
+  <file name="live.html" crc="379607892" seo="true" mt="1607573618354" redirect="true"/>
+  <file name="stream.html" crc="3883860793" seo="true" mt="1607574081949" redirect="true"/>
 </manifest>

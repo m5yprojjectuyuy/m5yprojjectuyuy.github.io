@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607592955975">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607594123827">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="live.css" crc="4210007415" ref="live"/>
@@ -13,7 +13,7 @@
     <file name="require.js" crc="4177726516" ref="index:live"/>
   </folder>
   <folder name="images">
-    <file name="nastie-favicon.ico" crc="185933360" ref="index"/>
+    <file name="nastie-favicon.ico" crc="293138087" ref="index"/>
     <file name="бабочки-а-1.svg" crc="4283562859" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -74,7 +74,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="значок фотоаппарата 6_poster_.png" crc="81700275" ref="index"/>
-    <file name="live-favicon.ico" crc="185933360" ref="live"/>
+    <file name="live-favicon.ico" crc="293138087" ref="live"/>
     <file name="live-надпись.svg" crc="3941468971" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
@@ -146,6 +146,6 @@
       <caption webpage="live" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="513080512" seo="true" mt="1607566357796" redirect="true"/>
-  <file name="live.html" crc="164698473" seo="true" mt="1607592839821" redirect="true"/>
+  <file name="index.html" crc="4166371885" seo="true" mt="1607566357796" redirect="true"/>
+  <file name="live.html" crc="177914786" seo="true" mt="1607593858877" redirect="true"/>
 </manifest>

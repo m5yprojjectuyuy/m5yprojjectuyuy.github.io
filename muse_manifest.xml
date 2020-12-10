@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607596054118">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607597399696">
   <folder name="css">
     <file name="site_global.css" crc="324807934"/>
     <file name="stream.css" crc="370740007" ref="stream"/>
-    <file name="index.css" crc="4208312272" ref="index"/>
+    <file name="index.css" crc="3798973653" ref="index"/>
     <file name="live.css" crc="3842823080" ref="live"/>
   </folder>
   <folder name="scripts">
@@ -242,7 +242,7 @@
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
   </folder>
-  <file name="index.html" crc="51813631" seo="true" mt="1607595448869" redirect="true"/>
+  <file name="index.html" crc="4076633857" seo="true" mt="1607597362706" redirect="true"/>
   <file name="live.html" crc="85739566" seo="true" redirect="true"/>
   <file name="stream.html" crc="3976599038" seo="true" mt="1607596036635" redirect="true"/>
 </manifest>

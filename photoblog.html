@@ -5,6 +5,12 @@
        jQuery('video').bind('contextmenu',function() { return false; });
    });
 
+   $(document).bind("contextmenu",function(ev){
+       if(ev.target.nodeName=='VIDEO')
+       {
+           return false;
+       }
+   });
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="description" content="Welcome to my official site! Here you will find some information about me!"/>

@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607584434696">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607585428868">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="live.css" crc="165368203" ref="live"/>
@@ -170,6 +170,6 @@
     <file name="stream - надпись_poster_.png" crc="66388488" ref="stream"/>
   </folder>
   <file name="index.html" crc="483223700" seo="true" mt="1607584414823" redirect="true"/>
-  <file name="live.html" crc="3793082096" seo="true" mt="1607570643127" redirect="true"/>
+  <file name="live.html" crc="4125814733" seo="true" mt="1607585351490" redirect="true"/>
   <file name="stream.html" crc="4257086636" seo="true" mt="1607584345086" redirect="true"/>
 </manifest>

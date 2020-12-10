@@ -58,22 +58,22 @@
        inkscape:collect="always"
        xlink:href="#linearGradient116"
        id="linearGradient92"
-       x1="82.832512"
-       y1="163.64471"
-       x2="396.98996"
-       y2="400.02042"
+       x1="65.65992"
+       y1="170.71579"
+       x2="415.17273"
+       y2="391.93921"
        gradientUnits="userSpaceOnUse"
        gradientTransform="scale(0.26458333)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient116">
       <stop
-         style="stop-color:#0000ff;stop-opacity:1"
+         style="stop-color:#ff6d6d;stop-opacity:1"
          offset="0"
          id="stop112" />
       <stop
-         style="stop-color:#3300cb;stop-opacity:1;"
-         offset="0.29483685"
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="1"
          id="stop118" />
       <stop
          style="stop-color:#ffff00;stop-opacity:1"
@@ -93,16 +93,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="137.72728"
+     inkscape:cx="189.44367"
      inkscape:cy="238.79513"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1423"
-     inkscape:window-height="914"
-     inkscape:window-x="245"
-     inkscape:window-y="50"
+     inkscape:window-height="932"
+     inkscape:window-x="268"
+     inkscape:window-y="45"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">
@@ -112,7 +112,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -144,7 +144,7 @@
      inkscape:label="Слой 3"
      style="display:inline">
     <path
-       style="fill:#ff0000;stroke:none;stroke-width:0.264583"
+       style="fill:#000000;stroke:none;stroke-width:0.264583"
        d="m 63.03366,32.741232 c -0.64358,-0.178424 -0.671009,-0.276318 -0.745198,-2.659449 -0.05887,-1.890953 0.05704,-2.951998 0.491707,-4.501043 0.824809,-2.939449 2.144077,-5.917633 3.611157,-8.152019 3.870682,-5.895115 12.58861,-11.4881259 18.917436,-12.1365332 2.413603,-0.2472809 2.471573,-0.1337183 2.083715,4.0820715 -0.39475,4.2907167 -0.838279,5.9958727 -2.420742,9.3065767 -1.580144,3.305859 -3.064671,5.28755 -6.186566,8.258441 -2.001737,1.904912 -2.898236,2.536719 -5.145569,3.626339 -4.168669,2.021181 -8.188584,2.845792 -10.60594,2.175616 z"
        id="path46" />
   </g>

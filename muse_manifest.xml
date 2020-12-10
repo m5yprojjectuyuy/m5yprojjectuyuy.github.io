@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607557654032">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607558813644">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="stream.css" crc="3911705017" ref="stream"/>
+    <file name="stream.css" crc="4001457064" ref="stream"/>
     <file name="index.css" crc="3909399354" ref="index"/>
-    <file name="live.css" crc="3780726083" ref="live"/>
+    <file name="live.css" crc="193696377" ref="live"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -201,16 +201,6 @@
       <caption webpage="stream" alt=""/>
     </file>
     <file name="синусоида 1_poster_.png" crc="4133453393" ref="stream"/>
-    <file name="уголок-другой---1.svg" crc="62264173" seo="true" ref="stream">
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-    </file>
-    <file name="уголок другой - 1_poster_.png" crc="4234463404" ref="stream"/>
-    <file name="уголок-другой---2.svg" crc="267718459" seo="true" ref="stream">
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-    </file>
-    <file name="уголок другой - 2_poster_.png" crc="502780990" ref="stream"/>
     <file name="stream---значок-2.svg" crc="154853670" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
@@ -227,12 +217,22 @@
       <caption webpage="stream" alt=""/>
     </file>
     <file name="reactjs - значок_poster_.png" crc="4258840481" ref="stream"/>
+    <file name="уголок-другой---1.svg" crc="62264173" seo="true" ref="stream">
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+    </file>
+    <file name="уголок другой - 1_poster_.png" crc="4234463404" ref="stream"/>
+    <file name="уголок-другой---2.svg" crc="267718459" seo="true" ref="stream">
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+    </file>
+    <file name="уголок другой - 2_poster_.png" crc="502780990" ref="stream"/>
     <file name="травка-5.svg" crc="3799209738" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
   </folder>
   <file name="index.html" crc="131485780" seo="true" mt="1607556867028" redirect="true"/>
-  <file name="live.html" crc="455789311" seo="true" mt="1607555612245" redirect="true"/>
-  <file name="stream.html" crc="4263312508" seo="true" mt="1607557629976" redirect="true"/>
+  <file name="live.html" crc="391025256" seo="true" mt="1607558405307" redirect="true"/>
+  <file name="stream.html" crc="523151251" seo="true" mt="1607558778866" redirect="true"/>
 </manifest>

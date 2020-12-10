@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607598912664">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607602110896">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="live.css" crc="3998779805" ref="live"/>
+    <file name="live.css" crc="111223096" ref="live"/>
     <file name="index.css" crc="3844601450" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -106,10 +106,10 @@
       <caption webpage="live" alt=""/>
     </file>
     <file name="скругление прав ниж_poster_.png" crc="4240727963" ref="live"/>
-    <file name="уоткинс (5).jpg" crc="4101464138" seo="true" ref="live">
+    <file name="уоткинс 8.jpg" crc="4101593288" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="уоткинс 8.jpg" crc="4101593288" seo="true" ref="live">
+    <file name="уоткинс (5).jpg" crc="4101464138" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="уоткинс (4).jpg" crc="4237383752" seo="true" ref="live">
@@ -147,5 +147,5 @@
     </file>
   </folder>
   <file name="index.html" crc="4166371885" seo="true" mt="1607596438140" redirect="true"/>
-  <file name="live.html" crc="390726071" seo="true" mt="1607598892844" redirect="true"/>
+  <file name="live.html" crc="187956700" seo="true" mt="1607602047487" redirect="true"/>
 </manifest>

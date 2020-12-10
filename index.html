@@ -2,6 +2,22 @@
 <html class="nojs html" lang="ru-RU">
  <head>
 
+   <script>
+   $(document).ready(function(){
+     function updateURL() {
+         if (history.pushState) {
+             var baseUrl = window.location.protocol + "//" + window.location.host + window.location.pathname;
+             var newUrl = baseUrl + '?tyapk=awesome';
+             history.pushState(null, null, newUrl);
+         }
+         else {
+             console.warn('History API не поддерживает ваш браузер');
+         }
+     }
+   </script>
+
+
+
  <style>
    function updateURL() {
        if (history.pushState) {
@@ -15,7 +31,7 @@
    }
  </style>
 
-   
+
 
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>

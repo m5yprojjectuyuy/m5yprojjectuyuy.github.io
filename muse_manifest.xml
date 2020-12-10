@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607555863023">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607571216712">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="index.css" crc="3842364709" ref="index"/>
     <file name="live.css" crc="3842823080" ref="live"/>
-    <file name="stream.css" crc="4025318200" ref="stream"/>
+    <file name="stream.css" crc="4016866001" ref="stream"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -227,16 +227,6 @@
       <caption webpage="stream" alt=""/>
     </file>
     <file name="reactjs - значок_poster_.png" crc="4258840481" ref="stream"/>
-    <file name="уголок-другой---1.svg" crc="62264173" seo="true" ref="stream">
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-    </file>
-    <file name="уголок другой - 1_poster_.png" crc="4234463404" ref="stream"/>
-    <file name="уголок-другой---2.svg" crc="267718459" seo="true" ref="stream">
-      <caption webpage="stream" alt=""/>
-      <caption webpage="stream" alt=""/>
-    </file>
-    <file name="уголок другой - 2_poster_.png" crc="502780990" ref="stream"/>
     <file name="травка-5.svg" crc="3799209738" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
@@ -244,5 +234,5 @@
   </folder>
   <file name="index.html" crc="100855865" seo="true" mt="1607555571217" redirect="true"/>
   <file name="live.html" crc="529425363" seo="true" redirect="true"/>
-  <file name="stream.html" crc="4202681559" seo="true" mt="1607555797621" redirect="true"/>
+  <file name="stream.html" crc="4272952694" seo="true" mt="1607571168455" redirect="true"/>
 </manifest>

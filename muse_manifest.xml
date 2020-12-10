@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607579656541">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607593016327">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="stream.css" crc="3895284106" ref="stream"/>
     <file name="index.css" crc="4050360065" ref="index"/>
+    <file name="stream.css" crc="256113228" ref="stream"/>
     <file name="live.css" crc="4027166629" ref="live"/>
   </folder>
   <folder name="scripts">
@@ -193,12 +193,12 @@
       <caption webpage="stream" alt=""/>
     </file>
     <file name="dolby digital значок_poster_.png" crc="4040604587" ref="stream"/>
-    <file name="htpps---надпись-2.svg" crc="65413208" seo="true" ref="stream">
+    <file name="reactjs---значок.svg" crc="4188665367" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
-    <file name="htpps - надпись 2_poster_.png" crc="4084330652" ref="stream"/>
+    <file name="reactjs - значок_poster_.png" crc="4258840481" ref="stream"/>
   </folder>
-  <file name="index.html" crc="250339452" seo="true" mt="1607579360152" redirect="true"/>
+  <file name="index.html" crc="250339452" seo="true" mt="1607592649617" redirect="true"/>
   <file name="live.html" crc="301280558" seo="true" mt="1607576478508" redirect="true"/>
-  <file name="stream.html" crc="3814672347" seo="true" mt="1607579631284" redirect="true"/>
+  <file name="stream.html" crc="295467864" seo="true" mt="1607592958934" redirect="true"/>
 </manifest>

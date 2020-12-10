@@ -99,17 +99,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.0439444"
-     inkscape:cx="143.61282"
-     inkscape:cy="91.498336"
+     inkscape:zoom="1.4033066"
+     inkscape:cx="417.15486"
+     inkscape:cy="-14.926192"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1609"
-     inkscape:window-height="955"
-     inkscape:window-x="326"
-     inkscape:window-y="45"
+     inkscape:window-height="978"
+     inkscape:window-x="295"
+     inkscape:window-y="22"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:object-paths="true"
@@ -154,7 +154,7 @@
          inkscape:label="Слой 2">
         <path
            id="rect947-7"
-           style="fill:#9e0024;fill-opacity:1;stroke-width:1.965;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:10.8095"
+           style="fill:#ac9393;fill-opacity:1;stroke-width:1.965;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:10.8095"
            d="m 51.21428,10.14056 c -4.421569,0 -7.980908,2.980176 -7.980908,6.68176 v 29.33355 c 0,3.701583 3.559339,6.681326 7.980908,6.681326 h 160.21638 c 10.79095,0 19.84829,-10.674159 19.86007,-21.348318 0.0118,-10.674159 -9.022,-21.348318 -19.86007,-21.348318 z m 1.852276,16.7137 c 0.281011,-0.0021 1.267139,-1.140854 1.924127,-0.753651 0.656989,0.387198 2.719948,1.782567 2.334992,3.120998 l -0.532078,2.854747 c -0.582991,1.287213 -3.164096,2.060331 -4.719284,1.61306 -1.555069,-0.447198 -2.694222,-3.44969 -2.209474,-4.765026 0.391124,-1.060781 1.2617,-2.060558 2.587754,-2.070125 z"
            sodipodi:nodetypes="sssscscsczcccccc" />
       </g>
@@ -164,7 +164,7 @@
          style="display:inline">
         <path
            id="path842"
-           style="fill:none;stroke:#999999;stroke-width:2.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.8095;stroke-opacity:1"
+           style="fill:none;stroke:#ffd5d5;stroke-width:2.265;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:10.8095;stroke-opacity:1"
            d="m 57.800401,31.326355 a 4.3084941,4.3085012 0 0 1 -5.483694,2.527939 4.3084941,4.3085012 0 0 1 -2.625737,-5.43755 4.3084941,4.3085012 0 0 1 5.389645,-2.722702 4.3084941,4.3085012 0 0 1 2.818784,5.340028" />
       </g>
       <g

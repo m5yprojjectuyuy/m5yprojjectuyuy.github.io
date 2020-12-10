@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607571532882">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607571793464">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="3879620381" ref="index"/>
+    <file name="index.css" crc="3937816717" ref="index"/>
     <file name="stream.css" crc="4158930494" ref="stream"/>
     <file name="live.css" crc="3862093500" ref="live"/>
   </folder>
@@ -42,6 +42,7 @@
     <file name="шарик.gif" crc="235075892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="stream---значок.svg" crc="98984165" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -58,7 +59,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="inspiration - текст_poster_.png" crc="4259552946" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="инстагр.svg" crc="4067486096" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -169,7 +169,7 @@
     </file>
     <file name="stream - надпись_poster_.png" crc="66388488" ref="stream"/>
   </folder>
-  <file name="index.html" crc="361214125" seo="true" mt="1607570584269" redirect="true"/>
+  <file name="index.html" crc="49747610" seo="true" mt="1607571781016" redirect="true"/>
   <file name="live.html" crc="3971298080" seo="true" mt="1607570643127" redirect="true"/>
   <file name="stream.html" crc="3989366469" seo="true" mt="1607571499211" redirect="true"/>
 </manifest>

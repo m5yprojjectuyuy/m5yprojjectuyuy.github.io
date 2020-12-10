@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607548812816">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607559406114">
   <folder name="css">
     <file name="site_global.css" crc="324807934"/>
-    <file name="live.css" crc="74288324" ref="live"/>
-    <file name="index.css" crc="249667084" ref="index"/>
-    <file name="stream.css" crc="370740007" ref="stream"/>
+    <file name="stream.css" crc="4073590024" ref="stream"/>
+    <file name="index.css" crc="4290305154" ref="index"/>
+    <file name="live.css" crc="3968703733" ref="live"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -242,7 +242,7 @@
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
   </folder>
-  <file name="index.html" crc="3950067702" seo="true" mt="1607548759818" redirect="true"/>
-  <file name="live.html" crc="242812951" seo="true" redirect="true"/>
-  <file name="stream.html" crc="3976599038" seo="true" redirect="true"/>
+  <file name="index.html" crc="4238058884" seo="true" mt="1607559314262" redirect="true"/>
+  <file name="live.html" crc="279703027" seo="true" mt="1607559099652" redirect="true"/>
+  <file name="stream.html" crc="4100159414" seo="true" redirect="true"/>
 </manifest>

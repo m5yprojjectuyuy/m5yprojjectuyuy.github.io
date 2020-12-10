@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607595522805">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607596054118">
   <folder name="css">
     <file name="site_global.css" crc="324807934"/>
-    <file name="stream.css" crc="4110024228" ref="stream"/>
+    <file name="stream.css" crc="370740007" ref="stream"/>
     <file name="index.css" crc="4208312272" ref="index"/>
     <file name="live.css" crc="3842823080" ref="live"/>
   </folder>
@@ -227,6 +227,16 @@
       <caption webpage="stream" alt=""/>
     </file>
     <file name="reactjs - значок_poster_.png" crc="4258840481" ref="stream"/>
+    <file name="уголок-другой---2.svg" crc="267718459" seo="true" ref="stream">
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+    </file>
+    <file name="уголок другой - 2_poster_.png" crc="502780990" ref="stream"/>
+    <file name="уголок-другой---1.svg" crc="62264173" seo="true" ref="stream">
+      <caption webpage="stream" alt=""/>
+      <caption webpage="stream" alt=""/>
+    </file>
+    <file name="уголок другой - 1_poster_.png" crc="4234463404" ref="stream"/>
     <file name="травка-5.svg" crc="3799209738" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
@@ -234,5 +244,5 @@
   </folder>
   <file name="index.html" crc="51813631" seo="true" mt="1607595448869" redirect="true"/>
   <file name="live.html" crc="85739566" seo="true" redirect="true"/>
-  <file name="stream.html" crc="88705444" seo="true" redirect="true"/>
+  <file name="stream.html" crc="3976599038" seo="true" mt="1607596036635" redirect="true"/>
 </manifest>

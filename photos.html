@@ -72,6 +72,31 @@ visibility: visible !important;
 		<video id="video_background" preload="auto" autoplay="true" loop muted>
 			<source src="assets/girl-session-2.mp4" type="video/mp4">
 			<source src=" " type="video/webm">
+
+        video#video{
+    min-height: 100vh;
+    min-width: 100vw;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: 0;
+    margin-top: -410px;
+}
+
+@media screen and (max-width:768px;){
+video#video{
+    margin-left: -50%;
+    min-width: 150%;
+}
+}
+
+@media screen and (max-width:450px){
+video#video{
+    margin-left: -100%;
+    min-width: 200%;
+}
+}
 			This browser does not support video
 		</video>
 

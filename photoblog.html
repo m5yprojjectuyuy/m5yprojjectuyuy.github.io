@@ -99,14 +99,16 @@ h3 {font-family: 'Jost', sans-serif;}
       <h3 id="u15970-20">В Нью-Йорке расположены также многочи-сленные парки. Один из них - Центральный парк. Он является крупнейшим в США и известнейшим в мире. Парк расположен на острове Манхэттен между 59-й и 110-й улицей, Пятой и Восьмой авеню; имеет прямоугольную форму. Длина парка около 4 километров, ширина около 800 метров, общая площадь 3,41 км². Парк посещают примерно 25 миллионов человек в год, он является наиболее посещаемым парком в США и его показ во многих фильмах и телевизионных шоу сделал парк одним из самых знаменитых в мире.</h3>
      </div>
 
-     <script type="text/javascript">
-     $("video").each(function(){jQuery(this).append('controlsList="nodownload"')});
-     </script>
+
+     $(document).ready(function(){
+        $('#videoElementID').bind('contextmenu',function() { return false; });
+     });
 
      <div class="grpelem" id="u16685"><!-- custom html -->
-       <script type="text/javascript">
-$("video").each(function(){jQuery(this).append('controlsList="nodownload"')});
-</script>
+
+       $(document).ready(function(){
+          $('#videoElementID').bind('contextmenu',function() { return false; });
+       });
          <iframe src="https://nastie.ml/player video/playerjs.html?file=https://nastie.ml/assets/New York 1.mp4" type="text/html" width=925 height=500 frameborder="0" allowfullscreen></iframe>
 
      </div>

@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607562510944">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607563232255">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="410464200" ref="index"/>
-    <file name="photos.css" crc="415577917" ref="photos"/>
+    <file name="index.css" crc="426177114" ref="index"/>
+    <file name="photos.css" crc="337303368" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="3794366839" seo="true" mt="1607672961000"/>
@@ -73,6 +73,6 @@
     <file name="значок фотоаппарата 6_poster_.png" crc="81700275" ref="index"/>
     <file name="photos-favicon.ico" crc="264791417" ref="photos"/>
   </folder>
-  <file name="index.html" crc="4085934809" seo="true" redirect="true"/>
-  <file name="photos.html" crc="486259210" seo="true" mt="1607561915474" redirect="true"/>
+  <file name="index.html" crc="4069270339" seo="true" mt="1607563211121" redirect="true"/>
+  <file name="photos.html" crc="289464630" seo="true" mt="1607563109026" redirect="true"/>
 </manifest>

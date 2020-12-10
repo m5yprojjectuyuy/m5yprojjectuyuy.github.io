@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128mm"
+   height="128mm"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="ЯБЛОКО ЗНАЧОК ДЛЯ САЙТА.svg">
+  <defs
+     id="defs2">
+    <path
+       id="SVGID_1_"
+       d="m 71.6,5 h 58.9 C 184.3,5 197,17.8 197,71.6 v 58.9 c 0,53.8 -12.8,66.5 -66.6,66.5 H 71.5 C 17.7,197 5,184.2 5,130.4 V 71.5 C 5,17.8 17.8,5 71.6,5 Z" />
+    <path
+       id="SVGID_1_-3"
+       d="m 71.6,5 h 58.9 C 184.3,5 197,17.8 197,71.6 v 58.9 c 0,53.8 -12.8,66.5 -66.6,66.5 H 71.5 C 17.7,197 5,184.2 5,130.4 V 71.5 C 5,17.8 17.8,5 71.6,5 Z" />
+    <radialGradient
+       id="0"
+       cx="332.14001"
+       cy="2511.8101"
+       r="3263.54"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".09"
+         stop-color="#fa8f21"
+         id="stop178" />
+      <stop
+         offset=".78"
+         stop-color="#d82d7e"
+         id="stop180" />
+    </radialGradient>
+    <radialGradient
+       id="1"
+       cx="1516.14"
+       cy="2623.8101"
+       r="2572.1201"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".64"
+         stop-color="#8c3aaa"
+         stop-opacity="0"
+         id="stop183" />
+      <stop
+         offset="1"
+         stop-color="#8c3aaa"
+         id="stop185" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="137.72728"
+     inkscape:cy="198.38903"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1423"
+     inkscape:window-height="914"
+     inkscape:window-x="78"
+     inkscape:window-y="78"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0.01382579,0,0,-0.01330692,-25.420524,148.34713)"
+       fill="#000000"
+       stroke="none"
+       id="g233"
+       style="stroke-width:2.60085">
+      <path
+         d="m 7983,10759 c -407,-47 -983,-406 -1269,-790 -165,-220 -262,-430 -346,-746 l -42,-158 2,-168 c 2,-92 7,-178 12,-192 13,-33 38,-38 214,-39 146,-1 155,0 280,37 334,97 579,243 753,450 42,51 105,119 138,153 110,108 251,348 329,556 78,209 113,403 123,679 l 6,177 -26,26 c -29,29 -45,30 -174,15 z"
+         id="path229"
+         style="stroke-width:2.60085" />
+      <path
+         d="m 7890,8692 c -198,-10 -731,-158 -1114,-308 -232,-91 -232,-91 -278,-99 -80,-13 -276,44 -613,180 -179,71 -363,125 -635,187 -114,25 -303,28 -385,5 -33,-9 -137,-30 -231,-46 -202,-36 -316,-71 -468,-146 -459,-224 -772,-546 -1020,-1050 -110,-222 -191,-439 -251,-670 -89,-343 -91,-1001 -4,-1400 10,-49 19,-107 19,-130 0,-48 9,-84 93,-415 78,-306 70,-281 219,-655 209,-525 275,-641 702,-1230 175,-241 264,-351 393,-482 135,-138 244,-218 398,-294 174,-85 250,-104 410,-103 205,0 370,42 684,174 198,83 211,87 571,161 108,23 208,21 360,-4 52,-8 130,-20 172,-26 85,-12 171,-40 393,-129 268,-108 457,-156 655,-168 288,-18 566,110 863,395 303,293 586,694 872,1235 77,146 200,445 221,535 9,36 24,81 35,99 10,18 12.8168,35.9437 19,54 389.959,1138.7622 701.143,2706.3073 -353,3596 -222.1314,187.4781 -418,395 -692,528 -171,83 -289,124 -454,158 -169,36 -421,57 -581,48 z"
+         id="path231"
+         style="stroke-width:2.60085"
+         sodipodi:nodetypes="cccccccccccsccccccccccccccccssccc" />
+    </g>
+  </g>
+  <style
+     id="style110">.st0{clip-path:url(#SVGID_2_);fill:#5181b8}.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#fff}</style>
+  <style
+     id="style144">.st0{clip-path:url(#SVGID_2_);fill:#5181b8}.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#fff}</style>
+</svg>

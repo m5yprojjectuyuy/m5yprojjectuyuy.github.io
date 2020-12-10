@@ -56,8 +56,8 @@ visibility: visible !important;
 		position: absolute;
 	}
 .audioplayer {
-    color: #000000;
-	background: #000000;
+    color: #FFFFFF;
+	background: #FF0000;
 }
 
 .audioplayer-playpause
@@ -89,17 +89,16 @@ visibility: visible !important;
 
 	.audioplayer:not(.audioplayer-playing) .audioplayer-playpause a
 	{
-    width: 10px;
-    height: 10px;
-    border: 2em solid #000000;
-    border-left-color: #000000;
-    border-radius: 522px;
-    opacity: .6;
-    content: '';
-    position: absolute;
-    top: -2060%;
-    left: 381%;
-    margin: 0; /* 8 4 */
+		width: 0;
+		height: 0;
+		border: 0.5em solid transparent; /* 8 */
+		border-right: none;
+		border-left-color: #FFFFFF;
+		content: '';
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		margin: -0.5em 0 0 -0.25em; /* 8 4 */
 	}
 
 	.audioplayer-playing .audioplayer-playpause a
@@ -117,7 +116,7 @@ visibility: visible !important;
 		{
 			width: 40%;
 			height: 100%;
-			background-color: #000000;
+			background-color: #FFFFFF;
 			content: '';
 			position: absolute;
 			top: 0;
@@ -143,7 +142,7 @@ visibility: visible !important;
 }
 	.audioplayer-time-current
 	{
-		border-left: 1px solid #000000;
+		border-left: 1px solid #FF0000;
 		left: 2.5em; /* 40 */
 	}
 	.audioplayer-time-duration
@@ -160,7 +159,7 @@ visibility: visible !important;
 .audioplayer-bar
 {
 	height: 0.875em; /* 14 */
-	background-color: #000000;
+	background-color: #FF0000;
 	cursor: pointer;
 	z-index: 1;
 	top: 50%;
@@ -183,14 +182,14 @@ visibility: visible !important;
 
 	.audioplayer-bar-loaded
 	{
-		background-color: #000000;
+		background-color: #FF0000;
 		z-index: 1;
 	}
 
 	.audioplayer-bar-played
 	{
         /* Accent Color */
-		background: #000000;
+		background: #FF0000;
 		z-index: 2;
 	}
 
@@ -198,7 +197,7 @@ visibility: visible !important;
 {
 	width: 2.5em; /* 40 */
 	height: 100%;
-	border-left: 1px solid #000000;
+	border-left: 1px solid #FF0000;
 	text-align: left;
 	text-indent: -9999px;
 	cursor: pointer;
@@ -211,7 +210,7 @@ visibility: visible !important;
 	.audioplayer-volume:hover,
 	.audioplayer-volume:focus
 	{
-		background-color: #000000;
+		background-color: #FF0000;
 
 
 	}
@@ -226,7 +225,7 @@ visibility: visible !important;
 		{
 			width: 0.313em; /* 5 */
 			height: 0.375em; /* 6 */
-			background-color: #000000;
+			background-color: #FFFFFF;
 			display: block;
 			position: relative;
 			z-index: 1;
@@ -246,7 +245,7 @@ visibility: visible !important;
 				height: 0;
 				border: 0.5em solid transparent; /* 8 */
 				border-left: none;
-				border-right-color: #000000;
+				border-right-color: #FFFFFF;
 				z-index: 2;
 				top: 50%;
 				right: -0.25em;
@@ -259,7 +258,7 @@ visibility: visible !important;
 				/* "volume" icon by Nicolas Gallagher, http://nicolasgallagher.com/pure-css-gui-icons */
 				width: 0.313em; /* 5 */
 				height: 0.313em; /* 5 */
-				border: 0.25em double #000000; /* 4 */
+				border: 0.25em double #FFFFFF; /* 4 */
 				border-width: 0.25em 0.25em 0 0; /* 4 */
 				left: 0.563em; /* 9 */
 				top: -0.063em; /* 1 */
@@ -281,7 +280,7 @@ visibility: visible !important;
 		position: absolute;
 		left: 0;
 		top: -9999px;
-		background: #000000;
+		background: #FF0000;
 
 
 
@@ -299,7 +298,7 @@ visibility: visible !important;
 		{
 			width: 40%;
 			height: 80%;
-			background-color: #000000;
+			background-color: #FF0000;
 			cursor: pointer;
 			position: relative;
 			z-index: 1;
@@ -315,7 +314,7 @@ visibility: visible !important;
 				bottom: 0;
 				left: 0;
                 /* Accent Color */
-				background: #000000;
+				background: #FF0000;
 			}
 	.audioplayer-novolume .audioplayer-volume
 	{

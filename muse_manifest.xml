@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607565935557">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607566824022">
   <folder name="css">
     <file name="site_global.css" crc="324807934"/>
     <file name="story.css" crc="4005747325" ref="story"/>
     <file name="stream.css" crc="4279966603" ref="stream"/>
-    <file name="live.css" crc="444201718" ref="live"/>
+    <file name="live.css" crc="4010390541" ref="live"/>
     <file name="index.css" crc="152337209" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -253,7 +253,7 @@
     </file>
   </folder>
   <file name="index.html" crc="3789652051" seo="true" mt="1607565794979" redirect="true"/>
-  <file name="live.html" crc="4069607033" seo="true" mt="1607565881996" redirect="true"/>
+  <file name="live.html" crc="350286890" seo="true" mt="1607566779820" redirect="true"/>
   <file name="stream.html" crc="90551619" seo="true" mt="1607560699228" redirect="true"/>
   <file name="story.html" crc="534597876" seo="true" mt="1607559075932" redirect="true"/>
 </manifest>

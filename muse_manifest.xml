@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607555836666">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607588408197">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="4065951235" ref="index"/>
-    <file name="photoblog.css" crc="507369082" ref="photoblog"/>
+    <file name="live.css" crc="423006507" ref="live"/>
+    <file name="index.css" crc="3844601450" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photoblog"/>
-    <file name="museutils.js" crc="3939489907" ref="index:photoblog"/>
-    <file name="whatinput.js" crc="86476730" ref="index:photoblog"/>
-    <file name="museconfig.js" crc="128606099" ref="index:photoblog"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live"/>
+    <file name="museutils.js" crc="3939489907" ref="index:live"/>
+    <file name="whatinput.js" crc="86476730" ref="index:live"/>
+    <file name="museconfig.js" crc="128606099" ref="index:live"/>
     <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="require.js" crc="4177726516" ref="index:photoblog"/>
+    <file name="require.js" crc="4177726516" ref="index:live"/>
   </folder>
   <folder name="images">
     <file name="nastie-favicon.ico" crc="185933360" ref="index"/>
@@ -74,65 +74,78 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="значок фотоаппарата 6_poster_.png" crc="81700275" ref="index"/>
-    <file name="photoblog-favicon.ico" crc="185933360" ref="photoblog"/>
-    <file name="photoblog--текст.svg" crc="473969202" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
+    <file name="live-favicon.ico" crc="185933360" ref="live"/>
+    <file name="live-надпись.svg" crc="3941468971" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
     </file>
-    <file name="photoblog текст_poster_.png" crc="3782462557" ref="photoblog"/>
-    <file name="путешествие.gif" crc="3898620689" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
+    <file name="live надпись_poster_.png" crc="144828513" ref="live"/>
+    <file name="путешествие.gif" crc="3898620689" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
     </file>
-    <file name="скругление-прав-верх.svg" crc="10381034" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-      <caption webpage="photoblog" alt=""/>
+    <file name="скругление-прав-верх.svg" crc="10381034" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
     </file>
-    <file name="скругление прав верх_poster_.png" crc="375926554" ref="photoblog"/>
-    <file name="скругление-лев-верх.svg" crc="3824610968" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-      <caption webpage="photoblog" alt=""/>
+    <file name="скругление прав верх_poster_.png" crc="375926554" ref="live"/>
+    <file name="скругление-лев-верх.svg" crc="3824610968" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
     </file>
-    <file name="скругление лев верх_poster_.png" crc="523956865" ref="photoblog"/>
-    <file name="скругление-лев-ниж.svg" crc="82011021" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-      <caption webpage="photoblog" alt=""/>
+    <file name="скругление лев верх_poster_.png" crc="523956865" ref="live"/>
+    <file name="скругление-лев-ниж.svg" crc="82011021" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
     </file>
-    <file name="скругление лев ниж_poster_.png" crc="4067155936" ref="photoblog"/>
-    <file name="скругление-прав-ниж.svg" crc="3871499448" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-      <caption webpage="photoblog" alt=""/>
+    <file name="скругление лев ниж_poster_.png" crc="4067155936" ref="live"/>
+    <file name="скругление-прав-ниж.svg" crc="3871499448" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
     </file>
-    <file name="скругление прав ниж_poster_.png" crc="4240727963" ref="photoblog"/>
-    <file name="нью-йорк-9.jpg" crc="3947888258" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
+    <file name="скругление прав ниж_poster_.png" crc="4240727963" ref="live"/>
+    <file name="уоткинс (5).jpg" crc="4101464138" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
     </file>
-    <file name="нью-йорк-7.jpg" crc="124121566" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
+    <file name="уоткинс 8.jpg" crc="4101593288" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
     </file>
-    <file name="кыштым 1.jpg" crc="337845874" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
+    <file name="уоткинс (4).jpg" crc="4237383752" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
     </file>
-    <file name="грузя-1.jpg" crc="289590724" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
+    <file name="нью-йорк-9.jpg" crc="3947888258" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
     </file>
-    <file name="грузия.jpg" crc="4169547835" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
+    <file name="нью-йорк-7.jpg" crc="124121566" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
     </file>
-    <file name="алушта-(3).jpg" crc="248962055" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
+    <file name="кыштым 1.jpg" crc="337845874" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
     </file>
-    <file name="алушта (1).jpg" crc="55052970" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
+    <file name="грузя-1.jpg" crc="289590724" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
     </file>
-    <file name="черногория.jpg" crc="3871041118" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
+    <file name="грузия.jpg" crc="4169547835" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
     </file>
-    <file name="феодосия-крым-5.jpg" crc="3810602051" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
+    <file name="алушта-(3).jpg" crc="248962055" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
     </file>
-    <file name="животные (1).jpg" crc="258267742" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
+    <file name="алушта (1).jpg" crc="55052970" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="черногория.jpg" crc="3871041118" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="феодосия-крым-5.jpg" crc="3810602051" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="животные (1).jpg" crc="258267742" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4196264159" seo="true" mt="1607555815172" redirect="true"/>
-  <file name="photoblog.html" crc="79086130" seo="true" mt="1607555479689" redirect="true"/>
+  <file name="index.html" crc="513080512" seo="true" mt="1607566357796" redirect="true"/>
+  <file name="live.html" crc="69077991" seo="true" mt="1607588339188" redirect="true"/>
 </manifest>

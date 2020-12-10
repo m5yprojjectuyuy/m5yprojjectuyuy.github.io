@@ -175,7 +175,102 @@
      }
    </script>
 
+   <script>
+     window.create_callback_for_blocked = function(key) {
+       return function() {
+         googletag.cmd.push(function () {
+           googletag.display(key);
+         });
+       }
+     }
 
+     window.habr_blockers_checker = new function() {
+       var result;
+       var callbacksQueue = [];
+       var calledOnce = false;
+
+       function fireCallbacks() {
+         callbacksQueue.forEach(function(callback) {
+           callback(result);
+         });
+         callbacksQueue = [];
+       }
+
+       this.detect = function(imgUrl, callback) {
+         var checksRemain = 2;
+         var detected = false;
+         var error1 = false;
+         var error2 = false;
+
+         if (typeof callback !== 'function') {
+           return;
+         };
+
+         callbacksQueue.push(callback);
+
+         if (typeof result !== 'undefined') {
+           fireCallbacks();
+         };
+
+         if (calledOnce) {
+           return;
+         }
+         calledOnce = true;
+
+         imgUrl += '?ch=*&rn=*';
+
+         function beforeCheck(timeout) {
+           if (checksRemain === 0 || timeout > 1E3) {
+             result = checksRemain === 0 && detected;
+             fireCallbacks();
+           } else {
+             setTimeout(function() {
+               beforeCheck(timeout * 2)
+             }, timeout * 2);
+           }
+         }
+
+         function checkImages() {
+           if (--checksRemain) {
+             return;
+           };
+           detected = !error1 && error2;
+         }
+
+         var random = Math.random() * 11;
+
+         var img1 = new Image;
+         img1.onload = checkImages;
+         img1.onerror = function() {
+           error1 = true;
+           checkImages()
+         };
+         img1.src = imgUrl.replace(/\*/, 1).replace(/\*/, random);
+
+         var img2 = new Image;
+         img2.onload = checkImages;
+         img2.onerror = function() {
+           error2 = true;
+           checkImages()
+         };
+         img2.src = imgUrl.replace(/\*/, 2).replace(/\*/, random);
+
+         beforeCheck(250, callback)
+       };
+
+       this.detectWrapper = function(callback) {
+         return this.detect('/images/px.gif', callback);
+       };
+     };
+
+     window.display_dfp_slot = function(key) {
+       if (window.habr_blockers_checker) {
+         window.habr_blockers_checker.detectWrapper(window.create_callback_for_blocked(key));
+       } else {
+         window.create_callback_for_blocked(key)();
+       }
+     };
+   </script>
 
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>

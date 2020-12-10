@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607551175046">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607564964034">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="live.css" crc="209509329" ref="live"/>
-    <file name="index.css" crc="48893900" ref="index"/>
-    <file name="stream.css" crc="4025318200" ref="stream"/>
+    <file name="index.css" crc="4274756611" ref="index"/>
+    <file name="live.css" crc="164506345" ref="live"/>
+    <file name="stream.css" crc="455412310" ref="stream"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -91,6 +91,14 @@
     <file name="путешествие.gif" crc="3898620689" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
+    <file name="тюльпаны.jpg" crc="352222658" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="бирка--лейбл--8-7.svg" crc="4069952433" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="бирка- лейбл 8-7_poster_.png" crc="4290716120" ref="live"/>
     <file name="скругление-прав-верх.svg" crc="10381034" seo="true" ref="live">
       <caption webpage="live" alt=""/>
       <caption webpage="live" alt=""/>
@@ -136,10 +144,6 @@
       <caption webpage="live" alt=""/>
     </file>
     <file name="спираль скоросшиватель - вариант 5 (только низ)_poster_.png" crc="162479144" ref="live"/>
-    <file name="бирка--лейбл--8-7.svg" crc="4069952433" seo="true" ref="live">
-      <caption webpage="live" alt=""/>
-    </file>
-    <file name="бирка- лейбл 8-7_poster_.png" crc="4290716120" ref="live"/>
     <file name="нью-йорк-7.jpg" crc="124121566" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
@@ -238,7 +242,7 @@
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
   </folder>
-  <file name="index.html" crc="467709871" seo="true" redirect="true"/>
-  <file name="live.html" crc="14964052" seo="true" mt="1607550918860" redirect="true"/>
-  <file name="stream.html" crc="355624495" seo="true" mt="1607551143568" redirect="true"/>
+  <file name="index.html" crc="434357689" seo="true" redirect="true"/>
+  <file name="live.html" crc="3865884768" seo="true" mt="1607564930694" redirect="true"/>
+  <file name="stream.html" crc="428818872" seo="true" mt="1607551143568" redirect="true"/>
 </manifest>

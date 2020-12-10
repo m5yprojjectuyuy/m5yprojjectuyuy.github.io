@@ -256,6 +256,26 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=4177726516" type="text/javascript" async data-main="scripts/museconfig.js?crc=128606099" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
 
+
+  <script type="text/javascript">
+          $(document).ready(function(){
+              $("#loadmorebutton").click(function (){
+                  $('#loadmorebutton').html('<img src="ajax-loader.gif" />');
+                  $.ajax({
+                      url: "loadmore.php?lastid=" + $(".postitem:last").attr("id"),
+                      success: function(html){
+                          if(html){
+                              $("#postswrapper").append(html);
+                              $('#loadmorebutton').html('Load More');
+                          }else{
+                              $('#loadmorebutton').replaceWith('<center>No more posts to show.</center>');
+                          }
+                      }
+                  });
+              });
+          });
+      </script>
+
   <!--HTML Widget code-->
 <script>
   $(function(){

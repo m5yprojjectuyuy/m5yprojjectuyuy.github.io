@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607570686714">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607571532882">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="index.css" crc="3879620381" ref="index"/>
-    <file name="stream.css" crc="4193638053" ref="stream"/>
+    <file name="stream.css" crc="4158930494" ref="stream"/>
     <file name="live.css" crc="3862093500" ref="live"/>
   </folder>
   <folder name="scripts">
@@ -167,9 +167,9 @@
     <file name="stream----надпись.svg" crc="239184772" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
-    <file name="stream - надпись_poster_.png" crc="3850967286" ref="stream"/>
+    <file name="stream - надпись_poster_.png" crc="66388488" ref="stream"/>
   </folder>
   <file name="index.html" crc="361214125" seo="true" mt="1607570584269" redirect="true"/>
   <file name="live.html" crc="3971298080" seo="true" mt="1607570643127" redirect="true"/>
-  <file name="stream.html" crc="36201938" seo="true" mt="1607570661216" redirect="true"/>
+  <file name="stream.html" crc="3989366469" seo="true" mt="1607571499211" redirect="true"/>
 </manifest>

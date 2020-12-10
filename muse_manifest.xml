@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607590131847">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607558659871">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="photoblog.css" crc="3893550371" ref="photoblog"/>
+    <file name="photoblog.css" crc="110426635" ref="photoblog"/>
     <file name="index.css" crc="492103315" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -82,6 +82,22 @@
     <file name="путешествие.gif" crc="3898620689" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
+    <file name="скругление-прав-верх.svg" crc="10381034" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
+    <file name="скругление прав верх_poster_.png" crc="50095292" ref="photoblog"/>
+    <file name="скругление-лев-верх.svg" crc="3824610968" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
+    <file name="скругление лев верх_poster_.png" crc="3948787679" ref="photoblog"/>
+    <file name="скругление-лев-ниж.svg" crc="82011021" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
+    <file name="скругление лев ниж_poster_.png" crc="4032579695" ref="photoblog"/>
+    <file name="скругление-прав-ниж.svg" crc="3871499448" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
+    <file name="скругление прав ниж_poster_.png" crc="3188586" ref="photoblog"/>
     <file name="нью-йорк-9.jpg" crc="3947888258" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
@@ -113,6 +129,6 @@
       <caption webpage="photoblog" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="528170421" seo="true" redirect="true"/>
-  <file name="photoblog.html" crc="195118518" seo="true" mt="1607589792515" redirect="true"/>
+  <file name="index.html" crc="528170421" seo="true" mt="1607557784956" redirect="true"/>
+  <file name="photoblog.html" crc="3908099822" seo="true" mt="1607558526571" redirect="true"/>
 </manifest>

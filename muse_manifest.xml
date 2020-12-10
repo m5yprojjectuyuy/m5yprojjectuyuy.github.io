@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607567626310">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607587153125">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="4164538267" ref="index"/>
-    <file name="photoblog.css" crc="518108129" ref="photoblog"/>
+    <file name="index.css" crc="304675675" ref="index"/>
+    <file name="photoblog.css" crc="31276379" ref="photoblog"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photoblog"/>
@@ -58,6 +58,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="инстагр_poster_.png" crc="108135731" ref="index"/>
+    <file name="telephone.svg" crc="3954588775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telephone_poster_.png" crc="1801781" ref="index"/>
     <file name="gmail-4.svg" crc="336301288" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -129,6 +133,6 @@
       <caption webpage="photoblog" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="367056196" seo="true" mt="1607557061146" redirect="true"/>
-  <file name="photoblog.html" crc="3889157280" seo="true" mt="1607560372525" redirect="true"/>
+  <file name="index.html" crc="266278677" seo="true" mt="1607587056712" redirect="true"/>
+  <file name="photoblog.html" crc="4010095260" seo="true" mt="1607585326843" redirect="true"/>
 </manifest>

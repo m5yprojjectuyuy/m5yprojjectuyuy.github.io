@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607561210758">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607572281574">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="live.css" crc="4027166629" ref="live"/>
-    <file name="index.css" crc="530487366" ref="index"/>
+    <file name="index.css" crc="4050360065" ref="index"/>
     <file name="stream.css" crc="3925233810" ref="stream"/>
   </folder>
   <folder name="scripts">
@@ -88,35 +88,35 @@
       <caption webpage="live" alt=""/>
     </file>
     <file name="скругление-прав-верх.svg" crc="10381034" seo="true" ref="live:stream">
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
       <caption webpage="stream" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
     </file>
     <file name="скругление прав верх_poster_.png" crc="375926554" ref="live"/>
     <file name="скругление-лев-верх.svg" crc="3824610968" seo="true" ref="live:stream">
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
       <caption webpage="stream" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
     </file>
     <file name="скругление лев верх_poster_.png" crc="523956865" ref="live"/>
     <file name="скругление-лев-ниж.svg" crc="82011021" seo="true" ref="live:stream">
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
       <caption webpage="stream" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
     </file>
     <file name="скругление лев ниж_poster_.png" crc="4067155936" ref="live"/>
     <file name="скругление-прав-ниж.svg" crc="3871499448" seo="true" ref="live:stream">
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
-      <caption webpage="live" alt=""/>
       <caption webpage="stream" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
     </file>
     <file name="скругление прав ниж_poster_.png" crc="4240727963" ref="live"/>
     <file name="уоткинс (4).jpg" crc="4243826066" seo="true" ref="live">
@@ -176,7 +176,7 @@
     </file>
     <file name="htpps - надпись 2_poster_.png" crc="4084330652" ref="stream"/>
   </folder>
-  <file name="index.html" crc="42229007" seo="true" mt="1607560597418" redirect="true"/>
+  <file name="index.html" crc="250339452" seo="true" mt="1607572249705" redirect="true"/>
   <file name="live.html" crc="128435418" seo="true" mt="1607560811716" redirect="true"/>
   <file name="stream.html" crc="4082100308" seo="true" mt="1607561132596" redirect="true"/>
 </manifest>

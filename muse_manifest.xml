@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607561413598">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607565935557">
   <folder name="css">
     <file name="site_global.css" crc="324807934"/>
     <file name="story.css" crc="4005747325" ref="story"/>
     <file name="stream.css" crc="4279966603" ref="stream"/>
-    <file name="live.css" crc="4089518966" ref="live"/>
-    <file name="index.css" crc="310867388" ref="index"/>
+    <file name="live.css" crc="444201718" ref="live"/>
+    <file name="index.css" crc="152337209" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream:story"/>
@@ -81,24 +81,24 @@
     </file>
     <file name="значок фотоаппарата 6_poster_.png" crc="81700275" ref="index"/>
     <file name="live-favicon.ico" crc="293138087" ref="live"/>
-    <file name="бабаочка-3.svg" crc="33619053" seo="true" ref="live">
-      <caption webpage="live" alt=""/>
-    </file>
-    <file name="бабаочка 3_poster_.png" crc="168568021" ref="live"/>
     <file name="live-надпись.svg" crc="3941468971" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="live надпись_poster_.png" crc="144828513" ref="live"/>
+    <file name="бабаочка-3.svg" crc="33619053" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="бабаочка 3_poster_.png" crc="168568021" ref="live"/>
     <file name="путешествие.gif" crc="3898620689" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="тюльпаны.jpg" crc="4084235016" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="story-кнопка.svg" crc="4164779951" seo="true" ref="live">
+    <file name="story-кнопка--2.svg" crc="4072174344" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="story кнопка_poster_.png" crc="4062438928" ref="live"/>
+    <file name="story кнопка -2_poster_.png" crc="432966126" ref="live"/>
     <file name="stream-favicon.ico" crc="293138087" ref="stream"/>
     <file name="stream----надпись-2.svg" crc="495385725" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
@@ -252,8 +252,8 @@
       <caption webpage="story" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3824634866" seo="true" mt="1607560406235" redirect="true"/>
-  <file name="live.html" crc="3978411490" seo="true" mt="1607561286635" redirect="true"/>
+  <file name="index.html" crc="3789652051" seo="true" mt="1607565794979" redirect="true"/>
+  <file name="live.html" crc="4069607033" seo="true" mt="1607565881996" redirect="true"/>
   <file name="stream.html" crc="90551619" seo="true" mt="1607560699228" redirect="true"/>
   <file name="story.html" crc="534597876" seo="true" mt="1607559075932" redirect="true"/>
 </manifest>

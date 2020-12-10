@@ -99,7 +99,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4159618"
+     inkscape:zoom="1.3020338"
      inkscape:cx="375.24721"
      inkscape:cy="91.307989"
      inkscape:document-units="mm"
@@ -108,8 +108,8 @@
      showgrid="false"
      inkscape:window-width="1609"
      inkscape:window-height="970"
-     inkscape:window-x="295"
-     inkscape:window-y="31"
+     inkscape:window-x="185"
+     inkscape:window-y="100"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:object-paths="true"
@@ -153,7 +153,7 @@
          inkscape:label="Слой 2">
         <path
            id="rect947-9"
-           style="fill:#008080;fill-opacity:1;stroke-width:1.965;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:10.8095"
+           style="fill:#ac9393;fill-opacity:1;stroke-width:1.965;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:10.8095"
            d="m 51.21428,10.14056 c -4.421569,0 -7.980908,2.980176 -7.980908,6.68176 v 29.33355 c 0,3.701583 3.559339,6.681326 7.980908,6.681326 h 128.56768 c 10.79095,0 19.84829,-10.674159 19.86007,-21.348318 0.0118,-10.674159 -9.022,-21.348318 -19.86007,-21.348318 z m 1.852276,16.7137 c 0.281011,-0.0021 1.267139,-1.140854 1.924127,-0.753651 0.656989,0.387198 2.719948,1.782567 2.334992,3.120998 l -0.532078,2.854747 c -0.582991,1.287213 -3.164096,2.060331 -4.719284,1.61306 -1.555069,-0.447198 -2.694222,-3.44969 -2.209474,-4.765026 0.391124,-1.060781 1.2617,-2.060558 2.587754,-2.070125 z"
            sodipodi:nodetypes="sssscscsczcccccc" />
       </g>

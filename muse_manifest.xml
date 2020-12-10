@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607717310328">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607639801467">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="index.css" crc="3916279759" ref="index"/>
-    <file name="photos.css" crc="185479772" ref="photos"/>
+    <file name="photos.css" crc="4254306643" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="3794366839" seo="true" mt="1607672961000"/>
@@ -79,7 +79,22 @@
     <file name="70831_mondrian.jpg" crc="30360356" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
+    <file name="абстракц (1).jpg" crc="3787296708" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="абстракц (2).jpg" crc="408729410" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="абстракц (4).jpg" crc="484786012" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="абстракц (5).jpg" crc="73078674" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="абстракц (3).jpg" crc="51509331" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="43302577" seo="true" mt="1607717256277" redirect="true"/>
-  <file name="photos.html" crc="523101143" seo="true" mt="1607716644672" redirect="true"/>
+  <file name="photos.html" crc="4117934093" seo="true" mt="1607639779104" redirect="true"/>
 </manifest>

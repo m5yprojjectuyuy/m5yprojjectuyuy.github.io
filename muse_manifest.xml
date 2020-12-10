@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607569321104">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607570370326">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="index.css" crc="4079975405" ref="index"/>
-    <file name="live.css" crc="4000450264" ref="live"/>
+    <file name="live.css" crc="448739638" ref="live"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live"/>
@@ -145,5 +145,5 @@
     </file>
   </folder>
   <file name="index.html" crc="307561889" seo="true" mt="1607569191251" redirect="true"/>
-  <file name="live.html" crc="4163452235" seo="true" mt="1607569262347" redirect="true"/>
+  <file name="live.html" crc="4011430394" seo="true" mt="1607570330584" redirect="true"/>
 </manifest>

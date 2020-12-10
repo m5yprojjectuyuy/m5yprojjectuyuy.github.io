@@ -2,10 +2,16 @@
 <html class="nojs html" lang="ru-RU">
  <head>
 
-
-
-<body onLoad="setTimeout(function() {window.scrollTo(0, 1)}, 100);">
-  
+   if (document.body.webkitRequestFullScreen) {
+     window.addEventListener('click', function(e) {
+       if (e.target.type != 'text' && e.target.type != 'password') {
+         body.webkitRequestFullScreen();
+         window.setTimeout(function() {
+           document.webkitCancelFullScreen();
+         }, 500);
+       }
+     }, false);
+   }
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="description" content="Welcome to my official site! Here you will find some information about me!"/>

@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607564211024">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607565591825">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="live.css" crc="4027166629" ref="live"/>
@@ -177,10 +177,10 @@
       <caption webpage="stream" alt=""/>
     </file>
     <file name="уголок другой - 2_poster_.png" crc="502780990" ref="stream"/>
-    <file name="stream---значок-2.svg" crc="4263155903" seo="true" ref="stream">
+    <file name="stream---значок-2.svg" crc="250116248" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
-    <file name="stream - значок 2_poster_.png" crc="334117152" ref="stream"/>
+    <file name="stream - значок 2_poster_.png" crc="3982138488" ref="stream"/>
     <file name="cp-значок.svg" crc="4109203804" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
@@ -192,5 +192,5 @@
   </folder>
   <file name="index.html" crc="250339452" seo="true" mt="1607563677053" redirect="true"/>
   <file name="live.html" crc="128435418" seo="true" redirect="true"/>
-  <file name="stream.html" crc="3995545322" seo="true" mt="1607564069774" redirect="true"/>
+  <file name="stream.html" crc="4036911320" seo="true" mt="1607565545101" redirect="true"/>
 </manifest>

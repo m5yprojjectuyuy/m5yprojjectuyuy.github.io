@@ -534,5 +534,32 @@ $(document).ready(function(){
 </script>
 
 
+  <!-- JS includes -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+
+
+<script>
+$(document).ready(function() {
+    $('a[attr^=\"noreload\"]').click(function(){ // Захватываем все ссылки с атрибутом attr="noreload"
+    var toLoad = $(this).attr('href')+' .wrapper';
+    var toLoadTitle = $(this).attr('href')+' title';
+    var toLoadUrl = $(this).attr('href');
+    loadContent();
+    $('.wrapper').html('<center><span id="load">Загрузка...</span></center>'); // Добавляем надпись во время загрузки
+    function loadContent() {
+     $('body').load(toLoad,'',changeURL());
+     $('title').load(toLoadTitle,'', changeTitle());
+    }
+    function changeURL() {
+     history.pushState($('title'), null, toLoadUrl); // Меняем URL страницы и добавляем в историю (поддерживают не все браузеры)
+    }
+    function changeTitle() {
+    document.title = $('title').html().replace(/<title>(.*?)<\/title>/, "$1"); // Меняем заголовок страницы
+    }
+    return false;
+    });
+});
+</script>
+
    </body>
 </html>

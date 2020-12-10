@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607752594202">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607582337218">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3913955187" ref="index"/>
+    <file name="index.css" crc="254225634" ref="index"/>
     <file name="photos.css" crc="361399798" ref="photos"/>
   </folder>
   <folder name="assets">
@@ -58,16 +58,16 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="в онтактах_poster_.png" crc="127666946" ref="index"/>
-    <file name="значок-фотоаппарата-4.svg" crc="293385387" seo="true" ref="index">
+    <file name="значок-фотоаппарата-5.svg" crc="218093123" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="значок фотоаппарата 4_poster_.png" crc="4284760362" ref="index"/>
+    <file name="значок фотоаппарата 5_poster_.png" crc="3845462846" ref="index"/>
     <file name="photos-favicon.ico" crc="264791417" ref="photos"/>
     <file name="настя-лицо-образ.svg" crc="3835624241" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
     <file name="настя лицо образ_poster_.png" crc="4113318232" ref="photos"/>
   </folder>
-  <file name="index.html" crc="483691125" seo="true" mt="1607752558208" redirect="true"/>
-  <file name="photos.html" crc="3758998025" seo="true" mt="1607674097571" redirect="true"/>
+  <file name="index.html" crc="434067687" seo="true" mt="1607582294439" redirect="true"/>
+  <file name="photos.html" crc="3758998025" seo="true" mt="1607753602909" redirect="true"/>
 </manifest>

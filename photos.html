@@ -18,7 +18,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>PHOTOS</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/photos.css?crc=210400115" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/photos.css?crc=339521796" id="pagesheet"/>
     <!--custom head HTML-->
   <!-- Chrome, Firefox OS and Opera -->
 <meta name="theme-color" content="#FF0000">
@@ -45,6 +45,7 @@ visibility: visible !important;
     <div class="size_fixed" id="u5004" data-sizePolicy="fixed" data-pintopage="topcenter"><!-- custom html -->
 
 <video width="100%" height="100%" title="Video tooltip on hover." poster="Add File" loop autoplay muted  autoplay="autoplay" id="vid">
+
   <source src="assets/fotosession-2.mp4" type="video/mp4">
   <source src="Add File" type="video/ogg">
   <source src="Add File" type="video/webm">
@@ -54,20 +55,21 @@ visibility: visible !important;
     <div class="clearfix" id="u5005-4"><!-- content -->
      <p>place for photos</p>
     </div>
-   </div>
-   <div class="size_fixed grpelem" id="u5008" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
-
-
-   </div>
-   <div class="size_fixed grpelem" id="u5007" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
-
-
-   </div>
-   <div class="clearfix grpelem" id="pu5006"><!-- group -->
     <div class="rounded-corners" id="u5006"><!-- simple frame --></div>
     <div class="rounded-corners" id="u5010"><!-- simple frame --></div>
    </div>
-   <div class="verticalspacer" data-offset-top="80" data-content-above-spacer="835" data-content-below-spacer="1015" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="clearfix grpelem" id="pu5007"><!-- group -->
+    <div class="size_fixed grpelem" id="u5007" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
+
+
+    </div>
+    <div class="size_fixed grpelem" id="u5008" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
+
+
+    </div>
+    <div class="grpelem" id="u5009" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- content --></div>
+   </div>
+   <div class="verticalspacer" data-offset-top="1097" data-content-above-spacer="1096" data-content-below-spacer="103" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
   </div>
   <!-- JS includes -->
   <script type="text/javascript">
@@ -103,6 +105,13 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 
   <!--HTML Widget code-->
 
+<script type="text/javascript">
+$(document).ready(function() {
+	$("body").attr("oncopy","return false");
+	$("body").attr("oncontextmenu","return false")
+});
+</script>
+
 <script>
 $(document).ready(function(){
     $(document).bind("contextmenu",function(e){
@@ -118,13 +127,6 @@ $(document).ready(function(){
 });
 </script>
 
-
-<script type="text/javascript">
-$(document).ready(function() {
-	$("body").attr("oncopy","return false");
-	$("body").attr("oncontextmenu","return false")
-});
-</script>
 
    </body>
 </html>

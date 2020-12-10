@@ -201,9 +201,18 @@ h3 {font-family: 'Jost', sans-serif;}
      </div>
     </div>
     <div class="colelem" id="u13189"><!-- simple frame --></div>
-    <a class="nonblock nontext transition clip_frame colelem" id="u26977" href="live-1"><!-- svg --><img class="svg" id="u26973" src="images/%d0%b7%d0%bd%d0%b0%d0%ba-%d0%b2%d0%bf%d0%b5%d1%80%d1%91%d0%b4.svg?crc=3822730958" width="108" height="108" alt="" data-mu-svgfallback="images/%d0%b7%d0%bd%d0%b0%d0%ba%20%d0%b2%d0%bf%d0%b5%d1%80%d1%91%d0%b4_poster_.png?crc=3980381365"/></a>
+    <div id="content"><!-- Содержание блока, подлежащее замене --></div>
+    <a class="link-paginate" id="u26977" href="live-1"><!-- svg --><img class="svg" id="u26973" src="images/%d0%b7%d0%bd%d0%b0%d0%ba-%d0%b2%d0%bf%d0%b5%d1%80%d1%91%d0%b4.svg?crc=3822730958" width="108" height="108" alt="" data-mu-svgfallback="images/%d0%b7%d0%bd%d0%b0%d0%ba%20%d0%b2%d0%bf%d0%b5%d1%80%d1%91%d0%b4_poster_.png?crc=3980381365"/></a>
    </div>
   </div>
+
+  <script>
+    $('.link-paginate').on('click', function(e) {
+      e.preventDefault();
+      $('#content').load($(this).attr('href') + ' #content');
+    })
+  </script>
+
   <!-- JS includes -->
   <script type="text/javascript">
    if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');

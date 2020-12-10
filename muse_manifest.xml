@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607567787898">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607571862125">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="stream.css" crc="4218424366" ref="stream"/>
-    <file name="live.css" crc="366939778" ref="live"/>
+    <file name="live.css" crc="82804159" ref="live"/>
     <file name="index.css" crc="72279856" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -137,13 +137,13 @@
     <file name="times-sq-2.jpg" crc="4075255464" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="times-sq-3.jpg" crc="204959426" seo="true" ref="live">
+    <file name="times-sq-4.jpg" crc="3850924449" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="бабаочка-2.svg" crc="3771909984" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="бабаочка 2_poster_.png" crc="485812175" ref="live"/>
+    <file name="бабаочка 2_poster_.png" crc="63890847" ref="live"/>
     <file name="нью-йорк-7.jpg" crc="124121566" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
@@ -243,6 +243,6 @@
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
   </folder>
   <file name="index.html" crc="152659554" seo="true" mt="1607566476608" redirect="true"/>
-  <file name="live.html" crc="4223127984" seo="true" mt="1607567748998" redirect="true"/>
+  <file name="live.html" crc="4146870306" seo="true" mt="1607571838203" redirect="true"/>
   <file name="stream.html" crc="137467918" seo="true" mt="1607565388228" redirect="true"/>
 </manifest>

@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607597399696">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607559406114">
   <folder name="css">
     <file name="site_global.css" crc="324807934"/>
-    <file name="stream.css" crc="370740007" ref="stream"/>
-    <file name="index.css" crc="3798973653" ref="index"/>
-    <file name="live.css" crc="3842823080" ref="live"/>
+    <file name="stream.css" crc="4073590024" ref="stream"/>
+    <file name="index.css" crc="4290305154" ref="index"/>
+    <file name="live.css" crc="3968703733" ref="live"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -185,14 +185,14 @@
       <caption webpage="live" alt=""/>
     </file>
     <file name="бирка- лейбл 8_poster_.png" crc="3895329206" ref="live"/>
-    <file name="черногория.jpg" crc="3871041118" seo="true" ref="live">
+    <file name="черногория.jpg" crc="358621179" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="бирка--лейбл--8-1.svg" crc="4025291317" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="бирка- лейбл 8-1_poster_.png" crc="3765545084" ref="live"/>
-    <file name="феодосия-крым-5.jpg" crc="3810602051" seo="true" ref="live">
+    <file name="феодосия-крым-5.jpg" crc="216386453" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="бирка--лейбл--8-3.svg" crc="476721730" seo="true" ref="live">
@@ -242,7 +242,7 @@
     </file>
     <file name="травка 5_poster_.png" crc="179968976" ref="stream"/>
   </folder>
-  <file name="index.html" crc="4076633857" seo="true" mt="1607597362706" redirect="true"/>
-  <file name="live.html" crc="85739566" seo="true" redirect="true"/>
-  <file name="stream.html" crc="3976599038" seo="true" mt="1607596036635" redirect="true"/>
+  <file name="index.html" crc="4238058884" seo="true" mt="1607559314262" redirect="true"/>
+  <file name="live.html" crc="279703027" seo="true" mt="1607559099652" redirect="true"/>
+  <file name="stream.html" crc="4100159414" seo="true" redirect="true"/>
 </manifest>

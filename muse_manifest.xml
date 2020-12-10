@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607554538194">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607558688182">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="live.css" crc="3803625678" ref="live"/>
+    <file name="live.css" crc="468515717" ref="live"/>
     <file name="stream.css" crc="278549860" ref="stream"/>
     <file name="index.css" crc="4244919035" ref="index"/>
   </folder>
@@ -136,6 +136,10 @@
       <caption webpage="live" alt=""/>
     </file>
     <file name="спираль скоросшиватель - вариант 5 (только низ)_poster_.png" crc="162479144" ref="live"/>
+    <file name="многоугольник-2.svg" crc="3781042867" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="многоугольник 2_poster_.png" crc="21127444" ref="live"/>
     <file name="нью-йорк-7.jpg" crc="124121566" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
@@ -149,6 +153,10 @@
     <file name="кыштым 1.jpg" crc="337845874" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
+    <file name="многоугольник-3.svg" crc="127259161" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="многоугольник 3_poster_.png" crc="3820322135" ref="live"/>
     <file name="грузия.jpg" crc="4169547835" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
@@ -206,7 +214,7 @@
     </file>
     <file name="reactjs - значок_poster_.png" crc="4258840481" ref="stream"/>
   </folder>
-  <file name="index.html" crc="4133040808" seo="true" mt="1607553425818" redirect="true"/>
-  <file name="live.html" crc="489717433" seo="true" mt="1607554327840" redirect="true"/>
+  <file name="index.html" crc="4133040808" seo="true" mt="1607558087368" redirect="true"/>
+  <file name="live.html" crc="4239720899" seo="true" mt="1607558616535" redirect="true"/>
   <file name="stream.html" crc="3771181480" seo="true" redirect="true"/>
 </manifest>

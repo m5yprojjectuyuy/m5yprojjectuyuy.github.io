@@ -2,31 +2,16 @@
 <html class="nojs html" lang="ru-RU">
  <head>
 
-<body onLoad="setTimeout(function() {window.scrollTo(0, 1)}, 100);">
-
   <script type="text/javascript">
-   private boolean resizeView(float delta) {
-          heightChange = delta;
-          int newHeight = (int) (webViewOnTouchHeight - delta);
-          if (newHeight > baseHeight) { // scroll over top
-              if (webView.getLayoutParams().height < baseHeight) {
-                  webView.getLayoutParams().height = baseHeight;
-                  webView.requestLayout();
-                  return true;
-              }
-          } else if (newHeight < baseHeight - barHeight) { // scroll below bar
-              if (webView.getLayoutParams().height > baseHeight - barHeight) {
-                  webView.getLayoutParams().height = baseHeight - barHeight;
-                  webView.requestLayout();
-                  return true;
-              }
-          } else { // scroll between top and bar
-              webView.getLayoutParams().height = (int) (webViewOnTouchHeight - delta);
-              webView.requestLayout();
-              return true;
-          }
-          return false;
-      }
+   {
+                   height:100%;
+                   position:fixed; /* prevent overscroll bounce*/
+                   background-color: lightgreen;
+                   overflow-y:scroll;
+                   -webkit-overflow-scrolling: touch; /* iOS velocity scrolling */
+                   width:50%;
+                   margin-left:25%;
+               }
 
 </script>
 

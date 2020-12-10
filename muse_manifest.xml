@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607567871869">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607568746921">
   <folder name="css">
     <file name="site_global.css" crc="324807934"/>
     <file name="story.css" crc="4005747325" ref="story"/>
     <file name="stream.css" crc="4279966603" ref="stream"/>
-    <file name="live.css" crc="127653414" ref="live"/>
+    <file name="live.css" crc="393373085" ref="live"/>
     <file name="index.css" crc="152337209" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -99,10 +99,6 @@
       <caption webpage="live" alt=""/>
     </file>
     <file name="story кнопка -2_poster_.png" crc="432966126" ref="live"/>
-    <file name="бабаочка-5.svg" crc="3995927024" seo="true" ref="live">
-      <caption webpage="live" alt=""/>
-    </file>
-    <file name="бабаочка 5_poster_.png" crc="3926322897" ref="live"/>
     <file name="stream-favicon.ico" crc="293138087" ref="stream"/>
     <file name="stream----надпись-2.svg" crc="495385725" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
@@ -257,7 +253,7 @@
     </file>
   </folder>
   <file name="index.html" crc="3789652051" seo="true" mt="1607567743628" redirect="true"/>
-  <file name="live.html" crc="3879422270" seo="true" mt="1607567822370" redirect="true"/>
+  <file name="live.html" crc="4035318083" seo="true" mt="1607568473963" redirect="true"/>
   <file name="stream.html" crc="90551619" seo="true" mt="1607560699228" redirect="true"/>
   <file name="story.html" crc="534597876" seo="true" mt="1607559075932" redirect="true"/>
 </manifest>

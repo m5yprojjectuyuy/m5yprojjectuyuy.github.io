@@ -9,8 +9,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="199mm"
-   height="71mm"
-   viewBox="0 0 199 71"
+   height="45mm"
+   viewBox="0 0 199 45"
    version="1.1"
    id="svg8"
    sodipodi:docname="СИНУСОИДА 1.svg"
@@ -32,15 +32,15 @@
     <marker
        style="overflow:visible"
        id="Arrow1Lstart"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="Arrow1Lstart"
        inkscape:isstock="true">
       <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path866" />
     </marker>
     <inkscape:path-effect
@@ -64,11 +64,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient1184"
        id="linearGradient1186"
-       x1="4.7092887"
-       y1="35.182833"
-       x2="189.8657"
-       y2="35.182833"
-       gradientUnits="userSpaceOnUse" />
+       x1="4.7092886"
+       y1="35.182835"
+       x2="189.86571"
+       y2="35.182835"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.76325745,3.586496,-4.8212115)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -116,8 +117,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:url(#linearGradient1186);stroke-width:1.965;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-       d="M 5.6917887,39.383374 C 11.405564,49.218947 17.119331,59.054507 20.467793,56.116189 23.816256,53.177871 24.799348,37.466844 44.950924,38.083489 65.1025,38.700135 104.42136,55.64493 131.6054,54.305608 158.78944,52.966285 173.83639,33.343689 188.8832,13.721261"
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient1186);stroke-width:1.965;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 9.2782847,25.238442 C 14.99206,32.745516 20.705827,40.252581 24.054289,38.009887 27.402752,35.767194 28.385844,23.775636 48.53742,24.246295 c 20.151576,0.47066 59.47044,13.4039 86.65448,12.381653 27.18404,-1.022248 42.23099,-15.999341 57.2778,-30.9763045"
        id="path862"
        sodipodi:nodetypes="ccccc" />
   </g>

@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607578381251">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607579656541">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="stream.css" crc="3841922731" ref="stream"/>
+    <file name="stream.css" crc="3895284106" ref="stream"/>
     <file name="index.css" crc="4050360065" ref="index"/>
     <file name="live.css" crc="4027166629" ref="live"/>
   </folder>
@@ -167,10 +167,10 @@
       <caption webpage="stream" alt=""/>
     </file>
     <file name="stream - надпись 2_poster_.png" crc="124340245" ref="stream"/>
-    <file name="синусоида-1.svg" crc="54041952" seo="true" ref="stream">
+    <file name="синусоида-1.svg" crc="528177615" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
-    <file name="синусоида 1_poster_.png" crc="4132067305" ref="stream"/>
+    <file name="синусоида 1_poster_.png" crc="4133453393" ref="stream"/>
     <file name="уголок-другой---1.svg" crc="62264173" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
       <caption webpage="stream" alt=""/>
@@ -189,16 +189,16 @@
       <caption webpage="stream" alt=""/>
     </file>
     <file name="iso значок_poster_.png" crc="4199177994" ref="stream"/>
-    <file name="dolby-digital-значок.svg" crc="4202813499" seo="true" ref="stream">
+    <file name="dolby-digital-значок.svg" crc="389039585" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
-    <file name="dolby digital значок_poster_.png" crc="419537287" ref="stream"/>
+    <file name="dolby digital значок_poster_.png" crc="4040604587" ref="stream"/>
     <file name="htpps---надпись-2.svg" crc="65413208" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
     <file name="htpps - надпись 2_poster_.png" crc="4084330652" ref="stream"/>
   </folder>
-  <file name="index.html" crc="250339452" seo="true" mt="1607578302534" redirect="true"/>
+  <file name="index.html" crc="250339452" seo="true" mt="1607579360152" redirect="true"/>
   <file name="live.html" crc="301280558" seo="true" mt="1607576478508" redirect="true"/>
-  <file name="stream.html" crc="386718050" seo="true" mt="1607578341656" redirect="true"/>
+  <file name="stream.html" crc="3814672347" seo="true" mt="1607579631284" redirect="true"/>
 </manifest>

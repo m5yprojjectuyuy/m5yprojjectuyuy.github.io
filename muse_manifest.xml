@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607571592513">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607572858434">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4172598973" ref="index"/>
+    <file name="index.css" crc="4025264830" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="lana.mp3" crc="3971259011" seo="true" mt="1607562449000"/>
@@ -16,7 +16,28 @@
   </folder>
   <folder name="images">
     <file name="nastie-favicon.ico" crc="185933360" ref="index"/>
+    <file name="бабочка-13 a.gif" crc="334092850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="полоска-3.svg" crc="4054027369" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="полоска 3_poster_.png" crc="122172599" ref="index"/>
+    <file name="бабочки-а-1.svg" crc="4283562859" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="бабочки а 1_poster_.png" crc="4240484938" ref="index"/>
+    <file name="текст---happiness--2.svg" crc="4154198248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="текст - happiness 2_poster_.png" crc="3792203509" ref="index"/>
     <file name="цветок.jpg" crc="4003101768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="настик.jpg" crc="4049466237" seo="true" ref="index">
+      <caption webpage="index" alt="NASTIE, nastie, nastie efremova, NASTIE EFREMOVA, nastie evremova, "/>
+    </file>
+    <file name="шарик.gif" crc="235075892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -24,43 +45,22 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="telegram svg_poster_.png" crc="3983361583" ref="index"/>
-    <file name="в-онтактах.svg" crc="3771308657" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="в онтактах_poster_.png" crc="127666946" ref="index"/>
     <file name="инстагр.svg" crc="4067486096" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="инстагр_poster_.png" crc="108135731" ref="index"/>
-    <file name="апле.svg" crc="3979504517" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="апле_poster_.png" crc="491940012" ref="index"/>
-    <file name="шарик.gif" crc="235075892" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="бабочка-13 a.gif" crc="334092850" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="gmail-4.svg" crc="336301288" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="gmail-4_poster_.png" crc="278210196" ref="index"/>
-    <file name="настик.jpg" crc="4049466237" seo="true" ref="index">
-      <caption webpage="index" alt="NASTIE, nastie, nastie efremova, NASTIE EFREMOVA, nastie evremova, "/>
-    </file>
-    <file name="полоска-3.svg" crc="4054027369" seo="true" ref="index">
+    <file name="в-онтактах.svg" crc="3771308657" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="полоска 3_poster_.png" crc="122172599" ref="index"/>
-    <file name="текст---happiness--2.svg" crc="4154198248" seo="true" ref="index">
+    <file name="в онтактах_poster_.png" crc="127666946" ref="index"/>
+    <file name="апле.svg" crc="3979504517" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="текст - happiness 2_poster_.png" crc="3792203509" ref="index"/>
-    <file name="бабочки-а-1.svg" crc="4283562859" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="бабочки а 1_poster_.png" crc="4240484938" ref="index"/>
+    <file name="апле_poster_.png" crc="491940012" ref="index"/>
   </folder>
-  <file name="index.html" crc="4217964910" seo="true" mt="1607571560945" redirect="true"/>
+  <file name="index.html" crc="388142287" seo="true" mt="1607572828906" redirect="true"/>
 </manifest>

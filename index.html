@@ -2,6 +2,7 @@
 <html class="nojs html" lang="ru-RU">
  <head>
 
+ <style>
    function updateURL() {
        if (history.pushState) {
            var baseUrl = window.location.protocol + "//" + window.location.host + window.location.pathname;
@@ -12,19 +13,9 @@
            console.warn('History API не поддерживает ваш браузер');
        }
    }
+ </style>
 
-
-   <style>
-   window.addEventListener('popstate', function(e) {
-       // код обработчика события
-   });
-   </style>
-
-
-   window.addEventListener('popstate', function(e) {
-       // код обработчика события
-   });
-
+   
 
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>

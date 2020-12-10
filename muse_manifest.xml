@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607584689116">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607571592513">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="224107096" ref="index"/>
+    <file name="index.css" crc="4172598973" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="lana.mp3" crc="3971259011" seo="true" mt="1607562449000"/>
@@ -62,5 +62,5 @@
     </file>
     <file name="бабочки а 1_poster_.png" crc="4240484938" ref="index"/>
   </folder>
-  <file name="index.html" crc="168225837" seo="true" mt="1607584485281" redirect="true"/>
+  <file name="index.html" crc="4217964910" seo="true" mt="1607571560945" redirect="true"/>
 </manifest>

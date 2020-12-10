@@ -25,6 +25,16 @@ $(document).pjax('a', '#pjax-container')
    // Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
+<script type="text/javascript">
+if ($.support.pjax) {
+  $(document).on('click', 'a[data-pjax]', function(event) {
+    var container = $(this).closest('[data-pjax-container]')
+    var containerSelector = '#' + container.id
+    $.pjax.click(event, {container: containerSelector})
+  })
+}
+</script>
+
 // Check that all required assets are uploaded and up-to-date
 if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
@@ -275,6 +285,28 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 
 <!-- jquery.pjaxJS script -->
 <script src="jquery-pjax-master/jquery.pjax.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+$(document).pjax('[data-pjax] a, a[data-pjax]', '#pjax-container')
+</script>
+
+  <script type="text/javascript">
+$(document).pjax('a', '#pjax-container')
+</script>
+
+  <script type="text/javascript">
+   // Update the 'nojs'/'js' class on the html node
+document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
+
+<script type="text/javascript">
+if ($.support.pjax) {
+  $(document).on('click', 'a[data-pjax]', function(event) {
+    var container = $(this).closest('[data-pjax-container]')
+    var containerSelector = '#' + container.id
+    $.pjax.click(event, {container: containerSelector})
+  })
+}
+</script>
 
 
   <!--HTML Widget code-->

@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607562575377">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607563904909">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="index.css" crc="530487366" ref="index"/>
-    <file name="stream.css" crc="3771254844" ref="stream"/>
-    <file name="live.css" crc="3784412734" ref="live"/>
+    <file name="stream.css" crc="4106889749" ref="stream"/>
+    <file name="live.css" crc="379980307" ref="live"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:live:stream"/>
@@ -128,17 +128,20 @@
     <file name="times-sq-2.jpg" crc="4075255464" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="спираль-скоросшиватель---вариант-5.svg" crc="3785355494" seo="true" ref="live">
-      <caption webpage="live" alt=""/>
+    <file name="спираль-скоросшиватель---вариант-5-(только-низ).svg" crc="4132210750" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
-    <file name="спираль скоросшиватель - вариант 5_poster_.png" crc="3960321603" ref="live"/>
+    <file name="спираль скоросшиватель - вариант 5 (только низ)_poster_.png" crc="162479144" ref="live"/>
     <file name="нью-йорк-7.jpg" crc="124121566" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
     <file name="нью-йорк-9.jpg" crc="3947888258" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
+    <file name="спираль-скоросшиватель---вариант-5.svg" crc="3785355494" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="спираль скоросшиватель - вариант 5_poster_.png" crc="3960321603" ref="live"/>
     <file name="кыштым 1.jpg" crc="337845874" seo="true" ref="live">
       <caption webpage="live" alt=""/>
     </file>
@@ -167,9 +170,9 @@
     <file name="stream----надпись-2.svg" crc="4170097023" seo="true" ref="stream">
       <caption webpage="stream" alt=""/>
     </file>
-    <file name="stream - надпись 2_poster_.png" crc="4243694504" ref="stream"/>
+    <file name="stream - надпись 2_poster_.png" crc="403050410" ref="stream"/>
   </folder>
   <file name="index.html" crc="42229007" seo="true" mt="1607562539329" redirect="true"/>
-  <file name="live.html" crc="469517727" seo="true" mt="1607561879875" redirect="true"/>
-  <file name="stream.html" crc="3894157730" seo="true" mt="1607561981673" redirect="true"/>
+  <file name="live.html" crc="3982290752" seo="true" mt="1607563571210" redirect="true"/>
+  <file name="stream.html" crc="3937702304" seo="true" mt="1607563716518" redirect="true"/>
 </manifest>

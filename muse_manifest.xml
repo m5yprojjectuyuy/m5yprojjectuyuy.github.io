@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607645071162">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607641983230">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="info.css" crc="3891917854" ref="info"/>
-    <file name="index.css" crc="142414605" ref="index"/>
+    <file name="info.css" crc="3790819203" ref="info"/>
+    <file name="index.css" crc="234624426" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="lana.mp3" crc="3971259011" seo="true" mt="1607562449000"/>
@@ -63,11 +63,11 @@
     </file>
     <file name="апле_poster_.png" crc="491940012" ref="index"/>
     <file name="favicon.ico" crc="185933360" ref="info"/>
-    <file name="настя-лицо-образ.svg" crc="4244182178" seo="true" ref="info">
+    <file name="настя-лицо-образ.svg" crc="3835624241" seo="true" ref="info">
       <caption webpage="info" alt=""/>
     </file>
-    <file name="настя лицо образ_poster_.png" crc="3898209110" ref="info"/>
+    <file name="настя лицо образ_poster_.png" crc="4184729483" ref="info"/>
   </folder>
-  <file name="index.html" crc="4199759324" seo="true" mt="1607645056226" redirect="true"/>
-  <file name="info.html" crc="446058276" seo="true" mt="1607645047809" redirect="true"/>
+  <file name="index.html" crc="4024906768" seo="true" mt="1607641920889" redirect="true"/>
+  <file name="info.html" crc="245313736" seo="true" mt="1607641958461" redirect="true"/>
 </manifest>

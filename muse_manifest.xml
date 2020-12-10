@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607616436481">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607639068422">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="3897963576" ref="index"/>
-    <file name="photos.css" crc="148603" ref="photos"/>
+    <file name="photos.css" crc="4208233963" ref="photos"/>
+    <file name="index.css" crc="201790539" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="3794366839" seo="true" mt="1607672961000"/>
@@ -50,7 +50,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="charm 2 - текст_poster_.png" crc="3868965723" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:photos"/>
     <file name="инстагр.svg" crc="4067486096" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -72,7 +72,14 @@
     </file>
     <file name="значок фотоаппарата 6_poster_.png" crc="81700275" ref="index"/>
     <file name="photos-favicon.ico" crc="264791417" ref="photos"/>
+    <file name="зиг-заг.svg" crc="454799040" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="зиг заг_poster_.png" crc="3974134517" ref="photos"/>
   </folder>
-  <file name="index.html" crc="3762641698" seo="true" mt="1607613919897" redirect="true"/>
-  <file name="photos.html" crc="49985369" seo="true" mt="1607616386210" redirect="true"/>
+  <file name="index.html" crc="4137245664" seo="true" mt="1607639007240" redirect="true"/>
+  <file name="photos.html" crc="4078716009" seo="true" mt="1607639030544" redirect="true"/>
 </manifest>

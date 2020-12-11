@@ -6,6 +6,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://Nastie.ml/images/%D1%88%D0%B0%D1%80%D0%B8%D0%BA.gif</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://Nastie.ml/images/%D0%B1%D0%B0%D0%B1%D0%BE%D1%87%D0%BA%D0%B0-13%20a.gif</image:loc>
     </image:image>
     <image:image>
@@ -19,9 +22,6 @@
     </image:image>
     <image:image>
       <image:loc>http://Nastie.ml/images/%D0%B4%D0%B5%D0%B2%D0%BE%D1%87%D0%BA%D0%B0%2048.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Nastie.ml/images/%D1%88%D0%B0%D1%80%D0%B8%D0%BA.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://Nastie.ml/images/inspiration---%D1%82%D0%B5%D0%BA%D1%81%D1%82.svg</image:loc>
@@ -55,6 +55,9 @@
     </image:image>
     <image:image>
       <image:loc>http://Nastie.ml/images/minimal.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Nastie.ml/images/70831_mondrian.jpg</image:loc>
     </image:image>
   </url>
   <url>

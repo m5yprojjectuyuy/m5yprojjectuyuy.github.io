@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607713896892">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607715309723">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="3817796935" ref="index"/>
+    <file name="index.css" crc="27007263" ref="index"/>
     <file name="photos.css" crc="267913823" ref="photos"/>
   </folder>
   <folder name="assets">
@@ -77,6 +77,6 @@
     </file>
     <file name="minimal_poster_.png" crc="355578067" ref="photos"/>
   </folder>
-  <file name="index.html" crc="223253001" seo="true" mt="1607713862118" redirect="true"/>
+  <file name="index.html" crc="339751242" seo="true" mt="1607715268643" redirect="true"/>
   <file name="photos.html" crc="8172889" seo="true" mt="1607650794478" redirect="true"/>
 </manifest>

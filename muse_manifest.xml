@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607649282856">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607649386050">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="3974471026" ref="index"/>
+    <file name="index.css" crc="3782632957" ref="index"/>
     <file name="photos.css" crc="236664573" ref="photos"/>
   </folder>
   <folder name="assets">
@@ -17,6 +17,9 @@
   </folder>
   <folder name="images">
     <file name="nastie-favicon.ico" crc="185933360" ref="index"/>
+    <file name="шарик.gif" crc="235075892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="бабочка-13 a.gif" crc="334092850" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -33,9 +36,6 @@
     </file>
     <file name="бабочки а 1_poster_.png" crc="4240484938" ref="index"/>
     <file name="девочка 48.jpg" crc="57159366" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="шарик.gif" crc="235075892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="inspiration---текст.svg" crc="284166166" seo="true" ref="index">
@@ -85,6 +85,6 @@
       <caption webpage="photos" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4176276428" seo="true" mt="1607649268475" redirect="true"/>
+  <file name="index.html" crc="3907412229" seo="true" mt="1607649364367" redirect="true"/>
   <file name="photos.html" crc="55892173" seo="true" mt="1607647883290" redirect="true"/>
 </manifest>

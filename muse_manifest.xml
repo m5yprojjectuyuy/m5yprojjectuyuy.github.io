@@ -1,19 +1,19 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607641983230">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607660915884">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="info.css" crc="3790819203" ref="info"/>
-    <file name="index.css" crc="234624426" ref="index"/>
+    <file name="photos.css" crc="3791675875" ref="photos"/>
+    <file name="index.css" crc="3988536988" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="lana.mp3" crc="3971259011" seo="true" mt="1607562449000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:info"/>
-    <file name="museutils.js" crc="3939489907" ref="index:info"/>
-    <file name="whatinput.js" crc="86476730" ref="index:info"/>
-    <file name="museconfig.js" crc="3936894949" ref="index:info"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:info"/>
-    <file name="require.js" crc="4177726516" ref="index:info"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photos"/>
+    <file name="museutils.js" crc="3939489907" ref="index:photos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:photos"/>
+    <file name="museconfig.js" crc="128606099" ref="index:photos"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:photos"/>
+    <file name="require.js" crc="4177726516" ref="index:photos"/>
   </folder>
   <folder name="images">
     <file name="nastie-favicon.ico" crc="185933360" ref="index"/>
@@ -58,16 +58,16 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="в онтактах_poster_.png" crc="127666946" ref="index"/>
-    <file name="апле.svg" crc="3979504517" seo="true" ref="index">
+    <file name="фото-галерея-значок.svg" crc="3983378278" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="апле_poster_.png" crc="491940012" ref="index"/>
-    <file name="favicon.ico" crc="185933360" ref="info"/>
-    <file name="настя-лицо-образ.svg" crc="3835624241" seo="true" ref="info">
-      <caption webpage="info" alt=""/>
+    <file name="фото галерея значок_poster_.png" crc="459319749" ref="index"/>
+    <file name="favicon.ico" crc="185933360" ref="photos"/>
+    <file name="настя-лицо-образ.svg" crc="3835624241" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
     </file>
-    <file name="настя лицо образ_poster_.png" crc="4184729483" ref="info"/>
+    <file name="настя лицо образ_poster_.png" crc="4113318232" ref="photos"/>
   </folder>
-  <file name="index.html" crc="4024906768" seo="true" mt="1607641920889" redirect="true"/>
-  <file name="info.html" crc="245313736" seo="true" mt="1607641958461" redirect="true"/>
+  <file name="index.html" crc="4145117554" seo="true" mt="1607660864108" redirect="true"/>
+  <file name="photos.html" crc="3864106148" seo="true" mt="1607655946939" redirect="true"/>
 </manifest>

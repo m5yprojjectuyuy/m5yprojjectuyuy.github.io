@@ -328,7 +328,7 @@
        class="cls-1"
        d="m -18,74 h 1033 a 160,160 0 0 1 160,160 v 0 A 160,160 0 0 1 1015,394 H -18 Z"
        transform="matrix(0.26458333,0,0,0.26458333,0.26458502,26.401637)"
-       style="display:inline;fill:#00ff7d;fill-opacity:1;filter:url(#filter932-2)" />
+       style="display:inline;fill:#ff0000;fill-opacity:1;filter:url(#filter932-2)" />
   </g>
   <g
      inkscape:label="Слой 1"

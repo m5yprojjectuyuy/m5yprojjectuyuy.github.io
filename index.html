@@ -19,7 +19,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>NASTIE</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4162518342"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4111490623" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=291256539" id="pagesheet"/>
     <!--custom head HTML-->
   <!-- Chrome, Firefox OS and Opera -->
 <meta name="theme-color" content="#FF0000">
@@ -38,22 +38,6 @@ visibility: visible !important;
 <meta name="viewport" content="user-scalable=no">
   <!--HTML Widget code-->
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
-<script>
-jQuery(document).ready(function($) {
-
-// site preloader -- also uncomment the div in the header and the css style for #preloader
-$(window).load(function(){
-	$('#preloader').fadeOut('slow',function(){$(this).remove();});
-});
-
-});
-</script>
-
-<style>
-.js div#preloader { position: fixed; left: 0; top: 0; z-index: 999; width: 100%; height: 100%; overflow: visible; background: #FF0000 url(' ') no-repeat center center; }
-</style>
-
 <style>
 
 .audioplayer
@@ -71,281 +55,292 @@ $(window).load(function(){
 	{
 		position: absolute;
 	}
-.audioplayer {
-    color: #000000;
-	background: #000000;
-}
 
-.audioplayer-playpause
-{
-	width: 2.5em; /* 40 */
-	height: 100%;
-	text-align: left;
-	text-indent: -9999px;
-	cursor: pointer;
-	z-index: 2;
-	top: 0;
-	left: 0;
-}
-	.audioplayer-mini .audioplayer-playpause
-	{
-		width: 100%;
-	}
+  .audioplayer
+  {
+  	height: 2.5em; /* 40 */
+  	position: relative;
+  	z-index: 1;
+  }
+  	.audioplayer-mini
+  	{
+  		width: 2.5em; /* 40 */
+  		margin: 0 auto;
+  	}
+  	.audioplayer > div
+  	{
+  		position: absolute;
+  	}
+  .audioplayer {
+      color: #000000;
+  	background: #000000;
+  }
 
-    /* Color */
-	.audioplayer-playpause:hover,
-	.audioplayer-playpause:focus
-	{
-		background-color: FF0000;
-	}
-	.audioplayer-playpause a
-	{
-		display: block;
-	}
+  .audioplayer-playpause
+  {
+  	width: 2.5em; /* 40 */
+  	height: 100%;
+  	text-align: left;
+  	text-indent: -9999px;
+  	cursor: pointer;
+  	z-index: 2;
+  	top: 0;
+  	left: 0;
+  }
+  	.audioplayer-mini .audioplayer-playpause
+  	{
+  		width: 100%;
+  	}
 
-	.audioplayer:not(.audioplayer-playing) .audioplayer-playpause a
-	{
-    width: 10px;
-    height: 10px;
-    border: 2em solid #000000;
-    border-left-color: #000000;
-    border-radius: 522px;
-    opacity: .6;
-    content: '';
-    position: absolute;
-    top: -2060%;
-    left: 370%;
-    margin: 0; /* 8 4 */
-	}
+      /* Color */
+  	.audioplayer-playpause:hover,
+  	.audioplayer-playpause:focus
+  	{
+  		background-color: FF0000;
+  	}
+  	.audioplayer-playpause a
+  	{
+  		display: block;
+  	}
 
-	.audioplayer-playing .audioplayer-playpause a
-	{
-		width: 0.75em; /* 12 */
-		height: 0.75em; /* 12 */
-		position: absolute;
-		top: 50%;
-		left: 50%;
-		margin: -0.375em 0 0 -0.375em; /* 6 */
-	}
+  	.audioplayer:not(.audioplayer-playing) .audioplayer-playpause a
+  	{
+      width: 10px;
+      height: 10px;
+      border: 2em solid #000000;
+      border-left-color: #000000;
+      border-radius: 522px;
+      opacity: .6;
+      content: '';
+      position: absolute;
+      top: -2060%;
+      left: 370%;
+      margin: 0; /* 8 4 */
+  	}
 
-		.audioplayer-playing .audioplayer-playpause a:before,
-		.audioplayer-playing .audioplayer-playpause a:after
-		{
-			width: 40%;
-			height: 100%;
-			background-color: #000000;
-			content: '';
-			position: absolute;
-			top: 0;
-		}
-		.audioplayer-playing .audioplayer-playpause a:before
-		{
-			left: 0;
-		}
-		.audioplayer-playing .audioplayer-playpause a:after
-		{
-			right: 0;
-		}
+  	.audioplayer-playing .audioplayer-playpause a
+  	{
+  		width: 0.75em; /* 12 */
+  		height: 0.75em; /* 12 */
+  		position: absolute;
+  		top: 50%;
+  		left: 50%;
+  		margin: -0.375em 0 0 -0.375em; /* 6 */
+  	}
 
-
-.audioplayer-time
-{
-	width: 4.375em; /* 70 */
-	height: 100%;
-	line-height: 2.5em; /* 40 */
-	text-align: center;
-	z-index: 2;
-	top: 0;
-}
-	.audioplayer-time-current
-	{
-		border-left: 1px solid #000000;
-		left: 2.5em; /* 40 */
-	}
-	.audioplayer-time-duration
-	{
-		right: 2.5em; /* 40 */
-	}
-		.audioplayer-novolume .audioplayer-time-duration
-		{
-			border-right: 0;
-			right: 0;
-		}
+  		.audioplayer-playing .audioplayer-playpause a:before,
+  		.audioplayer-playing .audioplayer-playpause a:after
+  		{
+  			width: 40%;
+  			height: 100%;
+  			background-color: #000000;
+  			content: '';
+  			position: absolute;
+  			top: 0;
+  		}
+  		.audioplayer-playing .audioplayer-playpause a:before
+  		{
+  			left: 0;
+  		}
+  		.audioplayer-playing .audioplayer-playpause a:after
+  		{
+  			right: 0;
+  		}
 
 
-.audioplayer-bar
-{
-	height: 0.875em; /* 14 */
-	background-color: #000000;
-	cursor: pointer;
-	z-index: 1;
-	top: 50%;
-	right: 6.875em; /* 110 */
-	left: 6.875em; /* 110 */
-	margin-top: -0.438em; /* 7 */
-}
-	.audioplayer-novolume .audioplayer-bar
-	{
-		right: 4.375em; /* 70 */
-	}
-	.audioplayer-bar div
-	{
-		width: 0;
-		height: 100%;
-		position: absolute;
-		left: 0;
-		top: 0;
-	}
-
-	.audioplayer-bar-loaded
-	{
-		background-color: #000000;
-		z-index: 1;
-	}
-
-	.audioplayer-bar-played
-	{
-        /* Accent Color */
-		background: #000000;
-		z-index: 2;
-	}
-
-.audioplayer-volume
-{
-	width: 2.5em; /* 40 */
-	height: 100%;
-	border-left: 1px solid #000000;
-	text-align: left;
-	text-indent: -9999px;
-	cursor: pointer;
-	z-index: 2;
-	top: 0;
-	right: 0;
-}
+  .audioplayer-time
+  {
+  	width: 4.375em; /* 70 */
+  	height: 100%;
+  	line-height: 2.5em; /* 40 */
+  	text-align: center;
+  	z-index: 2;
+  	top: 0;
+  }
+  	.audioplayer-time-current
+  	{
+  		border-left: 1px solid #000000;
+  		left: 2.5em; /* 40 */
+  	}
+  	.audioplayer-time-duration
+  	{
+  		right: 2.5em; /* 40 */
+  	}
+  		.audioplayer-novolume .audioplayer-time-duration
+  		{
+  			border-right: 0;
+  			right: 0;
+  		}
 
 
-	.audioplayer-volume:hover,
-	.audioplayer-volume:focus
-	{
-		background-color: #000000;
+  .audioplayer-bar
+  {
+  	height: 0.875em; /* 14 */
+  	background-color: #000000;
+  	cursor: pointer;
+  	z-index: 1;
+  	top: 50%;
+  	right: 6.875em; /* 110 */
+  	left: 6.875em; /* 110 */
+  	margin-top: -0.438em; /* 7 */
+  }
+  	.audioplayer-novolume .audioplayer-bar
+  	{
+  		right: 4.375em; /* 70 */
+  	}
+  	.audioplayer-bar div
+  	{
+  		width: 0;
+  		height: 100%;
+  		position: absolute;
+  		left: 0;
+  		top: 0;
+  	}
+
+  	.audioplayer-bar-loaded
+  	{
+  		background-color: #000000;
+  		z-index: 1;
+  	}
+
+  	.audioplayer-bar-played
+  	{
+          /* Accent Color */
+  		background: #000000;
+  		z-index: 2;
+  	}
+
+  .audioplayer-volume
+  {
+  	width: 2.5em; /* 40 */
+  	height: 100%;
+  	border-left: 1px solid #000000;
+  	text-align: left;
+  	text-indent: -9999px;
+  	cursor: pointer;
+  	z-index: 2;
+  	top: 0;
+  	right: 0;
+  }
 
 
-	}
-	.audioplayer-volume-button
-	{
-		width: 100%;
-		height: 100%;
-	}
+  	.audioplayer-volume:hover,
+  	.audioplayer-volume:focus
+  	{
+  		background-color: #000000;
 
 
-		.audioplayer-volume-button a
-		{
-			width: 0.313em; /* 5 */
-			height: 0.375em; /* 6 */
-			background-color: #000000;
-			display: block;
-			position: relative;
-			z-index: 1;
-			top: 40%;
-			left: 35%;
-		}
-			.audioplayer-volume-button a:before,
-			.audioplayer-volume-button a:after
-			{
-				content: '';
-				position: absolute;
-			}
-
-			.audioplayer-volume-button a:before
-			{
-				width: 0;
-				height: 0;
-				border: 0.5em solid transparent; /* 8 */
-				border-left: none;
-				border-right-color: #000000;
-				z-index: 2;
-				top: 50%;
-				right: -0.25em;
-				margin-top: -0.5em; /* 8 */
-			}
-
-            /* Color */
-			.audioplayer:not(.audioplayer-mute) .audioplayer-volume-button a:after
-			{
-				/* "volume" icon by Nicolas Gallagher, http://nicolasgallagher.com/pure-css-gui-icons */
-				width: 0.313em; /* 5 */
-				height: 0.313em; /* 5 */
-				border: 0.25em double #000000; /* 4 */
-				border-width: 0.25em 0.25em 0 0; /* 4 */
-				left: 0.563em; /* 9 */
-				top: -0.063em; /* 1 */
-				-webkit-border-radius: 0 0.938em 0 0; /* 15 */
-				-moz-border-radius: 0 0.938em 0 0; /* 15 */
-				border-radius: 0 0.938em 0 0; /* 15 */
-				-webkit-transform: rotate( 45deg );
-				-moz-transform: rotate( 45deg );
-				-ms-transform: rotate( 45deg );
-				-o-transform: rotate( 45deg );
-				transform: rotate( 45deg );
-			}
-
-	.audioplayer-volume-adjust
-	{
-		width: 100%;
-		height: 6.25em; /* 100 */
-		cursor: default;
-		position: absolute;
-		left: 0;
-		top: -9999px;
-		background: #000000;
+  	}
+  	.audioplayer-volume-button
+  	{
+  		width: 100%;
+  		height: 100%;
+  	}
 
 
+  		.audioplayer-volume-button a
+  		{
+  			width: 0.313em; /* 5 */
+  			height: 0.375em; /* 6 */
+  			background-color: #000000;
+  			display: block;
+  			position: relative;
+  			z-index: 1;
+  			top: 40%;
+  			left: 35%;
+  		}
+  			.audioplayer-volume-button a:before,
+  			.audioplayer-volume-button a:after
+  			{
+  				content: '';
+  				position: absolute;
+  			}
 
-	}
-		.audioplayer-volume:not(:hover) .audioplayer-volume-adjust
-		{
-			opacity: 0;
-		}
-		.audioplayer-volume:hover .audioplayer-volume-adjust
-		{
-			top: auto;
-			bottom: 100%;
-		}
-		.audioplayer-volume-adjust > div
-		{
-			width: 40%;
-			height: 80%;
-			background-color: #000000;
-			cursor: pointer;
-			position: relative;
-			z-index: 1;
-			margin: 30% auto 0;
-		}
+  			.audioplayer-volume-button a:before
+  			{
+  				width: 0;
+  				height: 0;
+  				border: 0.5em solid transparent; /* 8 */
+  				border-left: none;
+  				border-right-color: #000000;
+  				z-index: 2;
+  				top: 50%;
+  				right: -0.25em;
+  				margin-top: -0.5em; /* 8 */
+  			}
+
+              /* Color */
+  			.audioplayer:not(.audioplayer-mute) .audioplayer-volume-button a:after
+  			{
+  				/* "volume" icon by Nicolas Gallagher, http://nicolasgallagher.com/pure-css-gui-icons */
+  				width: 0.313em; /* 5 */
+  				height: 0.313em; /* 5 */
+  				border: 0.25em double #000000; /* 4 */
+  				border-width: 0.25em 0.25em 0 0; /* 4 */
+  				left: 0.563em; /* 9 */
+  				top: -0.063em; /* 1 */
+  				-webkit-border-radius: 0 0.938em 0 0; /* 15 */
+  				-moz-border-radius: 0 0.938em 0 0; /* 15 */
+  				border-radius: 0 0.938em 0 0; /* 15 */
+  				-webkit-transform: rotate( 45deg );
+  				-moz-transform: rotate( 45deg );
+  				-ms-transform: rotate( 45deg );
+  				-o-transform: rotate( 45deg );
+  				transform: rotate( 45deg );
+  			}
+
+  	.audioplayer-volume-adjust
+  	{
+  		width: 100%;
+  		height: 6.25em; /* 100 */
+  		cursor: default;
+  		position: absolute;
+  		left: 0;
+  		top: -9999px;
+  		background: #000000;
 
 
-			.audioplayer-volume-adjust div div
-			{
-				width: 100%;
-				height: 100%;
-				position: absolute;
-				bottom: 0;
-				left: 0;
-                /* Accent Color */
-				background: #000000;
-			}
-	.audioplayer-novolume .audioplayer-volume
-	{
-		display: none;
+
+  	}
+  		.audioplayer-volume:not(:hover) .audioplayer-volume-adjust
+  		{
+  			opacity: 0;
+  		}
+  		.audioplayer-volume:hover .audioplayer-volume-adjust
+  		{
+  			top: auto;
+  			bottom: 100%;
+  		}
+  		.audioplayer-volume-adjust > div
+  		{
+  			width: 40%;
+  			height: 80%;
+  			background-color: #000000;
+  			cursor: pointer;
+  			position: relative;
+  			z-index: 1;
+  			margin: 30% auto 0;
+  		}
+
+
+  			.audioplayer-volume-adjust div div
+  			{
+  				width: 100%;
+  				height: 100%;
+  				position: absolute;
+  				bottom: 0;
+  				left: 0;
+                  /* Accent Color */
+  				background: #000000;
+  			}
+  	.audioplayer-novolume .audioplayer-volume
+  	{
+  		display: none;
 	}
 </style>
 
  </head>
  <body>
-
-  <!--HTML Widget code-->
-
-<div id="preloader"></div>
-
 
   <div class="clearfix" id="page"><!-- group -->
    <div class="clearfix grpelem" id="u781-3"><!-- content -->
@@ -398,10 +393,6 @@ $(window).load(function(){
      <div class="clip_frame grpelem" id="u2930"><!-- svg -->
       <img class="svg" id="u2926" src="images/%d0%b1%d0%b0%d0%b1%d0%be%d1%87%d0%ba%d0%b8-%d0%b0-1.svg?crc=4283562859" width="395" height="137" alt="" data-mu-svgfallback="images/%d0%b1%d0%b0%d0%b1%d0%be%d1%87%d0%ba%d0%b8%20%d0%b0%201_poster_.png?crc=4240484938"/>
      </div>
-     <div class="size_fixed grpelem" id="u8695"><!-- custom html -->
-
-
-     </div>
     </div>
     <div class="clearfix colelem" id="pu697-4"><!-- group -->
      <div class="clearfix grpelem" id="u697-4"><!-- content -->
@@ -423,7 +414,7 @@ $(window).load(function(){
      <a class="nonblock nontext transition clip_frame grpelem" id="u834" href="https://web.telegram.org/#/login"><!-- svg --><img class="svg" id="u830" src="images/telegram-svg.svg?crc=247414684" width="105" height="105" alt="" data-mu-svgfallback="images/telegram%20svg_poster_.png?crc=3983361583"/></a>
      <a class="nonblock nontext transition clip_frame grpelem" id="u2033" href="https://www.google.com/intl/ru/gmail/about/"><!-- svg --><img class="svg" id="u2029" src="images/gmail-4.svg?crc=336301288" width="138" height="112" alt="" data-mu-svgfallback="images/gmail-4_poster_.png?crc=278210196"/></a>
      <a class="nonblock nontext transition clip_frame grpelem" id="u1065" href="https://vk.com/phioletovaya"><!-- svg --><img class="svg" id="u1061" src="images/%d0%b2-%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d0%b0%d1%85.svg?crc=3771308657" width="112" height="116" alt="" data-mu-svgfallback="images/%d0%b2%20%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d0%b0%d1%85_poster_.png?crc=127666946"/></a>
-     <a class="nonblock nontext transition clip_frame grpelem" id="u3989" href="photos"><!-- svg --><img class="svg" id="u3985" src="images/%d0%b7%d0%bd%d0%b0%d1%87%d0%be%d0%ba-%d1%84%d0%be%d1%82%d0%be%d0%b0%d0%bf%d0%bf%d0%b0%d1%80%d0%b0%d1%82%d0%b0-6.svg?crc=3952280526" width="132" height="104" alt="" data-mu-svgfallback="images/%d0%b7%d0%bd%d0%b0%d1%87%d0%be%d0%ba%20%d1%84%d0%be%d1%82%d0%be%d0%b0%d0%bf%d0%bf%d0%b0%d1%80%d0%b0%d1%82%d0%b0%206_poster_.png?crc=81700275"/></a>
+     <a class="nonblock nontext transition clip_frame grpelem" id="u3989" href="photos.html"><!-- svg --><img class="svg" id="u3985" src="images/%d0%b7%d0%bd%d0%b0%d1%87%d0%be%d0%ba-%d1%84%d0%be%d1%82%d0%be%d0%b0%d0%bf%d0%bf%d0%b0%d1%80%d0%b0%d1%82%d0%b0-6.svg?crc=3952280526" width="132" height="104" alt="" data-mu-svgfallback="images/%d0%b7%d0%bd%d0%b0%d1%87%d0%be%d0%ba%20%d1%84%d0%be%d1%82%d0%be%d0%b0%d0%bf%d0%bf%d0%b0%d1%80%d0%b0%d1%82%d0%b0%206_poster_.png?crc=81700275"/></a>
     </div>
     <div class="browser_width colelem" id="u2607-bw">
      <div id="u2607"><!-- simple frame --></div>

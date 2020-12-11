@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607649712690">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607650511760">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="index.css" crc="3842336327" ref="index"/>
-    <file name="photos.css" crc="494543544" ref="photos"/>
+    <file name="photos.css" crc="162643156" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="3794366839" seo="true" mt="1607672961000"/>
@@ -88,13 +88,13 @@
       <caption webpage="photos" alt=""/>
     </file>
     <file name="закладка язычок - для темы (2)_poster_.png" crc="4168590266" ref="photos"/>
-    <file name="одри-3.jpg" crc="333457139" seo="true" ref="photos">
+    <file name="одри.png" crc="3811352843" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="одри-4.jpg" crc="4021680704" seo="true" ref="photos">
+    <file name="одри 2.png" crc="4211351743" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3902708180" seo="true" mt="1607648843075" redirect="true"/>
-  <file name="photos.html" crc="224299130" seo="true" mt="1607649700059" redirect="true"/>
+  <file name="index.html" crc="3902708180" seo="true" mt="1607650299550" redirect="true"/>
+  <file name="photos.html" crc="3843693077" seo="true" mt="1607650486284" redirect="true"/>
 </manifest>

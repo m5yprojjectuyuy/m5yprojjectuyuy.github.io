@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607664111746">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607666658373">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="photos.css" crc="457017250" ref="photos"/>
-    <file name="index.css" crc="3927793795" ref="index"/>
+    <file name="index.css" crc="3923237108" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="3794366839" seo="true" mt="1607672961000"/>
@@ -38,6 +38,18 @@
     <file name="девочка 48.jpg" crc="57159366" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="ветка.svg" crc="4005458082" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ветка_poster_.png" crc="91538339" ref="index"/>
+    <file name="ветка-2.svg" crc="4130310978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ветка 2_poster_.png" crc="4050031518" ref="index"/>
+    <file name="inspiration---текст.svg" crc="284166166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inspiration - текст_poster_.png" crc="4259552946" ref="index"/>
     <file name="charm-2---текст.svg" crc="4064159989" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -81,6 +93,6 @@
       <caption webpage="photos" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="24345526" seo="true" mt="1607664090466" redirect="true"/>
+  <file name="index.html" crc="425926497" seo="true" mt="1607666640979" redirect="true"/>
   <file name="photos.html" crc="441117483" seo="true" mt="1607660711286" redirect="true"/>
 </manifest>

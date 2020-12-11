@@ -19,7 +19,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>NASTIE</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4162518342"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3927793795" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3923237108" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -119,7 +119,7 @@ visibility: visible !important;
     border: 2em solid #000000;
     border-left-color: #000000;
     border-radius: 522px;
-    opacity: .8;
+    opacity: .6;
     content: '';
     position: absolute;
     top: -2060%;
@@ -156,196 +156,6 @@ visibility: visible !important;
 			right: 0;
 		}
 
-
-.audioplayer-time
-{
-	width: 4.375em; /* 70 */
-	height: 100%;
-	line-height: 2.5em; /* 40 */
-	text-align: center;
-	z-index: 2;
-	top: 0;
-}
-	.audioplayer-time-current
-	{
-		border-left: 1px solid #000000;
-		left: 2.5em; /* 40 */
-	}
-	.audioplayer-time-duration
-	{
-		right: 2.5em; /* 40 */
-	}
-		.audioplayer-novolume .audioplayer-time-duration
-		{
-			border-right: 0;
-			right: 0;
-		}
-
-
-.audioplayer-bar
-{
-	height: 0.875em; /* 14 */
-	background-color: #000000;
-	cursor: pointer;
-	z-index: 1;
-	top: 50%;
-	right: 6.875em; /* 110 */
-	left: 6.875em; /* 110 */
-	margin-top: -0.438em; /* 7 */
-}
-	.audioplayer-novolume .audioplayer-bar
-	{
-		right: 4.375em; /* 70 */
-	}
-	.audioplayer-bar div
-	{
-		width: 0;
-		height: 100%;
-		position: absolute;
-		left: 0;
-		top: 0;
-	}
-
-	.audioplayer-bar-loaded
-	{
-		background-color: #000000;
-		z-index: 1;
-	}
-
-	.audioplayer-bar-played
-	{
-        /* Accent Color */
-		background: #000000;
-		z-index: 2;
-	}
-
-.audioplayer-volume
-{
-	width: 2.5em; /* 40 */
-	height: 100%;
-	border-left: 1px solid #000000;
-	text-align: left;
-	text-indent: -9999px;
-	cursor: pointer;
-	z-index: 2;
-	top: 0;
-	right: 0;
-}
-
-
-	.audioplayer-volume:hover,
-	.audioplayer-volume:focus
-	{
-		background-color: #000000;
-
-
-	}
-	.audioplayer-volume-button
-	{
-		width: 100%;
-		height: 100%;
-	}
-
-
-		.audioplayer-volume-button a
-		{
-			width: 0.313em; /* 5 */
-			height: 0.375em; /* 6 */
-			background-color: #000000;
-			display: block;
-			position: relative;
-			z-index: 1;
-			top: 40%;
-			left: 35%;
-		}
-			.audioplayer-volume-button a:before,
-			.audioplayer-volume-button a:after
-			{
-				content: '';
-				position: absolute;
-			}
-
-			.audioplayer-volume-button a:before
-			{
-				width: 0;
-				height: 0;
-				border: 0.5em solid transparent; /* 8 */
-				border-left: none;
-				border-right-color: #000000;
-				z-index: 2;
-				top: 50%;
-				right: -0.25em;
-				margin-top: -0.5em; /* 8 */
-			}
-
-            /* Color */
-			.audioplayer:not(.audioplayer-mute) .audioplayer-volume-button a:after
-			{
-				/* "volume" icon by Nicolas Gallagher, http://nicolasgallagher.com/pure-css-gui-icons */
-				width: 0.313em; /* 5 */
-				height: 0.313em; /* 5 */
-				border: 0.25em double #000000; /* 4 */
-				border-width: 0.25em 0.25em 0 0; /* 4 */
-				left: 0.563em; /* 9 */
-				top: -0.063em; /* 1 */
-				-webkit-border-radius: 0 0.938em 0 0; /* 15 */
-				-moz-border-radius: 0 0.938em 0 0; /* 15 */
-				border-radius: 0 0.938em 0 0; /* 15 */
-				-webkit-transform: rotate( 45deg );
-				-moz-transform: rotate( 45deg );
-				-ms-transform: rotate( 45deg );
-				-o-transform: rotate( 45deg );
-				transform: rotate( 45deg );
-			}
-
-	.audioplayer-volume-adjust
-	{
-		width: 100%;
-		height: 6.25em; /* 100 */
-		cursor: default;
-		position: absolute;
-		left: 0;
-		top: -9999px;
-		background: #000000;
-
-
-
-	}
-		.audioplayer-volume:not(:hover) .audioplayer-volume-adjust
-		{
-			opacity: 0;
-		}
-		.audioplayer-volume:hover .audioplayer-volume-adjust
-		{
-			top: auto;
-			bottom: 100%;
-		}
-		.audioplayer-volume-adjust > div
-		{
-			width: 40%;
-			height: 80%;
-			background-color: #000000;
-			cursor: pointer;
-			position: relative;
-			z-index: 1;
-			margin: 30% auto 0;
-		}
-
-
-			.audioplayer-volume-adjust div div
-			{
-				width: 100%;
-				height: 100%;
-				position: absolute;
-				bottom: 0;
-				left: 0;
-                /* Accent Color */
-				background: #000000;
-			}
-	.audioplayer-novolume .audioplayer-volume
-	{
-		display: none;
-	}
 </style>
 
  </head>
@@ -402,7 +212,6 @@ visibility: visible !important;
      </div>
      <div class="rounded-corners grpelem" id="u2546"><!-- simple frame --></div>
      <div class="rounded-corners grpelem" id="u2653"><!-- simple frame --></div>
-     <div class="rounded-corners grpelem" id="u9452"><!-- simple frame --></div>
      <div class="clip_frame grpelem" id="u2907"><!-- svg -->
       <img class="svg" id="u2903" src="images/%d1%82%d0%b5%d0%ba%d1%81%d1%82---happiness--2.svg?crc=4154198248" width="479" height="108" alt="" data-mu-svgfallback="images/%d1%82%d0%b5%d0%ba%d1%81%d1%82%20-%20happiness%202_poster_.png?crc=3792203509"/>
      </div>
@@ -425,6 +234,12 @@ visibility: visible !important;
       <img class="block" id="u8821_img" src="images/%d0%b4%d0%b5%d0%b2%d0%be%d1%87%d0%ba%d0%b0%2048.jpg?crc=57159366" alt="" width="901" height="676"/>
      </div>
      <div class="grpelem" id="u8923"><!-- content --></div>
+     <div class="clip_frame grpelem" id="u9475"><!-- svg -->
+      <img class="svg" id="u9471" src="images/%d0%b2%d0%b5%d1%82%d0%ba%d0%b0.svg?crc=4005458082" width="281" height="134" alt="" data-mu-svgfallback="images/%d0%b2%d0%b5%d1%82%d0%ba%d0%b0_poster_.png?crc=91538339"/>
+     </div>
+     <div class="clip_frame grpelem" id="u9486"><!-- svg -->
+      <img class="svg" id="u9482" src="images/%d0%b2%d0%b5%d1%82%d0%ba%d0%b0-2.svg?crc=4130310978" width="281" height="134" alt="" data-mu-svgfallback="images/%d0%b2%d0%b5%d1%82%d0%ba%d0%b0%202_poster_.png?crc=4050031518"/>
+     </div>
     </div>
     <div class="clearfix colelem" id="pu697-4"><!-- group -->
      <div class="clearfix grpelem" id="u697-4"><!-- content -->
@@ -432,6 +247,9 @@ visibility: visible !important;
      </div>
      <div class="clearfix grpelem" id="u718-4"><!-- content -->
       <p>PURPOSEFULNESS</p>
+     </div>
+     <div class="clip_frame grpelem" id="u4209"><!-- svg -->
+      <img class="svg" id="u4205" src="images/inspiration---%d1%82%d0%b5%d0%ba%d1%81%d1%82.svg?crc=284166166" width="371" height="70" alt="" data-mu-svgfallback="images/inspiration%20-%20%d1%82%d0%b5%d0%ba%d1%81%d1%82_poster_.png?crc=4259552946"/>
      </div>
      <div class="grpelem" id="u3332"><!-- content --></div>
      <div class="clip_frame grpelem" id="u4289"><!-- svg -->

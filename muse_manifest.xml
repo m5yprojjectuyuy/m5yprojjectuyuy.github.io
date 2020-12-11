@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607651026132">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607658502689">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="3842336327" ref="index"/>
-    <file name="photos.css" crc="526871751" ref="photos"/>
+    <file name="index.css" crc="313993899" ref="index"/>
+    <file name="photos.css" crc="395749143" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="3794366839" seo="true" mt="1607672961000"/>
@@ -84,17 +84,11 @@
       <caption webpage="photos" alt=""/>
     </file>
     <file name="minimal 2_poster_.png" crc="373288136" ref="photos"/>
-    <file name="закладка-язычок---для-темы-(2).svg" crc="523022655" seo="true" ref="photos">
+    <file name="девушка-абстракция.svg" crc="479437446" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="закладка язычок - для темы (2)_poster_.png" crc="3846204491" ref="photos"/>
-    <file name="одри.png" crc="3811352843" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="одри 2.png" crc="4211351743" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-    </file>
+    <file name="девушка абстракция_poster_.png" crc="4108644971" ref="photos"/>
   </folder>
-  <file name="index.html" crc="3902708180" seo="true" mt="1607650299550" redirect="true"/>
-  <file name="photos.html" crc="4175140999" seo="true" mt="1607651014662" redirect="true"/>
+  <file name="index.html" crc="4018171424" seo="true" mt="1607658366247" redirect="true"/>
+  <file name="photos.html" crc="300463358" seo="true" mt="1607658387237" redirect="true"/>
 </manifest>

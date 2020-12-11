@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607645420345">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607648057230">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="3916279759" ref="index"/>
-    <file name="photos.css" crc="308917512" ref="photos"/>
+    <file name="index.css" crc="385664106" ref="index"/>
+    <file name="photos.css" crc="236664573" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="3794366839" seo="true" mt="1607672961000"/>
@@ -68,10 +68,6 @@
     </file>
     <file name="значок фотоаппарата 6_poster_.png" crc="81700275" ref="index"/>
     <file name="photos-favicon.ico" crc="264791417" ref="photos"/>
-    <file name="девушка-3.svg" crc="143937273" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="девушка 3_poster_.png" crc="173586365" ref="photos"/>
     <file name="minimal.svg" crc="4104617138" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
@@ -88,10 +84,7 @@
     <file name="абстракц (3).jpg" crc="51509331" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="абстракц--(1).jpg" crc="104404282" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="43302577" seo="true" redirect="true"/>
-  <file name="photos.html" crc="4255795883" seo="true" mt="1607645406040" redirect="true"/>
+  <file name="index.html" crc="3850439584" seo="true" mt="1607648034254" redirect="true"/>
+  <file name="photos.html" crc="55892173" seo="true" mt="1607647883290" redirect="true"/>
 </manifest>

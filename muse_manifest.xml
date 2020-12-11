@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607646540870">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607647528372">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="index.css" crc="492562805" ref="index"/>
-    <file name="photos.css" crc="310031687" ref="photos"/>
+    <file name="photos.css" crc="3968324368" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="3794366839" seo="true" mt="1607672961000"/>
@@ -82,11 +82,11 @@
       <caption webpage="photos" alt=""/>
     </file>
     <file name="девушка 3_poster_.png" crc="4066762231" ref="photos"/>
-    <file name="minimal.svg" crc="1368606" seo="true" ref="photos">
+    <file name="minimal.svg" crc="4104617138" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="minimal_poster_.png" crc="3860719527" ref="photos"/>
+    <file name="minimal_poster_.png" crc="346820506" ref="photos"/>
   </folder>
-  <file name="index.html" crc="444413003" seo="true" mt="1607646404510" redirect="true"/>
-  <file name="photos.html" crc="235265955" seo="true" mt="1607646282587" redirect="true"/>
+  <file name="index.html" crc="444413003" seo="true" mt="1607647448858" redirect="true"/>
+  <file name="photos.html" crc="419092288" seo="true" mt="1607647504755" redirect="true"/>
 </manifest>

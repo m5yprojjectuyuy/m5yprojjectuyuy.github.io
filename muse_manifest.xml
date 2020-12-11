@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607780422285">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607730179719">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4013871262" ref="index"/>
+    <file name="index.css" crc="3833026372" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,7 +12,7 @@
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="цветок.jpg" crc="4047844723" seo="true" ref="index">
+    <file name="цветок.jpg" crc="482646684" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="настик.jpg" crc="4193157821" seo="true" ref="index">
@@ -36,5 +36,5 @@
     </file>
     <file name="vk-svg_poster_.png" crc="135746704" ref="index"/>
   </folder>
-  <file name="index.html" crc="3957230198" seo="true" mt="1607780410106" redirect="true"/>
+  <file name="index.html" crc="261786023" seo="true" mt="1607730150000" redirect="true"/>
 </manifest>

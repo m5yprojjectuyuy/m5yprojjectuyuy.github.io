@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607658792940">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607659357128">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="photos.css" crc="289492514" ref="photos"/>
+    <file name="photos.css" crc="4020963397" ref="photos"/>
     <file name="index.css" crc="492562805" ref="index"/>
   </folder>
   <folder name="assets">
@@ -78,8 +78,8 @@
       <caption webpage="photos" alt=""/>
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="зиг заг_poster_.png" crc="78062643" ref="photos"/>
+    <file name="зиг заг_poster_.png" crc="415688036" ref="photos"/>
   </folder>
   <file name="index.html" crc="4071699218" seo="true" mt="1607639007240" redirect="true"/>
-  <file name="photos.html" crc="4250210648" seo="true" mt="1607658351702" redirect="true"/>
+  <file name="photos.html" crc="4078868762" seo="true" mt="1607659139472" redirect="true"/>
 </manifest>

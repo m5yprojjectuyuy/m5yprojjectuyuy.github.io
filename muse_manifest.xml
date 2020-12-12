@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607740585852">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607740728734">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="110916641" ref="index"/>
+    <file name="index.css" crc="388558380" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -40,5 +40,5 @@
     </file>
     <file name="апле_poster_.png" crc="491940012" ref="index"/>
   </folder>
-  <file name="index.html" crc="159488597" seo="true" mt="1607740580259" redirect="true"/>
+  <file name="index.html" crc="266497009" seo="true" mt="1607740721856" redirect="true"/>
 </manifest>

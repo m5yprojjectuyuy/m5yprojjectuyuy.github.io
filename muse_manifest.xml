@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 <manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607762895015">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="359096589" ref="index"/>
+=======
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607754536359">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3806819195" ref="index"/>
+>>>>>>> parent of 6c2aaa1... 55
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -21,5 +28,9 @@
     </file>
     <file name="vk-svg_poster_.png" crc="135746704" ref="index"/>
   </folder>
+<<<<<<< HEAD
   <file name="index.html" crc="4218048027" seo="true" mt="1607762794026" redirect="true"/>
+=======
+  <file name="index.html" crc="259092897" seo="true" mt="1607754029510" redirect="true"/>
+>>>>>>> parent of 6c2aaa1... 55
 </manifest>

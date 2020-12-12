@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607773454486">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607773596861">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4284039501" ref="index"/>
@@ -28,5 +28,5 @@
     </file>
     <file name="vk-svg_poster_.png" crc="135746704" ref="index"/>
   </folder>
-  <file name="index.html" crc="4065848511" seo="true" mt="1607773444331" redirect="true"/>
+  <file name="index.html" crc="4209232211" seo="true" mt="1607773589120" redirect="true"/>
 </manifest>

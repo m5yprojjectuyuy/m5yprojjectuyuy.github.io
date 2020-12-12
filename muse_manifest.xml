@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607778338829">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607779158828">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="364789084" ref="index"/>
+    <file name="index.css" crc="3900358094" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -18,7 +18,15 @@
     <file name="настик.jpg" crc="4193157821" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="apple-svg.svg" crc="342236550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="apple svg_poster_.png" crc="3864847822" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="telegram-svg.svg" crc="247414684" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telegram svg_poster_.png" crc="3983361583" ref="index"/>
     <file name="instagram-svg---4.svg" crc="3943654177" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -28,5 +36,5 @@
     </file>
     <file name="vk-svg_poster_.png" crc="135746704" ref="index"/>
   </folder>
-  <file name="index.html" crc="2485819" seo="true" mt="1607778320021" redirect="true"/>
+  <file name="index.html" crc="3776221887" seo="true" mt="1607779099072" redirect="true"/>
 </manifest>

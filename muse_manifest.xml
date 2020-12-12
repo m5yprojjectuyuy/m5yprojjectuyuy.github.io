@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607741349293">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607770569781">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="224215544" ref="index"/>
+    <file name="index.css" crc="194473133" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -22,6 +22,13 @@
     <file name="шарик.gif" crc="235075892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="бабочка-13 a.gif" crc="334092850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="божья-коровка-1.svg" crc="33453542" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="божья коровка 1_poster_.png" crc="502945305" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="telegram-svg.svg" crc="247414684" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -40,5 +47,5 @@
     </file>
     <file name="апле_poster_.png" crc="491940012" ref="index"/>
   </folder>
-  <file name="index.html" crc="258299783" seo="true" mt="1607741341295" redirect="true"/>
+  <file name="index.html" crc="519088249" seo="true" mt="1607770535303" redirect="true"/>
 </manifest>

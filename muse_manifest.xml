@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607779301123">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607779752826">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4070124196" ref="index"/>
+    <file name="index.css" crc="319792916" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -36,5 +36,5 @@
     </file>
     <file name="vk-svg_poster_.png" crc="135746704" ref="index"/>
   </folder>
-  <file name="index.html" crc="478316382" seo="true" mt="1607779288234" redirect="true"/>
+  <file name="index.html" crc="226805135" seo="true" mt="1607779741437" redirect="true"/>
 </manifest>

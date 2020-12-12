@@ -1,27 +1,23 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="9.com" resolutions="1x" timestamp="1607756525313">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607757067398">
   <folder name="css">
-    <file name="site_global.css" crc="3914131437"/>
-    <file name="index.css" crc="466177616" ref="index"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3824183139" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
-    <file name="museutils.js" crc="3939489907" ref="phone>index:index"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
-    <file name="museconfig.js" crc="128606099" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="phone>index:index"/>
-    <file name="require.js" crc="4177726516" ref="phone>index:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="128606099" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="roesch-favicon.ico" crc="231847113" ref="index"/>
     <file name="16583779_640723122802841_3964217495237165056_n.jpg" crc="4013879903" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u188.png" crc="4254836476" ref="index"/>
+    <file name="u188-r.png" crc="3868221772" ref="index"/>
+    <file name="u188-m.png" crc="3810121932" ref="index"/>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="3972356362" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="4180950154" seo="true" redirect="false"/>
-  </folder>
-  <file name="index.html" crc="4006780483" seo="true" mt="1607756515597" redirect="true"/>
+  <file name="index.html" crc="313308510" seo="true" mt="1607757049487" redirect="true"/>
 </manifest>

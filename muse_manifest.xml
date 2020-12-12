@@ -1,17 +1,13 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607773726245">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607774219500">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3828163334" ref="index"/>
+    <file name="index.css" crc="123696053" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="3939489907" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="128606099" ref="index"/>
-    <file name="webpro.js" crc="3856315280" ref="index"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
-    <file name="touchswipe.js" crc="3888935200" ref="index"/>
     <file name="jquery.watch.js" crc="522499760" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
@@ -23,17 +19,13 @@
     <file name="цветок.jpg" crc="4003101768" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="настик.jpg" crc="453239806" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="шарик.gif" crc="235075892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="настя 2.png" crc="378972131" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="настя 1.png" crc="525612676" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="telegram-svg.svg" crc="247414684" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -55,5 +47,5 @@
     </file>
     <file name="апле_poster_.png" crc="491940012" ref="index"/>
   </folder>
-  <file name="index.html" crc="54200669" seo="true" mt="1607773667997" redirect="true"/>
+  <file name="index.html" crc="4237239183" seo="true" mt="1607774207510" redirect="true"/>
 </manifest>

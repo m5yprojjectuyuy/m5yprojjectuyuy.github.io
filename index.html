@@ -16,7 +16,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Домашняя</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=359096589" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=34754160" id="pagesheet"/>
     <!--custom head HTML-->
   <!-- Chrome, Firefox OS and Opera -->
 <meta name="theme-color" content="#FF0000">
@@ -34,25 +34,21 @@ visibility: visible !important;
  </head>
  <body>
 
-  <div class="clearfix" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="pu94-5"><!-- column -->
-    <div class="browser_width colelem" id="u94-5-bw">
-     <div class="clearfix" id="u94-5"><!-- content -->
-      <p>N A S T I <span id="u94-2">E</span></p>
-     </div>
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="clearfix colelem" id="pu111"><!-- group -->
+    <div class="grpelem" id="u111"><!-- simple frame --></div>
+    <div class="clearfix grpelem" id="u94-5"><!-- content -->
+     <p>N A S T I <span id="u94-2">E</span></p>
     </div>
-    <div class="shadow clip_frame colelem" id="u101"><!-- image -->
-     <img class="block" id="u101_img" src="images/16583779_640723122802841_3964217495237165056_n.jpg?crc=209601682" alt="" width="396" height="495"/>
-    </div>
-    <div class="clearfix colelem" id="u201-4"><!-- content -->
-     <p>WELCOME</p>
-    </div>
-    <a class="nonblock nontext transition clip_frame colelem" id="u268" href="https://vk.com/phioletovaya"><!-- svg --><img class="svg" id="u264" src="images/vk-svg.svg?crc=3834419026" width="113" height="113" alt="" data-mu-svgfallback="images/vk-svg_poster_.png?crc=135746704"/></a>
+    <div class="grpelem" id="u98"><!-- simple frame --></div>
    </div>
-   <div class="clearfix grpelem" id="pu111"><!-- group -->
-    <div id="u111"><!-- simple frame --></div>
-    <div id="u98"><!-- simple frame --></div>
+   <div class="shadow clip_frame colelem" id="u101"><!-- image -->
+    <img class="block" id="u101_img" src="images/16583779_640723122802841_3964217495237165056_n.jpg?crc=209601682" alt="" width="396" height="495"/>
    </div>
+   <div class="clearfix colelem" id="u201-4"><!-- content -->
+    <p>WELCOME</p>
+   </div>
+   <a class="nonblock nontext transition clip_frame colelem" id="u268" href="https://vk.com/phioletovaya"><!-- svg --><img class="svg" id="u264" src="images/vk-svg.svg?crc=3834419026" width="113" height="113" alt="" data-mu-svgfallback="images/vk-svg_poster_.png?crc=135746704"/></a>
    <div class="verticalspacer" data-offset-top="1024" data-content-above-spacer="1024" data-content-below-spacer="255"></div>
   </div>
   <!-- Other scripts -->
@@ -70,8 +66,6 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
-Muse.Utils.resizeHeight('.browser_width');/* resize height */
-Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */

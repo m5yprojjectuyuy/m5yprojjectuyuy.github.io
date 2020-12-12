@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607765863276">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607767195818">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="111625382" ref="index"/>
+    <file name="index.css" crc="72136529" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,14 +12,18 @@
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="16583779_640723122802841_3964217495237165056_n.jpg" crc="4193157821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="instagram---2---svg.svg" crc="179465030" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram - 2 --svg_poster_.png" crc="200002685" ref="index"/>
     <file name="vk-svg.svg" crc="3834419026" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="vk-svg_poster_.png" crc="135746704" ref="index"/>
-    <file name="16583779_640723122802841_3964217495237165056_n.jpg" crc="4193157821" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="3942143350" seo="true" mt="1607765857226" redirect="true"/>
+  <file name="index.html" crc="330518822" seo="true" mt="1607767022776" redirect="true"/>
 </manifest>

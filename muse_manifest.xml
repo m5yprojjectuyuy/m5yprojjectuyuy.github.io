@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 <manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607774720029">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3943536345" ref="index"/>
+=======
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607740881264">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3854232736" ref="index"/>
+>>>>>>> parent of 12c6dc7... hh
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -47,5 +54,9 @@
     </file>
     <file name="апле_poster_.png" crc="491940012" ref="index"/>
   </folder>
+<<<<<<< HEAD
   <file name="index.html" crc="4227225646" seo="true" mt="1607774702395" redirect="true"/>
+=======
+  <file name="index.html" crc="4080635822" seo="true" mt="1607740850950" redirect="true"/>
+>>>>>>> parent of 12c6dc7... hh
 </manifest>

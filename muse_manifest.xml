@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607817730806">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607819462511">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="3788423089" ref="index"/>
+    <file name="index.css" crc="4108503012" ref="index"/>
     <file name="photos.css" crc="495165299" ref="photos"/>
   </folder>
   <folder name="assets">
@@ -20,6 +20,12 @@
     <file name="шарик.gif" crc="235075892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="zastavka---nasty.jpg" crc="530379052" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="скрепка.png" crc="4249865872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="ветка-2.svg" crc="4130310978" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -28,9 +34,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="ветка_poster_.png" crc="91538339" ref="index"/>
-    <file name="zastavka---nasty - 1.jpg" crc="4232849368" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="бабочка-13 a.gif" crc="334092850" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -46,10 +49,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="текст - happiness 2_poster_.png" crc="3792203509" ref="index"/>
-    <file name="nastie---имя---композиция---2.svg" crc="3960916589" seo="true" ref="index">
+    <file name="nastie---имя---композиция---2.svg" crc="128407219" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nastie - имя - композиция - 2_poster_.png" crc="3906263608" ref="index"/>
+    <file name="nastie - имя - композиция - 2_poster_.png" crc="4034173085" ref="index"/>
     <file name="inspiration---текст.svg" crc="284166166" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -89,6 +92,6 @@
     </file>
     <file name="minimal 2_poster_.png" crc="373288136" ref="photos"/>
   </folder>
-  <file name="index.html" crc="317739462" seo="true" mt="1607817700553" redirect="true"/>
+  <file name="index.html" crc="4212472744" seo="true" mt="1607819444140" redirect="true"/>
   <file name="photos.html" crc="4206091290" seo="true" redirect="true"/>
 </manifest>

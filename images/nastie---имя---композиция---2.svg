@@ -17,6 +17,12 @@
   <defs
      id="defs998">
     <rect
+       x="-0.83972523"
+       y="63.539209"
+       width="190.05781"
+       height="48.704064"
+       id="rect850" />
+    <rect
        x="19.915953"
        y="5.3619871"
        width="127.15569"
@@ -28,6 +34,18 @@
        width="465.66666"
        height="189.74405"
        id="rect1569" />
+    <rect
+       x="-0.83972526"
+       y="63.539207"
+       width="190.05782"
+       height="48.704063"
+       id="rect850-2" />
+    <rect
+       x="-0.83972526"
+       y="63.539207"
+       width="190.05782"
+       height="48.704063"
+       id="rect883" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -36,19 +54,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9030192"
-     inkscape:cx="278.07838"
-     inkscape:cy="109.55099"
+     inkscape:zoom="0.94524967"
+     inkscape:cx="292.67029"
+     inkscape:cy="61.492772"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1597"
      inkscape:window-height="909"
-     inkscape:window-x="232"
-     inkscape:window-y="81"
+     inkscape:window-x="205"
+     inkscape:window-y="89"
      inkscape:window-maximized="0"
-     showguides="false" />
+     showguides="false"
+     inkscape:snap-text-baseline="true" />
   <metadata
      id="metadata1001">
     <rdf:RDF>
@@ -67,7 +86,7 @@
      id="layer1">
     <g
        aria-label="E "
-       transform="matrix(3.3171818,0,0,3.3171818,81.125101,-9.1604559)"
+       transform="matrix(3.3171818,0,0,3.3171818,85.043818,-11.119815)"
        id="text2221"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:a_BosaNova;-inkscape-font-specification:'a_BosaNova, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect2223);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.301461">
       <path
@@ -77,35 +96,30 @@
          sodipodi:nodetypes="ccccsscccscccc" />
     </g>
     <g
-       aria-label="N A S T I E"
-       transform="matrix(3.4531677,0,0,3.4531677,601.18926,-154.26478)"
-       id="text1567"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1569);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.289588">
+       aria-label="N A S T I "
+       transform="matrix(1.8676038,0,0,1.8676038,8.1039579,-109.34336)"
+       id="text848"
+       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect850);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.535445">
       <path
-         d="m -170.67293,52.507571 v 4.921235 h -2.10607 v -7.842225 h 2.01082 l 2.23308,2.846907 c 0.2266,-0.722372 0.36932,-1.528614 0,-2.846907 h 2.07433 v 7.842225 h -2.07433 v -2.201327 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:a_Rewinder;-inkscape-font-specification:'a_Rewinder, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.289588"
-         id="path1573"
-         sodipodi:nodetypes="cccccccccccc" />
+         d="M 11.267466,68.011133 H 9.7096022 v 7.518385 L 3.3934813,68.011133 H 0.32855395 V 79.898309 H 1.7848178 v -7.162785 l 6.1637212,7.162785 h 3.318927 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Aafia;-inkscape-font-specification:'Aafia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.535445"
+         id="path955" />
       <path
-         d="m -156.09932,49.586581 0.47625,1.767411 -3.18159,-0.01058 c -0.85372,0 -1.50636,0.105833 -1.95791,0.317499 -0.57149,0.268111 -0.98777,0.761998 -1.24883,1.481662 h 2.00025 v -1.471078 h 2.11666 v 5.757315 h -2.11666 v -2.476492 h -2.21191 c 0.0423,0.853719 0.31044,1.679217 0.80433,2.476492 l -1.67216,1.100663 c -0.83961,-1.284107 -1.25942,-2.585853 -1.25942,-3.905238 0,-1.559273 0.44803,-2.786935 1.34408,-3.682988 0.90311,-0.903108 2.13431,-1.354662 3.69358,-1.354662 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:a_Rewinder;-inkscape-font-specification:'a_Rewinder, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.289588"
-         id="path1575"
-         sodipodi:nodetypes="ccccccccccccccsccc" />
+         d="m 20.229032,70.92366 1.456264,4.216392 h -2.912527 z m 4.419592,-2.895594 H 19.8057 l -4.114792,11.870243 h 0.03387 1.38853 l 1.117598,-3.217327 h 3.996259 l 1.117598,3.217327 h 5.418656 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Aafia;-inkscape-font-specification:'Aafia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.535445"
+         id="path957" />
       <path
-         d="m -141.58863,51.375158 c 0,0 -6.27989,-0.898316 -6.56936,0.22776 -0.28947,1.126076 -3.49461,-0.22776 -3.49461,-0.22776 -0.26711,-0.02318 -0.40216,0.08819 -0.40216,0.264583 0,0.169333 0.21291,0.409515 0.6985,0.952497 0.48559,0.542982 0.85856,0.927043 1.36181,1.448039 0.50325,0.520996 1.53905,1.325268 0.61726,1.589368 -0.87615,0.251023 -0.28575,1.210024 -0.85724,1.492245 -0.40923,0.204611 -1.00895,0.306916 -1.79917,0.306916 h -1.87324 l -0.51858,-1.809744 h 2.28599 c 0.24695,0 0.37042,-0.09525 0.37042,-0.28575 0,-0.183443 -0.22931,-0.500942 -0.68792,-0.952497 -0.65616,-0.656164 -1.07596,-1.100662 -1.25941,-1.333495 -0.45861,-0.585609 -0.68791,-1.132413 -0.68791,-1.640412 0,-1.213551 0.80786,-1.820327 2.42357,-1.820327 h 10.40844 l 0.26025,0.0041 c 0.91818,0.01447 0.94149,1.784488 0.005,1.784488"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:a_Rewinder;-inkscape-font-specification:'a_Rewinder, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.289588"
-         id="path1577"
-         sodipodi:nodetypes="czsszzscsccssccsscsc" />
+         d="m 44.464439,74.090188 c -0.423333,-0.592666 -1.049865,-1.083732 -1.89653,-1.507064 -0.846665,-0.423333 -1.913463,-0.778932 -2.573862,-1.134531 -0.660398,-0.338666 -0.914398,-0.694266 -0.999064,-0.999065 -0.08467,-0.304799 0.01693,-0.575732 0.304799,-0.778932 0.541866,-0.389466 1.74413,-0.575732 3.522127,0.863599 l 1.100664,-1.185331 C 42.195376,67.8926 40.806846,67.6894 39.655381,67.6386 c -1.28693,-0.0508 -2.302928,0.08467 -3.28506,0.423333 -0.982131,0.338666 -1.913463,0.897465 -2.489195,1.659463 -0.558799,0.745065 -0.761998,1.69333 -0.711198,2.489195 0.03387,0.778932 0.304799,1.422397 0.778931,1.94733 0.457199,0.524932 1.117598,0.914398 1.913463,1.253064 0.812799,0.338666 1.79493,0.609599 2.370662,0.914398 0.575732,0.287866 0.745065,0.592666 0.812799,0.897465 0.0508,0.304799 -0.01693,0.592666 -0.338666,0.812798 -0.609599,0.4064 -2.065863,0.541866 -4.453458,-1.185331 l -1.066798,1.219198 c 0.406399,0.338666 1.79493,1.710263 4.792124,2.184396 0.186266,0.03387 0.389466,0.0508 0.592665,0.06773 1.388531,0.118533 2.810928,-0.2032 3.826926,-0.626532 1.015998,-0.423333 1.64253,-0.914398 2.065863,-1.54093 0.406399,-0.626533 0.609598,-1.371598 0.609598,-2.082796 0,-0.728132 -0.203199,-1.388531 -0.609598,-1.981196 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Aafia;-inkscape-font-specification:'Aafia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.535445"
+         id="path959" />
       <path
-         d="m -143.59866,57.428806 h -2.10607 v -6.586462 h 2.10607 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:a_Rewinder;-inkscape-font-specification:'a_Rewinder, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.289588"
-         id="path1579"
-         sodipodi:nodetypes="ccccc" />
+         d="m 59.36962,68.044999 h -2.133596 -5.198523 -2.133596 v 1.523997 h 2.133596 v 10.36318 h 5.198523 v -10.36318 h 2.133596 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Aafia;-inkscape-font-specification:'Aafia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.535445"
+         id="path961" />
+      <path
+         d="m 69.194793,68.011133 h -4.82599 v 11.887176 h 4.82599 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Aafia;-inkscape-font-specification:'Aafia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.535445"
+         id="path963" />
     </g>
-    <path
-       id="path1579-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:a_Rewinder;-inkscape-font-specification:'a_Rewinder, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1569);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999991"
-       d="m 124.96593,26.566494 c -4.80004,5.364683 -5.79066,14.095638 -1.32606,15.991735 3.26679,1.3874 7.20222,1.087152 11.65862,-0.921598 3.76712,-1.698051 2.91698,-2.761069 1.35564,-2.546503 -3.22591,0.443317 -4.15483,0.898734 -7.16987,0.491233 -2.83323,-0.382928 -2.95429,-3.341507 -1.1513,-6.934582 1.83258,-3.652058 5.10245,-7.272881 5.44457,-7.869118 2.50965,-4.373843 -4.01156,-3.575849 -8.8116,1.788833 z"
-       sodipodi:nodetypes="zssssssz" />
   </g>
 </svg>

@@ -36,9 +36,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.6728189"
-     inkscape:cx="553.88425"
-     inkscape:cy="-164.77124"
+     inkscape:zoom="0.95150961"
+     inkscape:cx="436.71989"
+     inkscape:cy="100.29447"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -105,7 +105,7 @@
     <path
        id="path1579-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:a_Rewinder;-inkscape-font-specification:'a_Rewinder, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1569);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999991"
-       d="m 125.08008,23.119141 c -1.57224,2.612952 0,20.927734 0,20.927734 h 7.27344 c 0,0 1.69092,-18.314782 0,-20.927734 -1.69092,-2.612952 -5.7012,-2.612952 -7.27344,0 z"
-       sodipodi:nodetypes="zcczz" />
+       d="m 126.27668,26.206671 c -3.72317,6.581193 -4.16802,15.415832 -0.70504,17.741893 2.5339,1.70201 5.58643,1.333678 9.04305,-1.130582 2.92198,-2.083106 2.26257,-3.387177 1.05151,-3.123955 -2.50219,0.543845 -3.22271,1.102533 -5.56134,0.602626 -2.1976,-0.469762 -2.2915,-4.099236 -0.89301,-8.507087 1.42145,-4.480208 3.95774,-8.922099 4.2231,-9.65354 1.94662,-5.365668 -3.4351,-2.510547 -7.15827,4.070645 z"
+       sodipodi:nodetypes="zssssssz" />
   </g>
 </svg>

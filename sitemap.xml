@@ -6,9 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://Nastie.ml/images/%D1%83%D1%88%D0%BA%D0%B8.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://Nastie.ml/images/%D1%88%D0%B0%D1%80%D0%B8%D0%BA.gif</image:loc>
     </image:image>
     <image:image>
@@ -33,7 +30,13 @@
       <image:loc>http://Nastie.ml/images/%D0%B2%D0%B5%D1%82%D0%BA%D0%B0-2.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nastie.ml/images/nastie---%D0%B8%D0%BC%D1%8F-1.svg</image:loc>
+      <image:loc>http://Nastie.ml/images/nastie---%D0%B8%D0%BC%D1%8F-2.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Nastie.ml/images/%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D1%87%D0%B5%D0%BA.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Nastie.ml/images/%D0%B1%D1%83%D0%BA%D0%B2%D0%B0-%D0%B5.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://Nastie.ml/images/inspiration---%D1%82%D0%B5%D0%BA%D1%81%D1%82.svg</image:loc>

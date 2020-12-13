@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607847125981">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607849774983">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="3920232733" ref="index"/>
+    <file name="index.css" crc="4282265611" ref="index"/>
     <file name="photos.css" crc="495165299" ref="photos"/>
   </folder>
   <folder name="assets">
@@ -17,10 +17,6 @@
   </folder>
   <folder name="images">
     <file name="nastie-favicon.ico" crc="185933360" ref="index"/>
-    <file name="ушки.svg" crc="4153967968" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ушки_poster_.png" crc="4068383740" ref="index"/>
     <file name="шарик.gif" crc="235075892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -50,10 +46,18 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="ветка 2_poster_.png" crc="4050031518" ref="index"/>
-    <file name="nastie---имя-1.svg" crc="4218436212" seo="true" ref="index">
+    <file name="nastie---имя-2.svg" crc="4144983268" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nastie - имя 1_poster_.png" crc="3928131875" ref="index"/>
+    <file name="nastie - имя 2_poster_.png" crc="48030018" ref="index"/>
+    <file name="цветочек.svg" crc="3781576392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="цветочек_poster_.png" crc="4283740273" ref="index"/>
+    <file name="буква-е.svg" crc="4094380722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="буква е_poster_.png" crc="131423482" ref="index"/>
     <file name="inspiration---текст.svg" crc="284166166" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -93,6 +97,6 @@
     </file>
     <file name="minimal 2_poster_.png" crc="373288136" ref="photos"/>
   </folder>
-  <file name="index.html" crc="258720524" seo="true" mt="1607847072154" redirect="true"/>
+  <file name="index.html" crc="3927911269" seo="true" mt="1607849759097" redirect="true"/>
   <file name="photos.html" crc="4206091290" seo="true" mt="1607715979925" redirect="true"/>
 </manifest>

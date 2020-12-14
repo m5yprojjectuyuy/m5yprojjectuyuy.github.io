@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607984277039">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607986073516">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
+    <file name="photos.css" crc="4085467975" ref="photos"/>
     <file name="index.css" crc="4087415270" ref="index"/>
-    <file name="photos.css" crc="4085059752" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="410159800" seo="true" mt="1607997377000"/>
@@ -12,7 +12,7 @@
     <file name="museutils.js" crc="3939489907" ref="index:photos"/>
     <file name="whatinput.js" crc="86476730" ref="index:photos"/>
     <file name="museconfig.js" crc="128606099" ref="index:photos"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:photos"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index:photos"/>
   </folder>
   <folder name="images">
@@ -85,8 +85,8 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="значок фотоаппарата 6_poster_.png" crc="81700275" ref="index"/>
-    <file name="photos-favicon.ico" crc="264791417" ref="photos"/>
-    <file name="coco-rocha-x-grazia-cover_1187_r-1.jpg" crc="3770706040" seo="true" ref="photos">
+    <file name="photos-favicon.ico" crc="185933360" ref="photos"/>
+    <file name="coco-rocha-x-grazia-cover_1187_r-1.jpg" crc="3943542871" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
     <file name="coco-roch.png" crc="331513898" seo="true" ref="photos">
@@ -102,6 +102,6 @@
       <caption webpage="photos" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4015094952" seo="true" redirect="true"/>
-  <file name="photos.html" crc="204609237" seo="true" mt="1607984233570" redirect="true"/>
+  <file name="index.html" crc="4015094952" seo="true" mt="1607985538232" redirect="true"/>
+  <file name="photos.html" crc="4025821309" seo="true" mt="1607986004737" redirect="true"/>
 </manifest>

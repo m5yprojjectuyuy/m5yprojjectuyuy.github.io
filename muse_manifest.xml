@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607914809092">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607916749087">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="photos.css" crc="495165299" ref="photos"/>
+    <file name="photos.css" crc="3782727314" ref="photos"/>
     <file name="index.css" crc="4144652227" ref="index"/>
   </folder>
   <folder name="assets">
@@ -91,7 +91,16 @@
       <caption webpage="photos" alt=""/>
     </file>
     <file name="minimal 2_poster_.png" crc="373288136" ref="photos"/>
+    <file name="coco-rocha-x-grazia-cover_1187_r-1.jpg" crc="4287571504" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="coco-rocha-daughter-ioni-conron-photo-shoot-01.jpg" crc="4148188454" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="coco-roch.jpg" crc="3874163038" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3795768935" seo="true" mt="1607914793161" redirect="true"/>
-  <file name="photos.html" crc="4206091290" seo="true" redirect="true"/>
+  <file name="index.html" crc="3795768935" seo="true" mt="1607915218710" redirect="true"/>
+  <file name="photos.html" crc="3884933229" seo="true" mt="1607916707167" redirect="true"/>
 </manifest>

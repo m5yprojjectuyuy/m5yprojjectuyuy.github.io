@@ -68,6 +68,15 @@
     <image:image>
       <image:loc>http://Nastie.ml/images/minimal-2.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://Nastie.ml/images/coco-rocha-x-grazia-cover_1187_r-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Nastie.ml/images/coco-rocha-daughter-ioni-conron-photo-shoot-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Nastie.ml/images/coco-roch.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://Nastie.ml/assets/kolokol.mp3</loc>

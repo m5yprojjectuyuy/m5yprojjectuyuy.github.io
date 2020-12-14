@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607917508471">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607918767341">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="photos.css" crc="134615288" ref="photos"/>
+    <file name="photos.css" crc="4064881034" ref="photos"/>
     <file name="index.css" crc="4144652227" ref="index"/>
   </folder>
   <folder name="assets">
@@ -49,10 +49,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="текст - happiness 2_poster_.png" crc="3792203509" ref="index"/>
-    <file name="nastie---имя---композиция---3.svg" crc="423896556" seo="true" ref="index">
+    <file name="nastie---имя---композиция---4.svg" crc="4174570112" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nastie---имя---композиция---3_poster_.png" crc="3785347608" ref="index"/>
+    <file name="nastie---имя---композиция---4_poster_.png" crc="4044256196" ref="index"/>
     <file name="inspiration---текст.svg" crc="284166166" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -91,16 +91,16 @@
       <caption webpage="photos" alt=""/>
     </file>
     <file name="minimal 2_poster_.png" crc="373288136" ref="photos"/>
-    <file name="coco-rocha-x-grazia-cover_1187_r-1.jpg" crc="4287571504" seo="true" ref="photos">
+    <file name="coco-rocha-x-grazia-cover_1187_r-1.jpg" crc="3770706040" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
     <file name="coco-rocha-daughter-ioni-conron-photo-shoot-01.jpg" crc="4148188454" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="coco-roch.jpg" crc="3874163038" seo="true" ref="photos">
+    <file name="coco-roch.png" crc="331513898" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3795768935" seo="true" mt="1607915218710" redirect="true"/>
-  <file name="photos.html" crc="479266765" seo="true" mt="1607917494438" redirect="true"/>
+  <file name="index.html" crc="3851364521" seo="true" mt="1607917999651" redirect="true"/>
+  <file name="photos.html" crc="359650416" seo="true" mt="1607918748269" redirect="true"/>
 </manifest>

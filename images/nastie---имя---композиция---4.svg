@@ -66,15 +66,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter993"
-       x="-0.039771203"
-       width="1.0795424"
-       y="-0.039771203"
-       height="1.0795424">
+       id="filter949"
+       x="-0.034366864"
+       width="1.0687337"
+       y="-0.034366864"
+       height="1.0687337">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.18904323"
-         id="feGaussianBlur995" />
+         stdDeviation="0.16335495"
+         id="feGaussianBlur951" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -84,16 +84,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.210992"
-     inkscape:cx="945.43078"
-     inkscape:cy="163.94006"
+     inkscape:zoom="0.56613978"
+     inkscape:cx="447.74941"
+     inkscape:cy="393.68565"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1204"
-     inkscape:window-height="893"
-     inkscape:window-x="700"
+     inkscape:window-height="899"
+     inkscape:window-x="699"
      inkscape:window-y="99"
      inkscape:window-maximized="0"
      showguides="false"
@@ -147,7 +147,7 @@
        id="text848"
        style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect850);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.462253">
       <path
-         d="m 11.267466,57.29847 -1.5578638,2.822273 0,15.408775 -6.3161209,-7.518385 H 0.32855395 V 79.898309 H 1.7848178 v -7.162785 l 6.1637212,7.162785 h 3.318927 z"
+         d="m 11.267466,56.144488 -1.5578638,0.0014 V 75.5878 L 3.3934813,68.011133 H 0.32855395 V 79.898309 H 1.7848178 v -7.162785 l 6.1637212,7.162785 3.318927,0.05828 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Aafia;-inkscape-font-specification:'Aafia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.462253"
          id="path955"
          sodipodi:nodetypes="ccccccccccc" />
@@ -186,7 +186,7 @@
        sodipodi:nodetypes="ccsssccsssssccczczcccccccccccccccsccccccccccccccc" />
     <path
        id="path878"
-       style="opacity:0.99700002;fill:#00ff00;stroke-width:0.800001;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:10.8095;filter:url(#filter993)"
+       style="opacity:0.99700002;fill:#00ff00;stroke-width:0.800001;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:10.8095;filter:url(#filter949)"
        d="m 248.08069,43.541446 a 5.7039237,5.7039237 0 0 1 -7.12697,3.39248 5.7039237,5.7039237 0 0 1 -3.69246,-6.976268 5.7039237,5.7039237 0 0 1 6.81294,-3.985769 5.7039237,5.7039237 0 0 1 4.27187,6.637302" />
   </g>
 </svg>

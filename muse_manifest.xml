@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607986073516">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607986687181">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="photos.css" crc="4085467975" ref="photos"/>
+    <file name="photos.css" crc="124144598" ref="photos"/>
     <file name="index.css" crc="4087415270" ref="index"/>
   </folder>
   <folder name="assets">
@@ -92,9 +92,6 @@
     <file name="coco-roch.png" crc="331513898" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="животные (3).jpg" crc="87962448" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-    </file>
     <file name="животные (2).jpg" crc="3771666584" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
@@ -103,5 +100,5 @@
     </file>
   </folder>
   <file name="index.html" crc="4015094952" seo="true" mt="1607985538232" redirect="true"/>
-  <file name="photos.html" crc="4025821309" seo="true" mt="1607986004737" redirect="true"/>
+  <file name="photos.html" crc="91925073" seo="true" mt="1607986660547" redirect="true"/>
 </manifest>

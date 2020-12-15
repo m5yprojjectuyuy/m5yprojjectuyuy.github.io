@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607986782742">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607993350581">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="photos.css" crc="4191942212" ref="photos"/>
-    <file name="index.css" crc="4087415270" ref="index"/>
+    <file name="index.css" crc="4160533035" ref="index"/>
+    <file name="photos.css" crc="474106753" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="410159800" seo="true" mt="1607997377000"/>
@@ -49,10 +49,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="текст - happiness 2_poster_.png" crc="3792203509" ref="index"/>
-    <file name="nastie---имя---композиция---4.svg" crc="231047841" seo="true" ref="index">
+    <file name="nastie---имя---композиция---4.svg" crc="4035551583" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nastie---имя---композиция---4_poster_.png" crc="3791647518" ref="index"/>
+    <file name="nastie---имя---композиция---4_poster_.png" crc="3976142755" ref="index"/>
     <file name="кружок мигает.gif" crc="520195321" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -90,10 +90,6 @@
       <caption webpage="photos" alt=""/>
     </file>
     <file name="зиг заг шапка 4_poster_.png" crc="277278244" ref="photos"/>
-    <file name="minimal-2.svg" crc="522696697" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="minimal 2_poster_.png" crc="373288136" ref="photos"/>
     <file name="coco-rocha-x-grazia-cover_1187_r-1.jpg" crc="3770706040" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
@@ -101,6 +97,6 @@
       <caption webpage="photos" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="392663620" seo="true" redirect="true"/>
-  <file name="photos.html" crc="4245829286" seo="true" mt="1607986759847" redirect="true"/>
+  <file name="index.html" crc="3768696611" seo="true" mt="1607992860500" redirect="true"/>
+  <file name="photos.html" crc="299934926" seo="true" mt="1607993335331" redirect="true"/>
 </manifest>

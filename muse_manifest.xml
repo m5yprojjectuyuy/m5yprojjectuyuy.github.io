@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607996105731">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607999667592">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="photos.css" crc="125916929" ref="photos"/>
-    <file name="index.css" crc="4087415270" ref="index"/>
+    <file name="index.css" crc="4160533035" ref="index"/>
+    <file name="photos.css" crc="62348587" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="410159800" seo="true" mt="1607997377000"/>
@@ -93,6 +93,6 @@
       <caption webpage="photos" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4015094952" seo="true" mt="1607992860500" redirect="true"/>
-  <file name="photos.html" crc="3821921503" seo="true" mt="1607996081253" redirect="true"/>
+  <file name="index.html" crc="3768696611" seo="true" mt="1607992860500" redirect="true"/>
+  <file name="photos.html" crc="4143154187" seo="true" mt="1607999612948" redirect="true"/>
 </manifest>

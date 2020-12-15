@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607918767341">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607992703680">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="photos.css" crc="4064881034" ref="photos"/>
-    <file name="index.css" crc="4144652227" ref="index"/>
+    <file name="index.css" crc="4160533035" ref="index"/>
+    <file name="photos.css" crc="419930047" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="3794366839" seo="true" mt="1607672961000"/>
@@ -49,10 +49,13 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="текст - happiness 2_poster_.png" crc="3792203509" ref="index"/>
-    <file name="nastie---имя---композиция---4.svg" crc="4174570112" seo="true" ref="index">
+    <file name="nastie---имя---композиция---4.svg" crc="231047841" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nastie---имя---композиция---4_poster_.png" crc="4044256196" ref="index"/>
+    <file name="nastie---имя---композиция---4_poster_.png" crc="3791647518" ref="index"/>
+    <file name="кружок мигает.gif" crc="520195321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="inspiration---текст.svg" crc="284166166" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -100,7 +103,10 @@
     <file name="coco-roch.png" crc="331513898" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
+    <file name="coco-rocha-x-grazia-cover_1241_r.jpg" crc="16593619" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3851364521" seo="true" mt="1607917999651" redirect="true"/>
-  <file name="photos.html" crc="359650416" seo="true" mt="1607918748269" redirect="true"/>
+  <file name="index.html" crc="338253251" seo="true" mt="1607992586711" redirect="true"/>
+  <file name="photos.html" crc="4077184687" seo="true" mt="1607992690565" redirect="true"/>
 </manifest>

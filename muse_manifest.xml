@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608017149110">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608028782577">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="4087415270" ref="index"/>
-    <file name="photos.css" crc="499010447" ref="photos"/>
+    <file name="index.css" crc="19517354" ref="index"/>
+    <file name="photos.css" crc="3986143738" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="410159800" seo="true" mt="1607997377000"/>
@@ -95,10 +95,10 @@
     <file name="феодосия-крым.jpg" crc="4051647308" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="крым3.jpg" crc="505480797" seo="true" ref="photos">
+    <file name="черногория.jpg" crc="127729953" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4015094952" seo="true" mt="1607985538232" redirect="true"/>
-  <file name="photos.html" crc="51613113" seo="true" mt="1608017126327" redirect="true"/>
+  <file name="index.html" crc="202934943" seo="true" mt="1607985538232" redirect="true"/>
+  <file name="photos.html" crc="3874782454" seo="true" mt="1608028761466" redirect="true"/>
 </manifest>

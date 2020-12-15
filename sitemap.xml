@@ -83,12 +83,6 @@
     <image:image>
       <image:loc>http://Nastie.ml/images/%D0%BA%D1%80%D1%8B%D0%BC3.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://Nastie.ml/images/%D0%BA%D1%80%D1%8B%D0%BC2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://Nastie.ml/images/%D0%BA%D1%80%D1%8B%D0%BC.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://Nastie.ml/assets/kolokol.mp3</loc>

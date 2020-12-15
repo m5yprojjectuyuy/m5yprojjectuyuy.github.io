@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607998586207">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607999177381">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="index.css" crc="19517354" ref="index"/>
-    <file name="photos.css" crc="4190229234" ref="photos"/>
+    <file name="photos.css" crc="4233601377" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="410159800" seo="true" mt="1607997377000"/>
@@ -64,7 +64,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="charm 2 - текст_poster_.png" crc="3868965723" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:photos"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="инстагр.svg" crc="4067486096" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -104,13 +104,7 @@
     <file name="крым3.jpg" crc="505480797" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="крым2.jpg" crc="3981300165" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="крым.jpg" crc="3499141" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-    </file>
   </folder>
   <file name="index.html" crc="202934943" seo="true" mt="1607985538232" redirect="true"/>
-  <file name="photos.html" crc="132807602" seo="true" mt="1607998537102" redirect="true"/>
+  <file name="photos.html" crc="4244883134" seo="true" mt="1607999166874" redirect="true"/>
 </manifest>

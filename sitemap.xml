@@ -75,18 +75,18 @@
       <image:loc>http://Nastie.ml/images/coco-rocha-x-grazia-cover_1187_r-1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nastie.ml/images/coco-rocha-daughter-ioni-conron-photo-shoot-01.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://Nastie.ml/images/coco-roch.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Nastie.ml/images/coco-rocha-x-grazia-cover_1241_r.jpg</image:loc>
+      <image:loc>http://Nastie.ml/images/majak.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Nastie.ml/images/majak-2.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://Nastie.ml/assets/kolokol.mp3</loc>
-    <lastmod>2020-12-11</lastmod>
+    <lastmod>2020-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

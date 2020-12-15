@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608073697993">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608073869613">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="photoblog.css" crc="4199592088" ref="photoblog"/>
+    <file name="photoblog.css" crc="21612924" ref="photoblog"/>
     <file name="index.css" crc="84907437" ref="index"/>
   </folder>
   <folder name="assets">
@@ -86,24 +86,10 @@
     </file>
     <file name="значок фотоаппарата 6_poster_.png" crc="81700275" ref="index"/>
     <file name="photoblog-favicon.ico" crc="185933360" ref="photoblog"/>
-    <file name="животные (1).jpg" crc="258267742" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="collie.svg" crc="159389067" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="collie_poster_.png" crc="189766513" ref="photoblog"/>
-    <file name="theodosia.svg" crc="330203878" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="theodosia_poster_.png" crc="447525702" ref="photoblog"/>
     <file name="in-montenegro.svg" crc="339650293" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
     <file name="in montenegro _poster_.png" crc="3774071643" ref="photoblog"/>
-    <file name="черногория.jpg" crc="127729953" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
     <file name="photoblog--текст.svg" crc="369694953" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
@@ -111,10 +97,24 @@
     <file name="путешествие.gif" crc="3898620689" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
+    <file name="черногория.jpg" crc="127729953" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
+    <file name="theodosia.svg" crc="330203878" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
+    <file name="theodosia_poster_.png" crc="447525702" ref="photoblog"/>
     <file name="феодосия-крым-5.jpg" crc="3810602051" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
+    <file name="collie.svg" crc="159389067" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
+    <file name="collie_poster_.png" crc="189766513" ref="photoblog"/>
+    <file name="животные (1).jpg" crc="258267742" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="4275088652" seo="true" mt="1608094062234" redirect="true"/>
-  <file name="photoblog.html" crc="506848593" seo="true" mt="1608073688120" redirect="true"/>
+  <file name="photoblog.html" crc="299445928" seo="true" mt="1608073825411" redirect="true"/>
 </manifest>

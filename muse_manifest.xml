@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608074331291">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608076217889">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
+    <file name="index.css" crc="3792987451" ref="index"/>
     <file name="photoblog.css" crc="55389577" ref="photoblog"/>
-    <file name="index.css" crc="84907437" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="410159800" seo="true" mt="1607997377000"/>
@@ -45,10 +45,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="бабочки а 1_poster_.png" crc="4240484938" ref="index"/>
-    <file name="текст---happiness--2.svg" crc="4154198248" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="текст - happiness 2_poster_.png" crc="3792203509" ref="index"/>
     <file name="nastie---имя---композиция---4.svg" crc="4035551583" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -115,6 +111,6 @@
       <caption webpage="photoblog" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4275088652" seo="true" mt="1608074313819" redirect="true"/>
-  <file name="photoblog.html" crc="243685370" seo="true" mt="1608074195589" redirect="true"/>
+  <file name="index.html" crc="3865471989" seo="true" mt="1608076142275" redirect="true"/>
+  <file name="photoblog.html" crc="243685370" seo="true" redirect="true"/>
 </manifest>

@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607986687181">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1607995944046">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="photos.css" crc="124144598" ref="photos"/>
-    <file name="index.css" crc="4087415270" ref="index"/>
+    <file name="index.css" crc="19517354" ref="index"/>
+    <file name="photos.css" crc="4012918185" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="410159800" seo="true" mt="1607997377000"/>
@@ -86,19 +86,31 @@
     </file>
     <file name="значок фотоаппарата 6_poster_.png" crc="81700275" ref="index"/>
     <file name="photos-favicon.ico" crc="185933360" ref="photos"/>
-    <file name="coco-rocha-x-grazia-cover_1187_r-1.jpg" crc="3943542871" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-    </file>
-    <file name="coco-roch.png" crc="331513898" seo="true" ref="photos">
-      <caption webpage="photos" alt=""/>
-    </file>
     <file name="животные (2).jpg" crc="3771666584" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
     <file name="животные (1).jpg" crc="258267742" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
+    <file name="феодосия-крым-3.jpg" crc="4025431397" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="феодосия-крым-2.jpg" crc="368800131" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="феодосия-крым.jpg" crc="4051647308" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="крым3.jpg" crc="505480797" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="крым2.jpg" crc="3981300165" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="крым.jpg" crc="3499141" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4015094952" seo="true" mt="1607985538232" redirect="true"/>
-  <file name="photos.html" crc="91925073" seo="true" mt="1607986660547" redirect="true"/>
+  <file name="index.html" crc="202934943" seo="true" mt="1607985538232" redirect="true"/>
+  <file name="photos.html" crc="4187471619" seo="true" mt="1607995922945" redirect="true"/>
 </manifest>

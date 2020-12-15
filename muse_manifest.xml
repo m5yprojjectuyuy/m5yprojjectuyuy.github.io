@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608028782577">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608036686037">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="index.css" crc="19517354" ref="index"/>
-    <file name="photos.css" crc="3986143738" ref="photos"/>
+    <file name="photos.css" crc="3989440076" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="410159800" seo="true" mt="1607997377000"/>
@@ -98,7 +98,19 @@
     <file name="черногория.jpg" crc="127729953" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
+    <file name="текст-для-траницы-nastie---photos---1.svg" crc="138413004" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="текст для траницы nastie - photos - 1_poster_.png" crc="530920987" ref="photos"/>
+    <file name="текст-для-траницы-nastie---photos---2.svg" crc="150504973" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="текст для траницы nastie - photos - 2_poster_.png" crc="4157004867" ref="photos"/>
+    <file name="текст-для-траницы-nastie---photos---3.svg" crc="107466535" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="текст для траницы nastie - photos - 3_poster_.png" crc="122499908" ref="photos"/>
   </folder>
-  <file name="index.html" crc="202934943" seo="true" mt="1607985538232" redirect="true"/>
-  <file name="photos.html" crc="3874782454" seo="true" mt="1608028761466" redirect="true"/>
+  <file name="index.html" crc="202934943" seo="true" mt="1608035846274" redirect="true"/>
+  <file name="photos.html" crc="3864687620" seo="true" mt="1608036621413" redirect="true"/>
 </manifest>

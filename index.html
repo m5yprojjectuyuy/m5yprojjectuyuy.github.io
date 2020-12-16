@@ -19,7 +19,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>NASTIE</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4162518342"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3792987451" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=257859865" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -88,8 +88,8 @@ h1 {font-family: 'Cedarville Cursive', cursive;}
 		position: absolute;
 	}
 .audioplayer {
-    color: #000000;
-	background: #000000;
+    color: #FFFFFF;
+	background: #FF0000;
 }
 
 .audioplayer-playpause
@@ -121,17 +121,16 @@ h1 {font-family: 'Cedarville Cursive', cursive;}
 
 	.audioplayer:not(.audioplayer-playing) .audioplayer-playpause a
 	{
-    width: 10px;
-    height: 10px;
-    border: 2em solid #000000;
-    border-left-color: #000000;
-    border-radius: 522px;
-    opacity: .8;
-    content: '';
-    position: absolute;
-    top: -2060%;
-    left: 370%;
-    margin: 0; /* 8 4 */
+		width: 0;
+		height: 0;
+		border: 0.5em solid transparent; /* 8 */
+		border-right: none;
+		border-left-color: #FFFFFF;
+		content: '';
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		margin: -0.5em 0 0 -0.25em; /* 8 4 */
 	}
 
 	.audioplayer-playing .audioplayer-playpause a
@@ -149,7 +148,7 @@ h1 {font-family: 'Cedarville Cursive', cursive;}
 		{
 			width: 40%;
 			height: 100%;
-			background-color: #000000;
+			background-color: #FFFFFF;
 			content: '';
 			position: absolute;
 			top: 0;
@@ -163,12 +162,213 @@ h1 {font-family: 'Cedarville Cursive', cursive;}
 			right: 0;
 		}
 
+
+.audioplayer-time
+{
+	width: 4.375em; /* 70 */
+	height: 100%;
+	line-height: 2.5em; /* 40 */
+	text-align: center;
+	z-index: 2;
+	top: 0;
+}
+	.audioplayer-time-current
+	{
+		border-left: 1px solid #FF0000;
+		left: 2.5em; /* 40 */
+	}
+	.audioplayer-time-duration
+	{
+		right: 2.5em; /* 40 */
+	}
+		.audioplayer-novolume .audioplayer-time-duration
+		{
+			border-right: 0;
+			right: 0;
+		}
+
+
+.audioplayer-bar
+{
+	height: 0.875em; /* 14 */
+	background-color: #FF0000;
+	cursor: pointer;
+	z-index: 1;
+	top: 50%;
+	right: 6.875em; /* 110 */
+	left: 6.875em; /* 110 */
+	margin-top: -0.438em; /* 7 */
+}
+	.audioplayer-novolume .audioplayer-bar
+	{
+		right: 4.375em; /* 70 */
+	}
+	.audioplayer-bar div
+	{
+		width: 0;
+		height: 100%;
+		position: absolute;
+		left: 0;
+		top: 0;
+	}
+
+	.audioplayer-bar-loaded
+	{
+		background-color: #FF0000;
+		z-index: 1;
+	}
+
+	.audioplayer-bar-played
+	{
+        /* Accent Color */
+		background: #FF0000;
+		z-index: 2;
+	}
+
+.audioplayer-volume
+{
+	width: 2.5em; /* 40 */
+	height: 100%;
+	border-left: 1px solid #FF0000;
+	text-align: left;
+	text-indent: -9999px;
+	cursor: pointer;
+	z-index: 2;
+	top: 0;
+	right: 0;
+}
+
+
+	.audioplayer-volume:hover,
+	.audioplayer-volume:focus
+	{
+		background-color: #FF0000;
+
+
+	}
+	.audioplayer-volume-button
+	{
+		width: 100%;
+		height: 100%;
+	}
+
+
+		.audioplayer-volume-button a
+		{
+			width: 0.313em; /* 5 */
+			height: 0.375em; /* 6 */
+			background-color: #FFFFFF;
+			display: block;
+			position: relative;
+			z-index: 1;
+			top: 40%;
+			left: 35%;
+		}
+			.audioplayer-volume-button a:before,
+			.audioplayer-volume-button a:after
+			{
+				content: '';
+				position: absolute;
+			}
+
+			.audioplayer-volume-button a:before
+			{
+				width: 0;
+				height: 0;
+				border: 0.5em solid transparent; /* 8 */
+				border-left: none;
+				border-right-color: #FFFFFF;
+				z-index: 2;
+				top: 50%;
+				right: -0.25em;
+				margin-top: -0.5em; /* 8 */
+			}
+
+            /* Color */
+			.audioplayer:not(.audioplayer-mute) .audioplayer-volume-button a:after
+			{
+				/* "volume" icon by Nicolas Gallagher, http://nicolasgallagher.com/pure-css-gui-icons */
+				width: 0.313em; /* 5 */
+				height: 0.313em; /* 5 */
+				border: 0.25em double #FFFFFF; /* 4 */
+				border-width: 0.25em 0.25em 0 0; /* 4 */
+				left: 0.563em; /* 9 */
+				top: -0.063em; /* 1 */
+				-webkit-border-radius: 0 0.938em 0 0; /* 15 */
+				-moz-border-radius: 0 0.938em 0 0; /* 15 */
+				border-radius: 0 0.938em 0 0; /* 15 */
+				-webkit-transform: rotate( 45deg );
+				-moz-transform: rotate( 45deg );
+				-ms-transform: rotate( 45deg );
+				-o-transform: rotate( 45deg );
+				transform: rotate( 45deg );
+			}
+
+	.audioplayer-volume-adjust
+	{
+		width: 100%;
+		height: 6.25em; /* 100 */
+		cursor: default;
+		position: absolute;
+		left: 0;
+		top: -9999px;
+		background: #FF0000;
+
+
+
+	}
+		.audioplayer-volume:not(:hover) .audioplayer-volume-adjust
+		{
+			opacity: 0;
+		}
+		.audioplayer-volume:hover .audioplayer-volume-adjust
+		{
+			top: auto;
+			bottom: 100%;
+		}
+		.audioplayer-volume-adjust > div
+		{
+			width: 40%;
+			height: 80%;
+			background-color: #FF0000;
+			cursor: pointer;
+			position: relative;
+			z-index: 1;
+			margin: 30% auto 0;
+		}
+
+
+			.audioplayer-volume-adjust div div
+			{
+				width: 100%;
+				height: 100%;
+				position: absolute;
+				bottom: 0;
+				left: 0;
+                /* Accent Color */
+				background: #FF0000;
+			}
+	.audioplayer-novolume .audioplayer-volume
+	{
+		display: none;
+	}
 </style>
 
  </head>
  <body>
 
   <!--HTML Widget code-->
+
+
+
+
+
+
+
+
+
+
+
 
   <div class="clearfix" id="page"><!-- group -->
    <div class="clearfix grpelem" id="u781-3"><!-- content -->
@@ -193,6 +393,10 @@ h1 {font-family: 'Cedarville Cursive', cursive;}
      </div>
      <div class="rounded-corners clip_frame grpelem" id="u10733"><!-- image -->
       <img class="block" id="u10733_img" src="images/zastavka---nasty.jpg?crc=4187035072" alt="" width="925" height="693"/>
+     </div>
+     <div class="clearfix grpelem" id="u14769-6"><!-- content -->
+      <h1>Happiness is not a destination</h1>
+      <h1>&nbsp;It is a method of life</h1>
      </div>
      <div class="clip_frame grpelem" id="u10962"><!-- image -->
       <img class="block" id="u10962_img" src="images/%d1%81%d0%ba%d1%80%d0%b5%d0%bf%d0%ba%d0%b0.png?crc=4226658761" alt="" width="69" height="198"/>
@@ -239,10 +443,6 @@ h1 {font-family: 'Cedarville Cursive', cursive;}
       <img class="block" id="u11607_img" src="images/%d0%ba%d1%80%d1%83%d0%b6%d0%be%d0%ba%20%d0%bc%d0%b8%d0%b3%d0%b0%d0%b5%d1%82.gif?crc=520195321" alt="" width="22" height="22"/>
      </div>
      <div class="grpelem" id="u8923"><!-- content --></div>
-     <div class="clearfix grpelem" id="u14769-6"><!-- content -->
-      <h1>Happiness is not a destination</h1>
-      <h1>&nbsp;It is a method of life</h1>
-     </div>
     </div>
     <div class="clearfix colelem" id="pu697-4"><!-- group -->
      <div class="clearfix grpelem" id="u697-4"><!-- content -->

@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608094325547">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608094512326">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="photoblog.css" crc="66959023" ref="photoblog"/>
-    <file name="index.css" crc="4208033660" ref="index"/>
+    <file name="index.css" crc="422379845" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photoblog"/>
@@ -101,6 +101,6 @@
       <caption webpage="photoblog" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3903912642" seo="true" mt="1608093135847" redirect="true"/>
+  <file name="index.html" crc="3809248619" seo="true" mt="1608094498025" redirect="true"/>
   <file name="photoblog.html" crc="338925239" seo="true" mt="1608093474668" redirect="true"/>
 </manifest>

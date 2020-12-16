@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608083682867">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608085244598">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="index.css" crc="332607304" ref="index"/>
-    <file name="photoblog.css" crc="3843000968" ref="photoblog"/>
+    <file name="photoblog.css" crc="274519795" ref="photoblog"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="410159800" seo="true" mt="1607997377000"/>
@@ -86,30 +86,9 @@
     </file>
     <file name="значок фотоаппарата 6_poster_.png" crc="81700275" ref="index"/>
     <file name="photoblog-favicon.ico" crc="185933360" ref="photoblog"/>
-    <file name="животные (1).jpg" crc="258267742" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="феодосия-крым-3.jpg" crc="4025431397" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="феодосия-крым.jpg" crc="4051647308" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
     <file name="черногория.jpg" crc="127729953" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
-    <file name="текст-для-траницы-nastie---photos---2.svg" crc="3919761004" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="текст для траницы nastie - photos - 2_poster_.png" crc="3847930738" ref="photoblog"/>
-    <file name="текст-для-траницы-nastie---photos---1.svg" crc="497241678" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="текст для траницы nastie - photos - 1_poster_.png" crc="4030692727" ref="photoblog"/>
-    <file name="текст-для-траницы-nastie---photos---3.svg" crc="3774493364" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="текст для траницы nastie - photos - 3_poster_.png" crc="4271475315" ref="photoblog"/>
     <file name="photoblog--текст.svg" crc="369694953" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
@@ -118,18 +97,39 @@
       <caption webpage="photoblog" alt=""/>
     </file>
     <file name="in montenegro _poster_.png" crc="3790682724" ref="photoblog"/>
+    <file name="путешествие.gif" crc="3898620689" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
+    <file name="текст-для-траницы-nastie---photos---2.svg" crc="3929054744" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
+    <file name="текст для траницы nastie - photos - 2_poster_.png" crc="4225508611" ref="photoblog"/>
     <file name="theodosia.svg" crc="3848105758" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
     <file name="theodosia_poster_.png" crc="4254056757" ref="photoblog"/>
+    <file name="феодосия-крым-3.jpg" crc="4025431397" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
+    <file name="феодосия-крым.jpg" crc="4051647308" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
+    <file name="текст-для-траницы-nastie---photos---1.svg" crc="4093618184" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
+    <file name="текст для траницы nastie - photos - 1_poster_.png" crc="186056253" ref="photoblog"/>
     <file name="collie.svg" crc="278871788" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
     <file name="collie_poster_.png" crc="4267149265" ref="photoblog"/>
-    <file name="путешествие.gif" crc="3898620689" seo="true" ref="photoblog">
+    <file name="животные (1).jpg" crc="258267742" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
+    <file name="текст-для-траницы-nastie---photos---3.svg" crc="245114643" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
+    <file name="текст для траницы nastie - photos - 3_poster_.png" crc="4110013643" ref="photoblog"/>
   </folder>
-  <file name="index.html" crc="4280209009" seo="true" mt="1608083611285" redirect="true"/>
-  <file name="photoblog.html" crc="4119393922" seo="true" mt="1608082857043" redirect="true"/>
+  <file name="index.html" crc="4280209009" seo="true" mt="1608085063838" redirect="true"/>
+  <file name="photoblog.html" crc="358311824" seo="true" mt="1608085208734" redirect="true"/>
 </manifest>

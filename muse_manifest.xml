@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608094512326">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608106841050">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="photoblog.css" crc="66959023" ref="photoblog"/>
-    <file name="index.css" crc="422379845" ref="index"/>
+    <file name="photoblog.css" crc="4205953992" ref="photoblog"/>
+    <file name="index.css" crc="4013320317" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:photoblog"/>
@@ -82,10 +82,7 @@
     <file name="путешествие.gif" crc="3898620689" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
-    <file name="алушта (2).jpg" crc="3775029712" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="алушта-(3).jpg" crc="490351567" seo="true" ref="photoblog">
+    <file name="алушта-(3).jpg" crc="269096135" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
     <file name="алушта (1).jpg" crc="55052970" seo="true" ref="photoblog">
@@ -101,6 +98,6 @@
       <caption webpage="photoblog" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3809248619" seo="true" mt="1608094498025" redirect="true"/>
-  <file name="photoblog.html" crc="338925239" seo="true" mt="1608093474668" redirect="true"/>
+  <file name="index.html" crc="231686328" seo="true" redirect="true"/>
+  <file name="photoblog.html" crc="452958389" seo="true" mt="1608106739434" redirect="true"/>
 </manifest>

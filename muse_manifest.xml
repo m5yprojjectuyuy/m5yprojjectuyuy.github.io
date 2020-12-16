@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608036686037">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608077851432">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="19517354" ref="index"/>
-    <file name="photos.css" crc="3989440076" ref="photos"/>
+    <file name="index.css" crc="4087415270" ref="index"/>
+    <file name="photos.css" crc="433888424" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="410159800" seo="true" mt="1607997377000"/>
@@ -98,19 +98,35 @@
     <file name="черногория.jpg" crc="127729953" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="текст-для-траницы-nastie---photos---1.svg" crc="138413004" seo="true" ref="photos">
+    <file name="текст-для-траницы-nastie---photos---2.svg" crc="3919761004" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="текст для траницы nastie - photos - 1_poster_.png" crc="530920987" ref="photos"/>
-    <file name="текст-для-траницы-nastie---photos---2.svg" crc="150504973" seo="true" ref="photos">
+    <file name="текст для траницы nastie - photos - 2_poster_.png" crc="3847930738" ref="photos"/>
+    <file name="текст-для-траницы-nastie---photos---1.svg" crc="497241678" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="текст для траницы nastie - photos - 2_poster_.png" crc="4157004867" ref="photos"/>
-    <file name="текст-для-траницы-nastie---photos---3.svg" crc="107466535" seo="true" ref="photos">
+    <file name="текст для траницы nastie - photos - 1_poster_.png" crc="4030692727" ref="photos"/>
+    <file name="текст-для-траницы-nastie---photos---3.svg" crc="3774493364" seo="true" ref="photos">
       <caption webpage="photos" alt=""/>
     </file>
-    <file name="текст для траницы nastie - photos - 3_poster_.png" crc="122499908" ref="photos"/>
+    <file name="текст для траницы nastie - photos - 3_poster_.png" crc="4271475315" ref="photos"/>
+    <file name="photoblog--текст.svg" crc="369694953" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="photoblog текст_poster_.png" crc="113447673" ref="photos"/>
+    <file name="in-montenegro.svg" crc="3895512173" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="in montenegro _poster_.png" crc="3790682724" ref="photos"/>
+    <file name="theodosia.svg" crc="3848105758" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="theodosia_poster_.png" crc="4254056757" ref="photos"/>
+    <file name="collie.svg" crc="278871788" seo="true" ref="photos">
+      <caption webpage="photos" alt=""/>
+    </file>
+    <file name="collie_poster_.png" crc="4267149265" ref="photos"/>
   </folder>
-  <file name="index.html" crc="202934943" seo="true" mt="1608035846274" redirect="true"/>
-  <file name="photos.html" crc="3864687620" seo="true" mt="1608036621413" redirect="true"/>
+  <file name="index.html" crc="4015094952" seo="true" mt="1608076812179" redirect="true"/>
+  <file name="photos.html" crc="4039749510" seo="true" mt="1608077820206" redirect="true"/>
 </manifest>

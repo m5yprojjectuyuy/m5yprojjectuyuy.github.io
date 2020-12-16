@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608078847081">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608082872767">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
     <file name="index.css" crc="4087415270" ref="index"/>
-    <file name="photoblog.css" crc="3985754523" ref="photoblog"/>
+    <file name="photoblog.css" crc="3843000968" ref="photoblog"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="410159800" seo="true" mt="1607997377000"/>
@@ -126,7 +126,10 @@
       <caption webpage="photoblog" alt=""/>
     </file>
     <file name="collie_poster_.png" crc="4267149265" ref="photoblog"/>
+    <file name="путешествие.gif" crc="3898620689" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="3875784236" seo="true" mt="1608078743647" redirect="true"/>
-  <file name="photoblog.html" crc="51892509" seo="true" mt="1608078743649" redirect="true"/>
+  <file name="photoblog.html" crc="4119393922" seo="true" mt="1608082857043" redirect="true"/>
 </manifest>

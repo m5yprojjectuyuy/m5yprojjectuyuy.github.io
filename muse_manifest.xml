@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608085244598">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608086332123">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="332607304" ref="index"/>
-    <file name="photoblog.css" crc="274519795" ref="photoblog"/>
+    <file name="index.css" crc="84907437" ref="index"/>
+    <file name="photoblog.css" crc="3986975210" ref="photoblog"/>
   </folder>
   <folder name="assets">
     <file name="kolokol.mp3" crc="410159800" seo="true" mt="1607997377000"/>
@@ -108,16 +108,13 @@
       <caption webpage="photoblog" alt=""/>
     </file>
     <file name="theodosia_poster_.png" crc="4254056757" ref="photoblog"/>
-    <file name="феодосия-крым-3.jpg" crc="4025431397" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
-    <file name="феодосия-крым.jpg" crc="4051647308" seo="true" ref="photoblog">
-      <caption webpage="photoblog" alt=""/>
-    </file>
     <file name="текст-для-траницы-nastie---photos---1.svg" crc="4093618184" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
     <file name="текст для траницы nastie - photos - 1_poster_.png" crc="186056253" ref="photoblog"/>
+    <file name="феодосия-крым-5.jpg" crc="3810602051" seo="true" ref="photoblog">
+      <caption webpage="photoblog" alt=""/>
+    </file>
     <file name="collie.svg" crc="278871788" seo="true" ref="photoblog">
       <caption webpage="photoblog" alt=""/>
     </file>
@@ -130,6 +127,6 @@
     </file>
     <file name="текст для траницы nastie - photos - 3_poster_.png" crc="4110013643" ref="photoblog"/>
   </folder>
-  <file name="index.html" crc="4280209009" seo="true" mt="1608085063838" redirect="true"/>
-  <file name="photoblog.html" crc="358311824" seo="true" mt="1608085208734" redirect="true"/>
+  <file name="index.html" crc="4275088652" seo="true" mt="1608085592617" redirect="true"/>
+  <file name="photoblog.html" crc="113470080" seo="true" mt="1608086301903" redirect="true"/>
 </manifest>

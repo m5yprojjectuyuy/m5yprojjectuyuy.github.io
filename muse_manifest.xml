@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608092055446">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Nastie.ml" resolutions="1x" timestamp="1608092961164">
   <folder name="css">
     <file name="site_global.css" crc="4162518342"/>
-    <file name="index.css" crc="4237550327" ref="index"/>
+    <file name="index.css" crc="4032367550" ref="index"/>
     <file name="photoblog.css" crc="4250877452" ref="photoblog"/>
   </folder>
   <folder name="scripts">
@@ -14,17 +14,17 @@
   </folder>
   <folder name="images">
     <file name="nastie-favicon.ico" crc="185933360" ref="index"/>
-    <file name="бабочка-13 a.gif" crc="334092850" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="полоска-3.svg" crc="4054027369" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="полоска 3_poster_.png" crc="122172599" ref="index"/>
     <file name="бабочки-а-1.svg" crc="4283562859" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="бабочки а 1_poster_.png" crc="4240484938" ref="index"/>
+    <file name="полоска-3.svg" crc="4054027369" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="полоска 3_poster_.png" crc="122172599" ref="index"/>
+    <file name="бабочка-13 a.gif" crc="334092850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="nastie---имя---композиция---4.svg" crc="4035551583" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -101,6 +101,6 @@
       <caption webpage="photoblog" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3941783834" seo="true" redirect="true"/>
+  <file name="index.html" crc="3954299602" seo="true" mt="1608092914596" redirect="true"/>
   <file name="photoblog.html" crc="35348913" seo="true" mt="1608091714871" redirect="true"/>
 </manifest>
